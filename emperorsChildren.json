@@ -7,7 +7,7 @@
         "keyword": "Emperors Children",
         "enabled": true,
         "endpoint": "emperorsChildren.json",
-        "allies": [
+        "associatedRulesets": [
             "w40k.10e.ck"
         ]
     },

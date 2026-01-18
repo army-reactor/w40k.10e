@@ -7,7 +7,7 @@
         "keyword": "CHAOS KNIGHTS",
         "enabled": true,
         "endpoint": "chaosKnights.json",
-        "allies": [
+        "associatedRulesets": [
             "w40k.10e.dem"
         ]
     },

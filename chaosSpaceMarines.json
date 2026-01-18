@@ -7,7 +7,7 @@
         "keyword": "HERETIC ASTARTES",
         "enabled": true,
         "endpoint": "chaosSpaceMarines.json",
-        "allies": [
+        "associatedRulesets": [
             "w40k.10e.dmns",
             "w40k.10e.ck"
         ]
