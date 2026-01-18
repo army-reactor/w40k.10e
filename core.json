@@ -41,6 +41,19 @@
             "associatedRulesets": [
                 "w40k.10e.dem"
             ]
+        },
+        {
+            "id": "w40k.10e.csm.config",
+            "type": "config",
+            "rulesetId": "w40k.10e.csm",
+            "name": "Chaos Space Marines",
+            "keyword": "HERETIC ASTARTES",
+            "enabled": true,
+            "endpoint": "chaosSpaceMarines.json",
+            "associatedRulesets": [
+                "w40k.10e.dmns",
+                "w40k.10e.ck"
+            ]
         }
     ]
 }
