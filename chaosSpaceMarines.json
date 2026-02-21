@@ -3179,6 +3179,14 @@
                     "minModels": 2,
                     "maxModels": 2
                 }
+            ],
+            "models": [
+                {
+                    "name": "Chaos Spawn"
+                },
+                {
+                    "name": "Chaos Spawn"
+                }
             ]
         },
         {
@@ -3500,6 +3508,14 @@
                     "cost": 55,
                     "minModels": 2,
                     "maxModels": 2
+                }
+            ],
+            "models": [
+                {
+                    "name": "Traitor Enforcer"
+                },
+                {
+                    "name": "Traitor Ogryn"
                 }
             ]
         },
