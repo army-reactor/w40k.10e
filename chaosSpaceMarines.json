@@ -1430,6 +1430,8 @@
             "blueprints": [
                 {
                     "name": "Raider",
+                    "min": 4,
+                    "max": 9,
                     "equipment": [
                         {
                             "type": "dropdown",
@@ -1473,6 +1475,8 @@
                 },
                 {
                     "name": "Raider Champion",
+                    "min": 1,
+                    "max": 1,
                     "equipment": [
                         {
                             "type": "text",
