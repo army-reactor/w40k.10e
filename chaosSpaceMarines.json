@@ -8,7 +8,7 @@
         "enabled": true,
         "endpoint": "chaosSpaceMarines.json",
         "associatedRulesets": [
-            "w40k.10e.dmns",
+            "w40k.10e.dem",
             "w40k.10e.ck"
         ]
     },
@@ -485,6 +485,92 @@
                 "w10k.10e.tsons.unit.rubrics"
             ],
             "blockedDatasheets": []
+        },
+        {
+            "id": "w40k.10e.csm.dt.huronsMarauders",
+            "type": "detachment",
+            "rulesetId": "w40k.10e.csm",
+            "name": "Hurons Marauders",
+            "enhancements": [
+                {
+                    "name": "Dread Reputation",
+                    "keywordsMustCombined": [],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "points": 25
+                },
+                {
+                    "name": "Eager for Bloodshed",
+                    "keywordsMustCombined": [],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "points": 30
+                },
+                {
+                    "name": "Raid Leader",
+                    "keywordsMustCombined": [],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "points": 20
+                },
+                {
+                    "name": "Voice of the Tyrant",
+                    "keywordsMustCombined": [],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "points": 25
+                }
+            ],
+            "additionalDatasheets": [
+                "w10k.10e.ec.unit.noiseMarines",
+                "w10k.10e.we.unit.berzerkers",
+                "w10k.10e.dg.unit.plagueMarines",
+                "w10k.10e.tsons.unit.rubrics"
+            ],
+            "blockedDatasheets": []
+        },
+        {
+            "id": "w40k.10e.csm.dt.renegadeWarband",
+            "type": "detachment",
+            "rulesetId": "w40k.10e.csm",
+            "name": "Renegade Warband",
+            "enhancements": [
+                {
+                    "name": "Empyric Symbiote",
+                    "keywordsMustCombined": [],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "points": 15
+                },
+                {
+                    "name": "Eyes of the Hunter",
+                    "keywordsMustCombined": [],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "points": 15
+                },
+                {
+                    "name": "Fratricidal Trophies",
+                    "keywordsMustCombined": [],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "points": 5
+                },
+                {
+                    "name": "Weaponised Hatred",
+                    "keywordsMustCombined": [],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "points": 60
+                }
+            ],
+            "additionalDatasheets": [
+                "w10k.10e.ec.unit.noiseMarines",
+                "w10k.10e.we.unit.berzerkers",
+                "w10k.10e.dg.unit.plagueMarines",
+                "w10k.10e.tsons.unit.rubrics"
+            ],
+            "blockedDatasheets": []
         }
     ],
     "units": [
@@ -549,7 +635,7 @@
             "models": [
                 {
                     "name": "Huron Blackheart",
-                    "points": 80
+                    "points": 120
                 }
             ]
         },
@@ -1037,6 +1123,12 @@
                 {
                     "name": "Dark Apostle",
                     "points": 65
+                },
+                {
+                    "name": "Dark Disciple"
+                },
+                {
+                    "name": "Dark Disciple"
                 }
             ]
         },
@@ -1060,6 +1152,23 @@
                     "cost": 90,
                     "minModels": 5,
                     "maxModels": 5
+                }
+            ],
+            "models": [
+                {
+                    "name": "Cult Demagogue"
+                },
+                {
+                    "name": "Mindwitch"
+                },
+                {
+                    "name": "Iconarch"
+                },
+                {
+                    "name": "Blessed Blades"
+                },
+                {
+                    "name": "Blessed Blades"
                 }
             ]
         },
@@ -1295,6 +1404,100 @@
             ]
         },
         {
+            "id": "w40k.10e.csm.unit.raiders",
+            "type": "unit",
+            "rulesetId": "w40k.10e.csm",
+            "name": "Raiders",
+            "role": "INFANTRY",
+            "points": [
+                {
+                    "cost": 110,
+                    "minModels": 5,
+                    "maxModels": 5
+                },
+                {
+                    "cost": 220,
+                    "minModels": 6,
+                    "maxModels": 10
+                }
+            ],
+            "blueprints": [
+                {
+                    "name": "Raider",
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Boltgun"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Meltagun"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Reaver's Blade"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Power Fist"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "items": ["Bolt Pistol"]
+                        }
+                    ]
+                },
+                {
+                    "name": "Raider Champion",
+                    "equipment": [
+                        {
+                            "type": "text",
+                            "items": ["Boltgun"]
+                        },
+                        {
+                            "type": "text",
+                            "items": ["Reaver's Blade"]
+                        },
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Bolt Pistol"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Hand Flamer"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "w40k.10e.csm.unit.cultistMob",
             "type": "unit",
             "rulesetId": "w40k.10e.csm",
@@ -1316,7 +1519,7 @@
                 },
                 {
                     "cost": 100,
-                    "minModels": 20,
+                    "minModels": 11,
                     "maxModels": 20
                 }
             ],
@@ -1423,7 +1626,7 @@
                 },
                 {
                     "cost": 195,
-                    "minModels": 16,
+                    "minModels": 9,
                     "maxModels": 16
                 }
             ],
@@ -1592,6 +1795,34 @@
             ]
         },
         {
+            "id": "w40k.10e.csm.unit.reaveCaptain",
+            "type": "unit",
+            "rulesetId": "w40k.10e.csm",
+            "name": "Reave Captain",
+            "role": "CHARACTER",
+            "models": [
+                {
+                    "name": "Reave Captain",
+                    "points": 75,
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": ["Power Sword"],
+                                    "selected": true
+                                },
+                                {
+                                    "items": ["Power Maul"],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "w40k.10e.csm.unit.possessed",
             "type": "unit",
             "rulesetId": "w40k.10e.csm",
@@ -1611,7 +1842,7 @@
                 },
                 {
                     "cost": 240,
-                    "minModels": 10,
+                    "minModels": 6,
                     "maxModels": 10
                 }
             ],
@@ -1796,6 +2027,37 @@
                             "selected": false
                         }
                     ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.csm.unit.mastersMaelstrom",
+            "type": "unit",
+            "rulesetId": "w40k.10e.csm",
+            "name": "Masters of the Maelstrom",
+            "role": "INFANTRY",
+            "points": [
+                {
+                    "cost": 115,
+                    "minModels": 5,
+                    "maxModels": 5
+                }
+            ],
+            "models": [
+                {
+                    "name": "Garreon the Corpsemaster"
+                },
+                {
+                    "name": "Garlon Souleater"
+                },
+                {
+                    "name": "Katar Garrix"
+                },
+                {
+                    "name": "Captain Sargotta"
+                },
+                {
+                    "name": "The Enforcer"
                 }
             ]
         },

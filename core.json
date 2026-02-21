@@ -1,6 +1,6 @@
 {
     "id": "w40k.10e",
-    "version": "0.1.0",
+    "version": "2",
     "updateNotes": "00/00/0000: Big Bang",
     "name": "Warhammer 40,000: 10th Edition",
     "enabled": true,
@@ -28,6 +28,7 @@
             "enabled": true,
             "endpoint": "chaosDaemons.json",
             "associatedRulesets": [
+                "w40k.10e.ck"
             ]
         },
         {
@@ -51,7 +52,7 @@
             "enabled": true,
             "endpoint": "chaosSpaceMarines.json",
             "associatedRulesets": [
-                "w40k.10e.dmns",
+                "w40k.10e.dem",
                 "w40k.10e.ck"
             ]
         }
