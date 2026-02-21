@@ -1408,7 +1408,13 @@
             "type": "unit",
             "rulesetId": "w40k.10e.csm",
             "name": "Raiders",
-            "role": "INFANTRY",
+            "keywords": [
+                "HERETIC ASTARTES",
+                "CHAOS",
+                "RED CORSAIRS RAIDERS",
+                "INFANTRY",
+                "GRENADES"
+            ],
             "points": [
                 {
                     "cost": 110,
@@ -1799,7 +1805,13 @@
             "type": "unit",
             "rulesetId": "w40k.10e.csm",
             "name": "Reave Captain",
-            "role": "CHARACTER",
+            "keywords": [
+                "HERETIC ASTARTES",
+                "CHAOS",
+                "CHARACTER",
+                "RED CORSAIRS REAVE CAPTAIN",
+                "INFANTRY"
+            ],
             "models": [
                 {
                     "name": "Reave Captain",
@@ -2035,7 +2047,16 @@
             "type": "unit",
             "rulesetId": "w40k.10e.csm",
             "name": "Masters of the Maelstrom",
-            "role": "INFANTRY",
+            "keywords": [
+                "HERETIC ASTARTES",
+                "CHAOS",
+                "CHAOS UNDIVIDED",
+                "EPIC HERO",
+                "GRENADES",
+                "INFANTRY",
+                "PSYKER",
+                "MASTERS OF THE MAELSTROM"
+            ],
             "points": [
                 {
                     "cost": 115,
