@@ -1253,7 +1253,8 @@
                                 },
                                 {
                                     "items": [
-                                        "Plasma Pistol"
+                                        "Plasma Pistol",
+                                        "Astartes Chainsword"
                                     ],
                                     "selected": false
                                 },
@@ -1308,6 +1309,10 @@
                             ]
                         },
                         {
+                            "type": "text",
+                            "items": ["Bolt Pistol"]
+                        },
+                        {
                             "type": "checkbox",
                             "items": [
                                 "Chaos Icon"
@@ -1332,8 +1337,7 @@
                                 },
                                 {
                                     "items": [
-                                        "Plasma Pistol",
-                                        "Astartes Chainsword"
+                                        "Plasma Pistol"
                                     ],
                                     "selected": false
                                 },
