@@ -4,7 +4,7 @@
         "type": "config",
         "rulesetId": "w40k.10e.we",
         "name": "World Eaters",
-        "keyword": "World Eaters",
+        "keyword": "WORLD EATERS",
         "enabled": true,
         "endpoint": "worldEaters.json",
         "associatedRulesets": [

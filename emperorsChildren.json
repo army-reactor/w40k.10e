@@ -200,11 +200,11 @@
                 }
             ],
             "additionalDatasheets": [
-                "w10k.10e.dem.unit.shalaxi",
-                "w10k.10e.dem.unit.keeper",
-                "w10k.10e.dem.unit.daemonettes",
-                "w10k.10e.dem.unit.fiends",
-                "w10k.10e.dem.unit.seekers"
+                "w40k.10e.dem.unit.shalaxi",
+                "w40k.10e.dem.unit.keeper",
+                "w40k.10e.dem.unit.daemonettes",
+                "w40k.10e.dem.unit.fiends",
+                "w40k.10e.dem.unit.seekers"
             ],
             "blockedDatasheets": []
         },
