@@ -14,6 +14,49 @@
     },
     "detachments": [
         {
+            "id": "w40k.10e.csm.dt.renegadeWarband",
+            "type": "detachment",
+            "rulesetId": "w40k.10e.csm",
+            "name": "Renegade Warband",
+            "enhancements": [
+                {
+                    "name": "Empyric Symbiote",
+                    "keywordsMustCombined": [],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "points": 15
+                },
+                {
+                    "name": "Eyes of the Hunter",
+                    "keywordsMustCombined": [],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "points": 15
+                },
+                {
+                    "name": "Fratricidal Trophies",
+                    "keywordsMustCombined": [],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "points": 5
+                },
+                {
+                    "name": "Weaponised Hatred",
+                    "keywordsMustCombined": [],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "points": 60
+                }
+            ],
+            "additionalDatasheets": [
+                "w10k.10e.ec.unit.noiseMarines",
+                "w10k.10e.we.unit.berzerkers",
+                "w10k.10e.dg.unit.plagueMarines",
+                "w10k.10e.tsons.unit.rubrics"
+            ],
+            "blockedDatasheets": []
+        },
+        {
             "id": "w40k.10e.csm.dt.veteransLongWar",
             "type": "detachment",
             "rulesetId": "w40k.10e.csm",
@@ -519,49 +562,6 @@
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "points": 25
-                }
-            ],
-            "additionalDatasheets": [
-                "w10k.10e.ec.unit.noiseMarines",
-                "w10k.10e.we.unit.berzerkers",
-                "w10k.10e.dg.unit.plagueMarines",
-                "w10k.10e.tsons.unit.rubrics"
-            ],
-            "blockedDatasheets": []
-        },
-        {
-            "id": "w40k.10e.csm.dt.renegadeWarband",
-            "type": "detachment",
-            "rulesetId": "w40k.10e.csm",
-            "name": "Renegade Warband",
-            "enhancements": [
-                {
-                    "name": "Empyric Symbiote",
-                    "keywordsMustCombined": [],
-                    "keywordsMustSeparate": [],
-                    "keywordsBlocked": [],
-                    "points": 15
-                },
-                {
-                    "name": "Eyes of the Hunter",
-                    "keywordsMustCombined": [],
-                    "keywordsMustSeparate": [],
-                    "keywordsBlocked": [],
-                    "points": 15
-                },
-                {
-                    "name": "Fratricidal Trophies",
-                    "keywordsMustCombined": [],
-                    "keywordsMustSeparate": [],
-                    "keywordsBlocked": [],
-                    "points": 5
-                },
-                {
-                    "name": "Weaponised Hatred",
-                    "keywordsMustCombined": [],
-                    "keywordsMustSeparate": [],
-                    "keywordsBlocked": [],
-                    "points": 60
                 }
             ],
             "additionalDatasheets": [

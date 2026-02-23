@@ -14,6 +14,44 @@
     },
     "detachments": [
         {
+            "id": "w40k.10e.ec.dt.coterieConceited",
+            "type": "detachment",
+            "rulesetId": "w40k.10e.ec",
+            "name": "Coterie of the Conceited",
+            "enhancements": [
+                {
+                    "name": "Pledge of Eternal Servitude",
+                    "keywordsMustCombined": ["EMPERORS CHILDREN"],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "points": 25
+                },
+                {
+                    "name": "Pledge of Dark Glory",
+                    "keywordsMustCombined": ["EMPERORS CHILDREN"],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "points": 25
+                },
+                {
+                    "name": "Pledge of Mortal Pain",
+                    "keywordsMustCombined": ["EMPERORS CHILDREN"],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "points": 15
+                },
+                {
+                    "name": "Pledge of Unholy Fortune",
+                    "keywordsMustCombined": ["EMPERORS CHILDREN"],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "points": 30
+                }
+            ],
+            "additionalDatasheets": [],
+            "blockedDatasheets": []
+        },
+        {
             "id": "w40k.10e.ec.dt.mercurialHost",
             "type": "detachment",
             "rulesetId": "w40k.10e.ec",
@@ -169,44 +207,6 @@
                 "w10k.10e.dem.unit.fiends",
                 "w10k.10e.dem.unit.seekers"
             ],
-            "blockedDatasheets": []
-        },
-        {
-            "id": "w40k.10e.ec.dt.coterieConceited",
-            "type": "detachment",
-            "rulesetId": "w40k.10e.ec",
-            "name": "Coterie of the Conceited",
-            "enhancements": [
-                {
-                    "name": "Pledge of Eternal Servitude",
-                    "keywordsMustCombined": ["EMPERORS CHILDREN"],
-                    "keywordsMustSeparate": [],
-                    "keywordsBlocked": [],
-                    "points": 25
-                },
-                {
-                    "name": "Pledge of Dark Glory",
-                    "keywordsMustCombined": ["EMPERORS CHILDREN"],
-                    "keywordsMustSeparate": [],
-                    "keywordsBlocked": [],
-                    "points": 25
-                },
-                {
-                    "name": "Pledge of Mortal Pain",
-                    "keywordsMustCombined": ["EMPERORS CHILDREN"],
-                    "keywordsMustSeparate": [],
-                    "keywordsBlocked": [],
-                    "points": 15
-                },
-                {
-                    "name": "Pledge of Unholy Fortune",
-                    "keywordsMustCombined": ["EMPERORS CHILDREN"],
-                    "keywordsMustSeparate": [],
-                    "keywordsBlocked": [],
-                    "points": 30
-                }
-            ],
-            "additionalDatasheets": [],
             "blockedDatasheets": []
         },
         {
