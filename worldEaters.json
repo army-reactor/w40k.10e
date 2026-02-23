@@ -1,0 +1,148 @@
+{
+    "config": {
+        "id": "w40k.10e.we.config",
+        "type": "config",
+        "rulesetId": "w40k.10e.we",
+        "name": "World Eaters",
+        "keyword": "World Eaters",
+        "enabled": true,
+        "endpoint": "worldEaters.json",
+        "associatedRulesets": [
+            "w40k.10e.ck"
+        ]
+    },
+    "detachments": [
+        {
+            "id": "w40k.10e.we.dt.berzerkerWarband",
+            "type": "detachment",
+            "rulesetId": "w40k.10e.we",
+            "name": "Berzerker Warband",
+            "enhancements": [
+                {
+                    "name": "Favoured of Khorne",
+                    "keywordsMustCombined": ["WORLD EATERS"],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "points": 15
+                },
+                {
+                    "name": "Berzerker Glaive",
+                    "keywordsMustCombined": ["WORLD EATERS"],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "points": 35
+                },
+                {
+                    "name": "Battle Lust",
+                    "keywordsMustCombined": ["WORLD EATERS"],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "points": 10
+                },
+                {
+                    "name": "Helm of Brazen Ire",
+                    "keywordsMustCombined": ["WORLD EATERS"],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "points": 30
+                }
+            ],
+            "additionalDatasheets": [],
+            "blockedDatasheets": []
+        }
+    ],
+    "units": [
+        {
+            "id": "w40k.10e.we.unit.khorneBerzerkers",
+            "type": "unit",
+            "rulesetId": "w40k.10e.we",
+            "name": "Khorne Berzerkers",
+            "keywords": ["WORLD EATERS", "CHAOS", "KHORNE", "KHORNE BERZERKERS", "BATTLELINE", "INFANTRY", "GRENADES"],
+            "points": [
+                {
+                    "cost": 360,
+                    "minModels": 11,
+                    "maxModels": 20
+                },
+                {
+                    "cost": 180,
+                    "minModels": 10,
+                    "maxModels": 10
+                }
+            ],
+            "blueprints": [
+                {
+                    "name": "Khorne Berzerker",
+                    "min": 9,
+                    "max": 19,
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": ["Bolt Pistol"],
+                                    "selected": true
+                                },
+                                {
+                                    "items": ["Plasma Pistol"],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": ["Chainblade"],
+                                    "selected": true
+                                },
+                                {
+                                    "items": ["Khornate Eviscerator"],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "checkbox",
+                            "items": ["Icon of Khorne"],
+                            "selected": false
+                        }
+                    ]
+                },
+                {
+                    "name": "Khorne Berzerker Champion",
+                    "min": 1,
+                    "max": 1,
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": ["Bolt Pistol"],
+                                    "selected": true
+                                },
+                                {
+                                    "items": ["Plasma Pistol"],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "selectedOption": {
+                                "name": "Chainblade"
+                            }
+                        },
+                        {
+                            "type": "checkbox",
+                            "selectedOption": {
+                                "name": "Icon of Khorne"
+                            },
+                            "selected": false
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,24 +1,11 @@
 {
     "id": "w40k.10e",
-    "version": "8",
+    "version": "9",
     "updateNotes": "00/00/0000: Big Bang",
     "name": "Warhammer 40,000: 10th Edition",
     "enabled": true,
     "path": "https://raw.githubusercontent.com/army-reactor/w40k.10e/master/",
     "configs": [
-        {
-            "id": "w40k.10e.ec.config",
-            "type": "config",
-            "rulesetId": "w40k.10e.ec",
-            "name": "Emperors Children",
-            "keyword": "EMPERORS CHILDREN",
-            "enabled": true,
-            "endpoint": "emperorsChildren.json",
-            "associatedRulesets": [
-                "w40k.10e.dem",
-                "w40k.10e.ck"
-            ]
-        },
         {
             "id": "w40k.10e.dem.config",
             "type": "config",
@@ -53,6 +40,54 @@
             "endpoint": "chaosSpaceMarines.json",
             "associatedRulesets": [
                 "w40k.10e.dem",
+                "w40k.10e.ck"
+            ]
+        },
+        {
+            "id": "w40k.10e.ec.config",
+            "type": "config",
+            "rulesetId": "w40k.10e.ec",
+            "name": "Emperors Children",
+            "keyword": "EMPERORS CHILDREN",
+            "enabled": true,
+            "endpoint": "emperorsChildren.json",
+            "associatedRulesets": [
+                "w40k.10e.ck"
+            ]
+        },
+        {
+            "id": "w40k.10e.we.config",
+            "type": "config",
+            "rulesetId": "w40k.10e.we",
+            "name": "World Eaters",
+            "keyword": "WORLD EATERS",
+            "enabled": true,
+            "endpoint": "worldEaters.json",
+            "associatedRulesets": [
+                "w40k.10e.ck"
+            ]
+        },
+        {
+            "id": "w40k.10e.dg.config",
+            "type": "config",
+            "rulesetId": "w40k.10e.dg",
+            "name": "Death Guard",
+            "keyword": "DEATH GUARD",
+            "enabled": true,
+            "endpoint": "deathGuard.json",
+            "associatedRulesets": [
+                "w40k.10e.ck"
+            ]
+        },
+        {
+            "id": "w40k.10e.tsons.config",
+            "type": "config",
+            "rulesetId": "w40k.10e.tsons",
+            "name": "Thousand Sons",
+            "keyword": "THOUSAND SONS",
+            "enabled": true,
+            "endpoint": "thousandSons.json",
+            "associatedRulesets": [
                 "w40k.10e.ck"
             ]
         }
