@@ -3164,6 +3164,10 @@
                     "points": 75,
                     "equipment": [
                         {
+                            "type": "text",
+                            "items": ["Combi-bolter"]
+                        },
+                        {
                             "type": "dropdown",
                             "options": [
                                 {
