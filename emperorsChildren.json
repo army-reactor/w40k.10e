@@ -201,7 +201,7 @@
             ],
             "additionalDatasheets": [
                 "w40k.10e.dem.unit.shalaxi",
-                "w40k.10e.dem.unit.keeper",
+                "w40k.10e.dem.unit.keeperOfSecrets",
                 "w40k.10e.dem.unit.daemonettes",
                 "w40k.10e.dem.unit.fiends",
                 "w40k.10e.dem.unit.seekers"
