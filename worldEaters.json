@@ -73,7 +73,7 @@
                         },
                         {
                             "type": "text",
-                            "items": ["uggernaut's Bladed Horn"]
+                            "items": ["Juggernaut's Bladed Horn"]
                         }
                     ]
                 }
@@ -92,7 +92,7 @@
                     "maxModels": 20
                 },
                 {
-                    "cost": 180,
+                    "cost": 190,
                     "minModels": 10,
                     "maxModels": 10
                 }
@@ -156,15 +156,11 @@
                         },
                         {
                             "type": "text",
-                            "selectedOption": {
-                                "name": "Chainblade"
-                            }
+                            "items": ["Chainblade"]
                         },
                         {
                             "type": "checkbox",
-                            "selectedOption": {
-                                "name": "Icon of Khorne"
-                            },
+                            "items": ["Icon of Khorne"],
                             "selected": false
                         }
                     ]
