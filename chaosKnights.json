@@ -220,7 +220,7 @@
                 "w40k.10e.csm.unit.cultistMob",
                 "w40k.10e.csm.unit.accursedCultists",
                 "w40k.10e.csm.unit.fellgorBeastmen",
-                "w40k.10e.csm.unit.traitorGuard"
+                "w40k.10e.csm.unit.traitorGuardsmen"
             ],
             "blockedDatasheets": []
         }
