@@ -37,7 +37,7 @@
                     "keywordsMustCombined": ["WORLD EATERS"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
-                    "points": 10
+                    "points": 20
                 },
                 {
                     "name": "Helm of Brazen Ire",
@@ -53,6 +53,33 @@
     ],
     "units": [
         {
+            "id": "w40k.10e.we.unit.lordOnJuggernaut",
+            "type": "unit",
+            "rulesetId": "w40k.10e.we",
+            "name": "Lord on Juggernaut",
+            "keywords": ["WORLD EATERS", "CHAOS", "KHORNE", "LORD ON JUGGERNAUT", "MOUNTED", "CHARACTER"],
+            "models": [
+                {
+                    "name": "Lord on Juggernaut",
+                    "points": 115,
+                    "equipment": [
+                        {
+                            "type": "text",
+                            "items": ["Exalted Chainblade"]
+                        },
+                        {
+                            "type": "text",
+                            "items": ["Plasma Pistol"]
+                        },
+                        {
+                            "type": "text",
+                            "items": ["uggernaut's Bladed Horn"]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "w40k.10e.we.unit.khorneBerzerkers",
             "type": "unit",
             "rulesetId": "w40k.10e.we",
@@ -65,7 +92,7 @@
                     "maxModels": 20
                 },
                 {
-                    "cost": 180,
+                    "cost": 190,
                     "minModels": 10,
                     "maxModels": 10
                 }
