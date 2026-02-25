@@ -37,7 +37,7 @@
                     "keywordsMustCombined": ["WORLD EATERS"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
-                    "points": 20
+                    "points": 10
                 },
                 {
                     "name": "Helm of Brazen Ire",
@@ -61,7 +61,7 @@
             "models": [
                 {
                     "name": "Lord on Juggernaut",
-                    "points": 115,
+                    "points": 105,
                     "equipment": [
                         {
                             "type": "text",
@@ -92,7 +92,7 @@
                     "maxModels": 20
                 },
                 {
-                    "cost": 190,
+                    "cost": 180,
                     "minModels": 10,
                     "maxModels": 10
                 }
