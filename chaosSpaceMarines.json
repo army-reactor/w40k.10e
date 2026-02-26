@@ -2409,12 +2409,24 @@
                 {
                     "name": "Warp Talon",
                     "min": 4,
-                    "max": 9
+                    "max": 9,
+                    "equipment": [
+                        {
+                            "type": "text",
+                            "items": ["Warp Claws"]
+                        }
+                    ]
                 },
                 {
                     "name": "Warp Talon Champion",
                     "min": 1,
-                    "max": 1
+                    "max": 1,
+                    "equipment": [
+                        {
+                            "type": "text",
+                            "items": ["Warp Claws"]
+                        }
+                    ]
                 }
             ]
         },
@@ -2581,7 +2593,17 @@
                 {
                     "name": "Obliterator",
                     "min": 2,
-                    "max": 2
+                    "max": 2,
+                    "equipment": [
+                        {
+                            "type": "text",
+                            "items": ["Fleshmetal Guns"]
+                        },
+                        {
+                            "type": "text",
+                            "items": ["Crushing Fists"]
+                        }
+                    ]
                 }
             ]
         },
@@ -2657,6 +2679,10 @@
                     "points": 135,
                     "equipment": [
                         {
+                            "type": "text",
+                            "items": ["Predator Twin Lascannon"]
+                        },
+                        {
                             "type": "dropdown",
                             "options": [
                                 {
@@ -2724,6 +2750,10 @@
                             "type": "dropdown",
                             "options": [
                                 {
+                                    "type": "text",
+                                    "items": ["Predator Autocannon"]
+                                },
+                                {
                                     "items": [
                                         "Heavy Bolter",
                                         "Heavy Bolter"
@@ -2784,6 +2814,10 @@
                     "name": "Vindicator",
                     "points": 185,
                     "equipment": [
+                        {
+                            "type": "text",
+                            "items": ["Demolisher Cannon"]
+                        },
                         {
                             "type": "dropdown",
                             "options": [
@@ -3099,6 +3133,10 @@
                                     "selected": false
                                 }
                             ]
+                        },
+                        {
+                            "type": "text",
+                            "items": ["Heldrake Claws"]
                         }
                     ]
                 }
@@ -3125,6 +3163,10 @@
                         {
                             "type": "dropdown",
                             "options": [
+                                {
+                                    "type": "text",
+                                    "items": ["Maulerfiend Fists"]
+                                },
                                 {
                                     "items": [
                                         "Lasher Tendrils"
@@ -3281,6 +3323,10 @@
                                     "selected": false
                                 }
                             ]
+                        },
+                        {
+                            "type": "text",
+                            "items": ["Great Cleaver of Khorne"]
                         }
                     ]
                 }
@@ -3336,7 +3382,6 @@
                 "CHAOS",
                 "TRAITOR GUARDSMEN SQUAD",
                 "INFANTRY",
-                "BATTLELINE",
                 "GRENADES",
                 "DAMNED"
             ],
