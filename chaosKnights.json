@@ -175,6 +175,17 @@
                     "points": 15
                 }
             ],
+            "additionalEquipment": [
+                {
+                    "type": "checkbox",
+                    "items": [
+                        "Character"
+                    ],
+                    "keywordsRequired": ["WAR DOG"],
+                    "keywordsConferred": ["CHARACTER"],
+                    "selected": false
+                }
+            ],
             "additionalDatasheets": [],
             "blockedDatasheets": []
         },
@@ -270,7 +281,7 @@
             "type": "unit",
             "rulesetId": "w40k.10e.ck",
             "name": "War Dog Stalker",
-            "keywords": ["CHAOS KNIGHTS", "CHAOS", "STALKER", "CHARACTER", "VEHICLE", "WALKER"],
+            "keywords": ["CHAOS KNIGHTS", "CHAOS", "STALKER", "WAR DOG", "VEHICLE", "WALKER"],
             "models": [
                 {
                     "name": "War Dog Stalker",
@@ -324,7 +335,7 @@
             "type": "unit",
             "rulesetId": "w40k.10e.ck",
             "name": "War Dog Karnivore",
-            "keywords": ["CHAOS KNIGHTS", "CHAOS", "KARNIVORE", "VEHICLE", "WALKER"],
+            "keywords": ["CHAOS KNIGHTS", "CHAOS", "KARNIVORE", "WAR DOG", "VEHICLE", "WALKER"],
             "models": [
                 {
                     "name": "War Dog Karnivore",
@@ -367,7 +378,7 @@
             "type": "unit",
             "rulesetId": "w40k.10e.ck",
             "name": "War Dog Brigand",
-            "keywords": ["CHAOS KNIGHTS", "CHAOS", "BRIGAND", "VEHICLE", "WALKER"],
+            "keywords": ["CHAOS KNIGHTS", "CHAOS", "BRIGAND", "WAR DOG", "VEHICLE", "WALKER"],
             "models": [
                 {
                     "name": "War Dog Brigand",
@@ -410,7 +421,7 @@
             "type": "unit",
             "rulesetId": "w40k.10e.ck",
             "name": "War Dog Huntsman",
-            "keywords": ["CHAOS KNIGHTS", "CHAOS", "HUNTSMAN", "VEHICLE", "WALKER"],
+            "keywords": ["CHAOS KNIGHTS", "CHAOS", "HUNTSMAN", "WAR DOG", "VEHICLE", "WALKER"],
             "models": [
                 {
                     "name": "War Dog Huntsman",
