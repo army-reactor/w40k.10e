@@ -92,7 +92,7 @@
                     "maxModels": 20
                 },
                 {
-                    "cost": 190,
+                    "cost": 180,
                     "minModels": 10,
                     "maxModels": 10
                 }
