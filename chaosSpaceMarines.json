@@ -1658,7 +1658,7 @@
             ]
         },
         {
-            "id": "w40k.10e.csm.unit.terminatorSquad",
+            "id": "w40k.10e.csm.unit.chaosTerminators",
             "type": "unit",
             "rulesetId": "w40k.10e.csm",
             "name": "Terminator Squad",
@@ -1898,7 +1898,7 @@
             ]
         },
         {
-            "id": "w40k.10e.csm.unit.Chosen",
+            "id": "w40k.10e.csm.unit.chosen",
             "type": "unit",
             "rulesetId": "w40k.10e.csm",
             "name": "Chosen",

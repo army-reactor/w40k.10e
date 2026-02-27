@@ -264,13 +264,6 @@
                                     "selected": false
                                 }
                             ]
-                        },
-                        {
-                            "detachmentId": "w40k.10e.ck.dt.houndpack",
-                            "type": "checkbox",
-                            "items": ["CHARACTER"],
-                            "selected": false,
-                            "addAsKeyword": true
                         }
                     ]
                 }
@@ -361,13 +354,6 @@
                                     "selected": false
                                 }
                             ]
-                        },
-                        {
-                            "detachmentId": "w40k.10e.ck.dt.houndpack",
-                            "type": "checkbox",
-                            "items": ["CHARACTER"],
-                            "selected": false,
-                            "addAsKeyword": true
                         }
                     ]
                 }
@@ -404,13 +390,6 @@
                                     "selected": false
                                 }
                             ]
-                        },
-                        {
-                            "detachmentId": "w40k.10e.ck.dt.houndpack",
-                            "type": "checkbox",
-                            "items": ["CHARACTER"],
-                            "selected": false,
-                            "addAsKeyword": true
                         }
                     ]
                 }
@@ -447,13 +426,6 @@
                                     "selected": false
                                 }
                             ]
-                        },
-                        {
-                            "detachmentId": "w40k.10e.ck.dt.houndpack",
-                            "type": "checkbox",
-                            "items": ["CHARACTER"],
-                            "selected": false,
-                            "addAsKeyword": true
                         }
                     ]
                 }
@@ -1010,13 +982,6 @@
                                     "selected": false
                                 }
                             ]
-                        },
-                        {
-                            "detachmentId": "w40k.10e.ck.dt.houndpack",
-                            "type": "checkbox",
-                            "items": ["CHARACTER"],
-                            "selected": false,
-                            "addAsKeyword": true
                         }
                     ]
                 }
