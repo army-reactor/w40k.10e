@@ -49,9 +49,284 @@
             ],
             "additionalDatasheets": [],
             "blockedDatasheets": []
+        },
+        {
+            "id": "w40k.10e.we.dt.possessedSlaughterband",
+            "type": "detachment",
+            "rulesetId": "w40k.10e.we",
+            "name": "Possessed Slaughterband",
+            "enhancements": [
+                {
+                    "name": "Malicious Vigour",
+                    "keywordsMustCombined": ["WORLD EATERS", "SLAUGHTERBOUND"],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "points": 30
+                },
+                {
+                    "name": "Killing Clarity",
+                    "keywordsMustCombined": ["WORLD EATERS", "DAEMON"],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "points": 15
+                },
+                {
+                    "name": "Frenzied Focus",
+                    "keywordsMustCombined": ["WORLD EATERS", "DAEMON"],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "points": 20
+                },
+                {
+                    "name": "Violent Demise",
+                    "keywordsMustCombined": ["WORLD EATERS", "DAEMON"],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "points": 10
+                }
+            ],
+            "additionalDatasheets": [],
+            "blockedDatasheets": []
+        },
+        {
+            "id": "w40k.10e.we.dt.vesselsWrath",
+            "type": "detachment",
+            "rulesetId": "w40k.10e.we",
+            "name": "Vessels of Wrath",
+            "enhancements": [
+                {
+                    "name": "Archslaughterer",
+                    "keywordsMustCombined": ["WORLD EATERS"],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "points": 25
+                },
+                {
+                    "name": "Vox-Diabolus",
+                    "keywordsMustCombined": ["WORLD EATERS"],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "points": 20
+                },
+                {
+                    "name": "Avenger's Crown",
+                    "keywordsMustCombined": ["WORLD EATERS"],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "points": 15
+                },
+                {
+                    "name": "Gateways to Glory",
+                    "keywordsMustCombined": ["WORLD EATERS"],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": ["DAEMON PRINCE WITH WINGS", "INFANTRY"],
+                    "points": 10
+                }
+            ],
+            "additionalDatasheets": [],
+            "blockedDatasheets": []
+        },
+        {
+            "id": "w40k.10e.we.dt.daemonkin",
+            "type": "detachment",
+            "rulesetId": "w40k.10e.we",
+            "name": "Khorne Daemonkin",
+            "enhancements": [
+                {
+                    "name": "Icon of War",
+                    "keywordsMustCombined": ["WORLD EATERS"],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "points": 25
+                },
+                {
+                    "name": "Blood-Forged Armour",
+                    "keywordsMustCombined": [],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "points": 20
+                },
+                {
+                    "name": "Disciple of Khorne",
+                    "keywordsMustCombined": ["WORLD EATERS", "LORD ON JUGGERNAUT"],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "points": 15
+                },
+                {
+                    "name": "Blade of Endless Bloodshed",
+                    "keywordsMustCombined": ["WORLD EATERS"],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "points": 10
+                }
+            ],
+            "additionalDatasheets": [],
+            "blockedDatasheets": []
+        },
+        {
+            "id": "w40k.10e.we.dt.cultOfBlood",
+            "type": "detachment",
+            "rulesetId": "w40k.10e.we",
+            "name": "Cult of Blood",
+            "enhancements": [
+                {
+                    "name": "Chosen of the Blood God",
+                    "keywordsMustCombined": ["WORLD EATERS", "MONSTER"],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "points": 15
+                },
+                {
+                    "name": "Butcher Lord",
+                    "keywordsMustCombined": ["WORLD EATERS", "INFANTRY"],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "points": 10
+                },
+                {
+                    "name": "Brazen Form",
+                    "keywordsMustCombined": ["WORLD EATERS", "MONSTER"],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "points": 25
+                },
+                {
+                    "name": "Strategic Slaughter",
+                    "keywordsMustCombined": ["WORLD EATERS"],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "points": 20
+                }
+            ],
+            "additionalDatasheets": [],
+            "blockedDatasheets": []
+        },
+        {
+            "id": "w40k.10e.we.dt.goretrackOnslaught",
+            "type": "detachment",
+            "rulesetId": "w40k.10e.we",
+            "name": "Goretrack Onslaught",
+            "enhancements": [
+                {
+                    "name": "Murderous Onslaught",
+                    "keywordsMustCombined": ["WORLD EATERS"],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "points": 5
+                },
+                {
+                    "name": "Aggressive Deployment",
+                    "keywordsMustCombined": ["WORLD EATERS"],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "points": 20
+                },
+                {
+                    "name": "Unleash Hell",
+                    "keywordsMustCombined": ["WORLD EATERS"],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "points": 10
+                },
+                {
+                    "name": "Infernal Fusion",
+                    "keywordsMustCombined": ["WORLD EATERS"],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "points": 25
+                }
+            ],
+            "additionalDatasheets": [],
+            "blockedDatasheets": []
         }
     ],
     "units": [
+        {
+            "id": "w40k.10e.we.unit.angron",
+            "type": "unit",
+            "rulesetId": "w40k.10e.we",
+            "name": "Angron",
+            "keywords": ["WORLD EATERS", "CHAOS", "KHORNE", "ANGRON", "MONSTER", "CHARACTER", "FLY", "EPIC HERO", "DAEMON", "PRIMARCH"],
+            "models": [
+                {
+                    "name": "Angron",
+                    "points": 340
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.we.unit.kharn",
+            "type": "unit",
+            "rulesetId": "w40k.10e.we",
+            "name": "Kharn the Betrayer",
+            "keywords": ["WORLD EATERS", "CHAOS", "KHORNE", "KHARN THE BETRAYER", "INFANTRY", "CHARACTER", "EPIC HERO", "GRENADES"],
+            "models": [
+                {
+                    "name": "Kharn the Betrayer",
+                    "points": 100
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.we.unit.invocatus",
+            "type": "unit",
+            "rulesetId": "w40k.10e.we",
+            "name": "Lord Invocatus",
+            "keywords": ["WORLD EATERS", "CHAOS", "KHORNE", "LORD INVOCATUS", "MOUNTED", "CHARACTER", "EPIC HERO"],
+            "models": [
+                {
+                    "name": "Lord Invocatus",
+                    "points": 110
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.we.unit.daemonPrince",
+            "type": "unit",
+            "rulesetId": "w40k.10e.we",
+            "name": "Daemon Prince",
+            "keywords": ["WORLD EATERS", "CHAOS", "KHORNE", "DAEMON PRINCE", "MONSTER", "CHARACTER", "DAEMON"],
+            "models": [
+                {
+                    "name": "Daemon Prince",
+                    "points": 200,
+                    "equipment": [
+                        {
+                            "type": "text",
+                            "items": ["Hellforged Weapon"]
+                        },
+                        {
+                            "type": "text",
+                            "items": ["Infernal Cannon"]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.we.unit.daemonPrinceWings",
+            "type": "unit",
+            "rulesetId": "w40k.10e.we",
+            "name": "Daemon Prince with Wings",
+            "keywords": ["WORLD EATERS", "CHAOS", "KHORNE", "DAEMON PRINCE WITH WINGS", "FLY", "MONSTER", "CHARACTER", "DAEMON"],
+            "models": [
+                {
+                    "name": "Daemon Prince with Wings",
+                    "points": 180,
+                    "equipment": [
+                        {
+                            "type": "text",
+                            "items": ["Hellforged Weapon"]
+                        },
+                        {
+                            "type": "text",
+                            "items": ["Infernal Cannon"]
+                        }
+                    ]
+                }
+            ]
+        },
         {
             "id": "w40k.10e.we.unit.lordOnJuggernaut",
             "type": "unit",
@@ -76,6 +351,46 @@
                             "items": ["Juggernaut's Bladed Horn"]
                         }
                     ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.we.unit.masterExecutions",
+            "type": "unit",
+            "rulesetId": "w40k.10e.we",
+            "name": "Master of Executions",
+            "keywords": ["WORLD EATERS", "CHAOS", "KHORNE", "MASTER OF EXECUTIONS", "INFANTRY", "CHARACTER"],
+            "models": [
+                {
+                    "name": "Master of Executions",
+                    "points": 60,
+                    "equipment": [
+                        {
+                            "type": "text",
+                            "selectedOption": {
+                                "name": "Axe of Dismemberment"
+                            }
+                        },
+                        {
+                            "type": "text",
+                            "selectedOption": {
+                                "name": "Bolt Pistol"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.we.unit.slaughterbound",
+            "type": "unit",
+            "rulesetId": "w40k.10e.we",
+            "name": "Slaughterbound",
+            "keywords": ["WORLD EATERS", "CHAOS", "KHORNE", "SLAUGHTERBOUND", "INFANTRY", "CHARACTER", "DAEMON", "POSSESSED"],
+            "models": [
+                {
+                    "name": "Slaughterbound",
+                    "points": 100
                 }
             ]
         },
@@ -162,6 +477,1017 @@
                             "type": "checkbox",
                             "items": ["Icon of Khorne"],
                             "selected": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.we.unit.jakhals",
+            "type": "unit",
+            "rulesetId": "w40k.10e.we",
+            "name": "Jakhals",
+            "keywords": ["WORLD EATERS", "CHAOS", "KHORNE", "JAKHALS", "INFANTRY", "GRENADES"],
+            "points": [
+                {
+                    "cost": 140,
+                    "minModels": 11,
+                    "maxModels": 20
+                },
+                {
+                    "cost": 65,
+                    "minModels": 10,
+                    "maxModels": 10
+                }
+            ],
+            "blueprints": [
+                {
+                    "name": "Jakhal",
+                    "min": 8,
+                    "max": 17,
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": ["Chainblades"],
+                                    "selected": true
+                                },
+                                {
+                                    "items": ["Mauler Chainblade"],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "selectedOption": {
+                                "name": "Autopistol"
+                            }
+                        },
+                        {
+                            "type": "checkbox",
+                            "items": ["Icon of Khorne"],
+                            "selected": false
+                        }
+                    ]
+                },
+                {
+                    "name": "Dishonoured",
+                    "min": 1,
+                    "max": 2,
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": ["Paired Manglers"],
+                                    "selected": true
+                                },
+                                {
+                                    "items": ["Skullsmasher and Mangler"],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Jakhal Pack Leader",
+                    "min": 1,
+                    "max": 1,
+                    "equipment": [
+                        {
+                            "type": "text",
+                            "selectedOption": {
+                                "name": "Chainblades"
+                            }
+                        },
+                        {
+                            "type": "text",
+                            "selectedOption": {
+                                "name": "Autopistol"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.we.unit.goremongers",
+            "type": "unit",
+            "rulesetId": "w40k.10e.we",
+            "name": "Goremongers",
+            "keywords": ["WORLD EATERS", "CHAOS", "KHORNE", "GOREMONGERS", "INFANTRY", "GRENADES"],
+            "points": [
+                {
+                    "cost": 75,
+                    "minModels": 8,
+                    "maxModels": 8
+                }
+            ],
+            "blueprints": [
+                {
+                    "name": "Goremonger",
+                    "min": 7,
+                    "max": 7,
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": ["Chainblade"],
+                                    "selected": true
+                                },
+                                {
+                                    "items": ["Blood Harpoon"],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "items": ["Autopistol"]
+                        }
+                    ]
+                },
+                {
+                    "name": "Blood Herald",
+                    "min": 1,
+                    "max": 1,
+                    "equipment": [
+                        {
+                            "type": "text",
+                            "items": ["Chainblade"]
+                        },
+                        {
+                            "type": "text",
+                            "items": ["Autopistol"]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.we.unit.terminators",
+            "type": "unit",
+            "rulesetId": "w40k.10e.we",
+            "name": "Terminator Squad",
+            "keywords": ["WORLD EATERS", "CHAOS", "KHORNE", "TERMINATOR SQUAD", "TERMINATOR"],
+            "points": [
+                {
+                    "cost": 350,
+                    "minModels": 6,
+                    "maxModels": 10
+                },
+                {
+                    "cost": 175,
+                    "minModels": 5,
+                    "maxModels": 5
+                }
+            ],
+            "blueprints": [
+                {
+                    "name": "Terminator",
+                    "min": 4,
+                    "max": 9,
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": ["Combi-bolter", "Accursed Weapon"],
+                                    "selected": true
+                                },
+                                {
+                                    "items": ["Combi-bolter", "Power Fist"],
+                                    "selected": false
+                                },
+                                {
+                                    "items": ["Combi-bolter", "Chain Fist"],
+                                    "selected": false
+                                },
+                                {
+                                    "items": ["Combi-weapon", "Accursed Weapon"],
+                                    "selected": false
+                                },
+                                {
+                                    "items": ["Combi-weapon", "Power Fist"],
+                                    "selected": false
+                                },
+                                {
+                                    "items": ["Combi-weapon", "Chain Fist"],
+                                    "selected": false
+                                },
+                                {
+                                    "items": ["Heavy Flamer", "Accursed Weapon"],
+                                    "selected": false
+                                },
+                                {
+                                    "items": ["Heavy Flamer", "Power Fist"],
+                                    "selected": false
+                                },
+                                {
+                                    "items": ["Heavy Flamer", "Chain Fist"],
+                                    "selected": false
+                                },
+                                {
+                                    "items": ["Reaper Autocannon", "Accursed Weapon"],
+                                    "selected": false
+                                },
+                                {
+                                    "items": ["Reaper Autocannon", "Power Fist"],
+                                    "selected": false
+                                },
+                                {
+                                    "items": ["Reaper Autocannon", "Chain Fist"],
+                                    "selected": false
+                                },
+                                {
+                                    "items": ["Paired Accursed Weapon"],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Terminator Champion",
+                    "min": 1,
+                    "max": 1,
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": ["Combi-bolter", "Accursed Weapon"],
+                                    "selected": true
+                                },
+                                {
+                                    "items": ["Combi-bolter", "Power Fist"],
+                                    "selected": false
+                                },
+                                {
+                                    "items": ["Combi-bolter", "Chain Fist"],
+                                    "selected": false
+                                },
+                                {
+                                    "items": ["Combi-weapon", "Accursed Weapon"],
+                                    "selected": false
+                                },
+                                {
+                                    "items": ["Combi-weapon", "Power Fist"],
+                                    "selected": false
+                                },
+                                {
+                                    "items": ["Combi-weapon", "Chain Fist"],
+                                    "selected": false
+                                },
+                                {
+                                    "items": ["Paired Accursed Weapon"],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.we.unit.eightbound",
+            "type": "unit",
+            "rulesetId": "w40k.10e.we",
+            "name": "Eightbound",
+            "keywords": ["WORLD EATERS", "CHAOS", "KHORNE", "EIGHTBOUND", "POSSESSED", "DAEMON"],
+            "points": [
+                {
+                    "cost": 270,
+                    "minModels": 4,
+                    "maxModels": 6
+                },
+                {
+                    "cost": 135,
+                    "minModels": 3,
+                    "maxModels": 3
+                }
+            ],
+            "blueprints": [
+                {
+                    "name": "Eightbound",
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "name": "Eightbound Champion",
+                    "min": 1,
+                    "max": 1
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.we.unit.exaltedEightbound",
+            "type": "unit",
+            "rulesetId": "w40k.10e.we",
+            "name": "Exalted Eightbound",
+            "keywords": ["WORLD EATERS", "CHAOS", "KHORNE", "EXALTED EIGHTBOUND", "POSSESSED", "DAEMON"],
+            "points": [
+                {
+                    "cost": 280,
+                    "minModels": 4,
+                    "maxModels": 6
+                },
+                {
+                    "cost": 140,
+                    "minModels": 3,
+                    "maxModels": 3
+                }
+            ],
+            "blueprints": [
+                {
+                    "name": "Exalted Eightbound",
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "name": "Exalted Eightbound Champion",
+                    "min": 1,
+                    "max": 1
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.we.unit.landRaider",
+            "type": "unit",
+            "rulesetId": "w40k.10e.we",
+            "name": "Land Raider",
+            "keywords": ["HERETIC ASTARTES", "CHAOS", "KHORNE", "LAND RAIDER", "VEHICLE", "TRANSPORT", "SMOKE"],
+            "models": [
+                {
+                    "name": "Land Raider",
+                    "points": 220,
+                    "equipment": [
+                        {
+                            "type": "text",
+                            "items": ["Soulshatter Lascannon", "Soulshatter Lascannon"]
+                        },
+                        {
+                            "type": "text",
+                            "items": ["Twin Heavy Bolter"]
+                        },
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Combi-bolter"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Combi-weapon"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "checkbox",
+                            "items": [
+                                "Havoc Launcher"
+                            ],
+                            "selected": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.we.unit.annihilator",
+            "type": "unit",
+            "rulesetId": "w40k.10e.we",
+            "name": "Predator Annihilator",
+            "keywords": [
+                "HERETIC ASTARTES",
+                "CHAOS",
+                "KHORNE",
+                "PREDATOR ANNIHILATOR",
+                "VEHICLE",
+                "SMOKE"
+            ],
+            "models": [
+                {
+                    "name": "Predator Annihilator",
+                    "points": 145,
+                    "equipment": [
+                        {
+                            "type": "text",
+                            "items": ["Predator Twin Lascannon"]
+                        },
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Heavy Bolter",
+                                        "Heavy Bolter"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Lascannon",
+                                        "Lascannon"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Combi-bolter"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Combi-weapon"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "checkbox",
+                            "items": [
+                                "Havoc Launcher"
+                            ],
+                            "selected": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.we.unit.destructor",
+            "type": "unit",
+            "rulesetId": "w40k.10e.we",
+            "name": "Predator Destructor",
+            "keywords": [
+                "HERETIC ASTARTES",
+                "CHAOS",
+                "KHORNE",
+                "PREDATOR ANNIHILATOR",
+                "VEHICLE",
+                "SMOKE"
+            ],
+            "models": [
+                {
+                    "name": "Predator Destructor",
+                    "points": 145,
+                    "equipment": [
+                        {
+                            "type": "text",
+                            "items": ["Predator Autocannon"]
+                        },
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Heavy Bolter",
+                                        "Heavy Bolter"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Lascannon",
+                                        "Lascannon"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Combi-bolter"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Combi-weapon"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "checkbox",
+                            "items": [
+                                "Havoc Launcher"
+                            ],
+                            "selected": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.we.unit.defiler",
+            "type": "unit",
+            "rulesetId": "w40k.10e.we",
+            "name": "Defiler",
+            "keywords": [
+                "HERETIC ASTARTES",
+                "CHAOS",
+                "KHORNE",
+                "DEFILER",
+                "VEHICLE",
+                "WALKER",
+                "DAEMON",
+                "SMOKE"
+            ],
+            "models": [
+                {
+                    "name": "Defiler",
+                    "points": 180,
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Twin Heavy Flamer"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Havoc Launcher"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Defiler Scourge"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Reaper Autocannon"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Twin Heavy Bolter"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Twin Lascannon"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Combi-bolter"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Combi-weapon"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.we.unit.forgefiend",
+            "type": "unit",
+            "rulesetId": "w40k.10e.we",
+            "name": "Forgefiend",
+            "keywords": [
+                "HERETIC ASTARTES",
+                "CHAOS",
+                "KHORNE",
+                "FORGEFIEND",
+                "VEHICLE",
+                "WALKER",
+                "DAEMON"
+            ],
+            "models": [
+                {
+                    "name": "Forgefiend",
+                    "points": 165,
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Hades Autocannon",
+                                        "Hades Autocannon"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Ectoplasma Cannon",
+                                        "Ectoplasma Cannon"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Forgefiend Jaws"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Ectoplasma Cannon",
+                                        "Armoured Limbs"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.we.unit.helbrute",
+            "type": "unit",
+            "rulesetId": "w40k.10e.we",
+            "name": "Helbrute",
+            "keywords": [
+                "HERETIC ASTARTES",
+                "CHAOS",
+                "KHORNE",
+                "HELBRUTE",
+                "VEHICLE",
+                "WALKER"
+            ],
+            "models": [
+                {
+                    "name": "Helbrute",
+                    "points": 120,
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Multi-melta"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Helbrute Plasma Cannon"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Twin Autocannon"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Twin Heavy Bolter"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Twin Lascannon"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Helbrute Fist",
+                                        "Combi-bolter"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Helbrute Fist",
+                                        "Heavy Flamer"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Missile Launcher"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Helbrute Fist",
+                                        "Combi-bolter"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Helbrute Fist",
+                                        "Heavy Flamer"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Helbrute Hammer"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Power Scourge"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.we.unit.heldrake",
+            "type": "unit",
+            "rulesetId": "w40k.10e.we",
+            "name": "Heldrake",
+            "keywords": [
+                "HERETIC ASTARTES",
+                "CHAOS",
+                "KHORNE",
+                "HELDRAKE",
+                "VEHICLE",
+                "DAEMON",
+                "FLY",
+                "AIRCRAFT"
+            ],
+            "models": [
+                {
+                    "name": "Heldrake",
+                    "points": 200,
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Hades Autocannon"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Baleflamer"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "items": ["Heldrake Claws"]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.we.unit.maulerfiend",
+            "type": "unit",
+            "rulesetId": "w40k.10e.we",
+            "name": "Maulerfiend",
+            "keywords": [
+                "HERETIC ASTARTES",
+                "CHAOS",
+                "KHORNE",
+                "MAULERFIEND",
+                "VEHICLE",
+                "WALKER",
+                "DAEMON"
+            ],
+            "models": [
+                {
+                    "name": "Maulerfiend",
+                    "points": 150,
+                    "equipment": [
+                        {
+                            "type": "text",
+                            "items": ["Maulerfiend Fists"]
+                        },
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Lasher Tendrils"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Magma Cutter",
+                                        "Magma Cutter"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.we.unit.rhino",
+            "type": "unit",
+            "rulesetId": "w40k.10e.we",
+            "name": "Rhino",
+            "keywords": [
+                "HERETIC ASTARTES",
+                "CHAOS",
+                "KHORNE",
+                "RHINO",
+                "VEHICLE",
+                "TRANSPORT",
+                "DEDICATED TRANSPORT",
+                "SMOKE"
+            ],
+            "models": [
+                {
+                    "name": "Rhino",
+                    "points": 85,
+                    "equipment": [
+                        {
+                            "type": "text",
+                            "items": ["Combi-bolter"]
+                        },
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Combi-bolter"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Combi-weapon"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "checkbox",
+                            "items": [
+                                "Havoc Launcher"
+                            ],
+                            "selected": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.we.unit.spawn",
+            "type": "unit",
+            "rulesetId": "w40k.10e.we",
+            "name": "Chaos Spawn",
+            "keywords": [
+                "HERETIC ASTARTES",
+                "CHAOS",
+                "KHORNE",
+                "CHAOS SPAWN",
+                "BEAST"
+            ],
+            "points": [
+                {
+                    "cost": 90,
+                    "minModels": 2,
+                    "maxModels": 2
+                }
+            ],
+            "models": [
+                {
+                    "name": "Chaos Spawn"
+                },
+                {
+                    "name": "Chaos Spawn"
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.we.unit.klos",
+            "type": "unit",
+            "rulesetId": "w40k.10e.we",
+            "name": "Khorne Lord of Skulls",
+            "keywords": [
+                "HERETIC ASTARTES",
+                "CHAOS",
+                "KHORNE",
+                "LORD OF SKULLS",
+                "TITANIC",
+                "TOWERING",
+                "VEHICLE",
+                "DAEMON"
+            ],
+            "models": [
+                {
+                    "name": "Khorne Lord of Skulls",
+                    "points": 505,
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Gorestorm Cannon"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Daemongore Cannon"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Ichor Cannon"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Hades Gatling Cannon"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Skullhurler"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "items": ["Great Cleaver of Khorne"]
                         }
                     ]
                 }

@@ -397,9 +397,6 @@
                     "type": "dropdown",
                     "options": [
                         {
-                            "items": [""]
-                        },
-                        {
                             "items": ["KHORNE"],
                             "keywordsConferred": ["KHORNE"]
                         },
@@ -3194,17 +3191,22 @@
                                     "items": ["Maulerfiend Fists"]
                                 },
                                 {
-                                    "items": [
-                                        "Lasher Tendrils"
-                                    ],
-                                    "selected": true
-                                },
-                                {
-                                    "items": [
-                                        "Magma Cutter",
-                                        "Magma Cutter"
-                                    ],
-                                    "selected": false
+                                    "type": "dropdown",
+                                    "options": [
+                                        {
+                                            "items": [
+                                                "Lasher Tendrils"
+                                            ],
+                                            "selected": true
+                                        },
+                                        {
+                                            "items": [
+                                                "Magma Cutter",
+                                                "Magma Cutter"
+                                            ],
+                                            "selected": false
+                                        }
+                                    ]
                                 }
                             ]
                         }
