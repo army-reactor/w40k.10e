@@ -45,7 +45,7 @@
                     "keywordsMustCombined": [],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
-                    "points": 60
+                    "points": 35
                 }
             ],
             "additionalDatasheets": [
@@ -2747,12 +2747,12 @@
                     "points": 140,
                     "equipment": [
                         {
+                            "type": "text",
+                            "items": ["Predator Autocannon"]
+                        },
+                        {
                             "type": "dropdown",
                             "options": [
-                                {
-                                    "type": "text",
-                                    "items": ["Predator Autocannon"]
-                                },
                                 {
                                     "items": [
                                         "Heavy Bolter",

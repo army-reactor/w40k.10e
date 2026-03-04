@@ -242,7 +242,7 @@
             "type": "unit",
             "rulesetId": "w40k.10e.ck",
             "name": "War Dog Executioner",
-            "keywords": ["CHAOS KNIGHTS", "CHAOS", "EXECUTIONER", "VEHICLE", "WALKER"],
+            "keywords": ["CHAOS KNIGHTS", "CHAOS", "EXECUTIONER", "WAR DOG", "VEHICLE", "WALKER"],
             "models": [
                 {
                     "name": "War Dog Executioner",

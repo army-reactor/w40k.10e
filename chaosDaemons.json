@@ -543,7 +543,7 @@
             "models": [
                 {
                     "name": "Kairos Fateweaver",
-                    "points": 285
+                    "points": 295
                 }
             ]
         },
@@ -556,7 +556,7 @@
             "models": [
                 {
                     "name": "Lord of Change",
-                    "points": 270,
+                    "points": 285,
                     "equipment": [
                         {
                             "type": "dropdown",

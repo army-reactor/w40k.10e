@@ -460,12 +460,12 @@
             "keywords": ["EMPERORS CHILDREN", "CHAOS", "SLAANESH", "FLAWLESS BLADES", "INFANTRY", "GRENADES"],
             "points": [
                 {
-                    "cost": 220,
+                    "cost": 200,
                     "minModels": 4,
                     "maxModels": 6
                 },
                 {
-                    "cost": 110,
+                    "cost": 100,
                     "minModels": 3,
                     "maxModels": 3
                 }
@@ -675,7 +675,7 @@
             "keywords": ["EMPERORS CHILDREN", "CHAOS", "SLAANESH", "TERMINATOR SQUAD", "TERMINATOR", "INFANTRY"],
             "points": [
                 {
-                    "cost": 155,
+                    "cost": 145,
                     "minModels": 5,
                     "maxModels": 5
                 }
