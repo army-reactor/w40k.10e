@@ -161,7 +161,13 @@
                     "points": 10
                 }
             ],
-            "additionalDatasheets": [],
+            "additionalDatasheets": [
+                "w40k.10e.dem.unit.skarbrand",
+                "w40k.10e.dem.unit.bloodthirster",
+                "w40k.10e.dem.unit.bloodletters",
+                "w40k.10e.dem.unit.fleshhounds",
+                "w40k.10e.dem.unit.bloodcrushers"
+            ],
             "blockedDatasheets": []
         },
         {

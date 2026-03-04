@@ -411,6 +411,10 @@
                         {
                             "items": ["SLAANESH"],
                             "keywordsConferred": ["SLAANESH"]
+                        },
+                        {
+                            "items": ["CHAOS UNDIVIDED"],
+                            "keywordsConferred": ["CHAOS UNDIVIDED"]
                         }
                     ]
                 }
