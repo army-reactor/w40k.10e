@@ -416,7 +416,8 @@
                             "items": ["CHAOS UNDIVIDED"],
                             "keywordsConferred": ["CHAOS UNDIVIDED"]
                         }
-                    ]
+                    ],
+                    "keywordsBlocked": ["EPIC HERO", "KHORNE", "NURGLE", "TZEENTCH", "SLAANESH", "CHAOS UNDIVIDED"]
                 }
             ],
             "additionalDatasheets": [
