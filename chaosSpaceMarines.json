@@ -21,28 +21,28 @@
             "enhancements": [
                 {
                     "name": "Empyric Symbiote",
-                    "keywordsMustCombined": [],
+                    "keywordsMustCombined": ["HERETIC ASTARTES"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "points": 15
                 },
                 {
                     "name": "Eyes of the Hunter",
-                    "keywordsMustCombined": [],
+                    "keywordsMustCombined": ["HERETIC ASTARTES"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "points": 15
                 },
                 {
                     "name": "Fratricidal Trophies",
-                    "keywordsMustCombined": [],
+                    "keywordsMustCombined": ["HERETIC ASTARTES", "TERMINATOR"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "points": 5
                 },
                 {
                     "name": "Weaponised Hatred",
-                    "keywordsMustCombined": [],
+                    "keywordsMustCombined": ["HERETIC ASTARTES"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "points": 35
@@ -64,30 +64,30 @@
             "enhancements": [
                 {
                     "name": "Eager for Vengeance",
-                    "keywordsMustCombined": [],
+                    "keywordsMustCombined": ["HERETIC ASTARTES"],
                     "keywordsMustSeparate": [],
-                    "keywordsBlocked": [],
+                    "keywordsBlocked": ["DAMNED"],
                     "points": 20
                 },
                 {
                     "name": "Eye of Abaddon",
-                    "keywordsMustCombined": [],
+                    "keywordsMustCombined": ["HERETIC ASTARTES"],
                     "keywordsMustSeparate": [],
-                    "keywordsBlocked": [],
+                    "keywordsBlocked": ["DAMNED"],
                     "points": 15
                 },
                 {
                     "name": "Mark of Legend",
-                    "keywordsMustCombined": [],
+                    "keywordsMustCombined": ["HERETIC ASTARTES"],
                     "keywordsMustSeparate": [],
-                    "keywordsBlocked": [],
+                    "keywordsBlocked": ["DAMNED"],
                     "points": 10
                 },
                 {
                     "name": "Warmaster's Gift",
-                    "keywordsMustCombined": [],
+                    "keywordsMustCombined": ["HERETIC ASTARTES", "CHAOS LORD"],
                     "keywordsMustSeparate": [],
-                    "keywordsBlocked": [],
+                    "keywordsBlocked": ["DAMNED"],
                     "points": 15
                 }
             ],
@@ -107,28 +107,28 @@
             "enhancements": [
                 {
                     "name": "Cursed Fang",
-                    "keywordsMustCombined": [],
+                    "keywordsMustCombined": ["HERETIC ASTARTES", "INFANTRY"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "points": 10
                 },
                 {
                     "name": "Falsehood",
-                    "keywordsMustCombined": [],
+                    "keywordsMustCombined": ["HERETIC ASTARTES", "CHAOS LORD"],
                     "keywordsMustSeparate": [],
-                    "keywordsBlocked": [],
+                    "keywordsBlocked": ["TERMINATOR", "JUMP PACK"],
                     "points": 10
                 },
                 {
                     "name": "Shroud of Obfuscation",
-                    "keywordsMustCombined": [],
+                    "keywordsMustCombined": ["HERETIC ASTARTES"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "points": 15
                 },
                 {
                     "name": "Soul Link",
-                    "keywordsMustCombined": [],
+                    "keywordsMustCombined": ["HERETIC ASTARTES", "INFANTRY"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "points": 5
@@ -150,28 +150,28 @@
             "enhancements": [
                 {
                     "name": "Despot's Claim",
-                    "keywordsMustCombined": [],
+                    "keywordsMustCombined": ["HERETIC ASTARTES"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "points": 15
                 },
                 {
                     "name": "Dread Reaver",
-                    "keywordsMustCombined": [],
+                    "keywordsMustCombined": ["HERETIC ASTARTES"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "points": 15
                 },
                 {
                     "name": "Mark of the Hound",
-                    "keywordsMustCombined": [],
+                    "keywordsMustCombined": ["HERETIC ASTARTES"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "points": 25
                 },
                 {
                     "name": "Tyrant's Lash",
-                    "keywordsMustCombined": [],
+                    "keywordsMustCombined": ["HERETIC ASTARTES"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "points": 20
@@ -193,28 +193,28 @@
             "enhancements": [
                 {
                     "name": "Eater of Dread",
-                    "keywordsMustCombined": [],
+                    "keywordsMustCombined": ["HERETIC ASTARTES"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "points": 15
                 },
                 {
                     "name": "Night's Shroud",
-                    "keywordsMustCombined": [],
+                    "keywordsMustCombined": ["HERETIC ASTARTES"],
                     "keywordsMustSeparate": [],
-                    "keywordsBlocked": [],
+                    "keywordsBlocked": ["TERMINATOR"],
                     "points": 20
                 },
                 {
                     "name": "Warp-fuelled Thrusters",
-                    "keywordsMustCombined": [],
+                    "keywordsMustCombined": ["HERETIC ASTARTES", "CHAOS LORD", "JUMP PACK"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "points": 20
                 },
                 {
                     "name": "Willbreaker",
-                    "keywordsMustCombined": [],
+                    "keywordsMustCombined": ["HERETIC ASTARTES"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "points": 10
@@ -236,28 +236,28 @@
             "enhancements": [
                 {
                     "name": "Bastion Plate",
-                    "keywordsMustCombined": [],
+                    "keywordsMustCombined": ["HERETIC ASTARTES"],
                     "keywordsMustSeparate": [],
-                    "keywordsBlocked": [],
+                    "keywordsBlocked": ["JUMP PACK"],
                     "points": 10
                 },
                 {
                     "name": "Iron Artifice",
-                    "keywordsMustCombined": [],
+                    "keywordsMustCombined": ["HERETIC ASTARTES", "INFANTRY"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "points": 10
                 },
                 {
                     "name": "Ironbound Enmity",
-                    "keywordsMustCombined": [],
+                    "keywordsMustCombined": ["HERETIC ASTARTES"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "points": 15
                 },
                 {
                     "name": "Warp Tracer",
-                    "keywordsMustCombined": [],
+                    "keywordsMustCombined": ["HERETIC ASTARTES"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "points": 20
@@ -279,28 +279,28 @@
             "enhancements": [
                 {
                     "name": "Forge's Blessing",
-                    "keywordsMustCombined": [],
+                    "keywordsMustCombined": ["HERETIC ASTARTES"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "points": 20
                 },
                 {
                     "name": "Invigorated Mechatendrils",
-                    "keywordsMustCombined": [],
+                    "keywordsMustCombined": ["HERETIC ASTARTES", "WARPSMITH"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "points": 15
                 },
                 {
                     "name": "Tempting Addendum",
-                    "keywordsMustCombined": [],
+                    "keywordsMustCombined": ["HERETIC ASTARTES"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "points": 25
                 },
                 {
                     "name": "Soul Harvester",
-                    "keywordsMustCombined": [],
+                    "keywordsMustCombined": ["HERETIC ASTARTES"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "points": 15
@@ -322,28 +322,28 @@
             "enhancements": [
                 {
                     "name": "Amulet of Tainted Vigour",
-                    "keywordsMustCombined": [],
+                    "keywordsMustCombined": ["HERETIC ASTARTES", "DARK APOSTLE"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "points": 20
                 },
                 {
                     "name": "Cultist's Brand",
-                    "keywordsMustCombined": [],
+                    "keywordsMustCombined": ["HERETIC ASTARTES", "DARK APOSTLE", "DAMNED"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "points": 20
                 },
                 {
                     "name": "Incendiary Goad",
-                    "keywordsMustCombined": [],
+                    "keywordsMustCombined": ["HERETIC ASTARTES", "DARK APOSTLE", "DAMNED"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "points": 15
                 },
                 {
                     "name": "Warped Foresight",
-                    "keywordsMustCombined": [],
+                    "keywordsMustCombined": ["HERETIC ASTARTES", "DARK APOSTLE", "DAMNED"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "points": 10
@@ -365,31 +365,57 @@
             "enhancements": [
                 {
                     "name": "Eye of Tzeentch",
-                    "keywordsMustCombined": [],
+                    "keywordsMustCombined": ["HERETIC ASTARTES", "TZEENTCH"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "points": 15
                 },
                 {
                     "name": "Intoxicating Elixir",
-                    "keywordsMustCombined": [],
+                    "keywordsMustCombined": ["HERETIC ASTARTES", "SLAANESH"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "points": 15
                 },
                 {
                     "name": "Orbs of Unlife",
-                    "keywordsMustCombined": [],
+                    "keywordsMustCombined": ["HERETIC ASTARTES", "NURGLE"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "points": 15
                 },
                 {
                     "name": "Talisman of Burning Blood",
-                    "keywordsMustCombined": [],
+                    "keywordsMustCombined": ["HERETIC ASTARTES", "KHORNE"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "points": 15
+                }
+            ],
+            "additionalEquipment": [
+                {
+                    "type": "dropdown",
+                    "options": [
+                        {
+                            "items": [""]
+                        },
+                        {
+                            "items": ["KHORNE"],
+                            "keywordsConferred": ["KHORNE"]
+                        },
+                        {
+                            "items": ["NURGLE"],
+                            "keywordsConferred": ["NURGLE"]
+                        },
+                        {
+                            "items": ["TZEENTCH"],
+                            "keywordsConferred": ["TZEENTCH"]
+                        },
+                        {
+                            "items": ["SLAANESH"],
+                            "keywordsConferred": ["SLAANESH"]
+                        }
+                    ]
                 }
             ],
             "additionalDatasheets": [
@@ -408,28 +434,28 @@
             "enhancements": [
                 {
                     "name": "Surgical Precision",
-                    "keywordsMustCombined": [],
+                    "keywordsMustCombined": ["HERETIC ASTARTES"],
                     "keywordsMustSeparate": [],
-                    "keywordsBlocked": [],
+                    "keywordsBlocked": ["DAMNED"],
                     "points": 10
                 },
                 {
                     "name": "Helm of All-Seeing",
-                    "keywordsMustCombined": [],
+                    "keywordsMustCombined": ["HERETIC ASTARTES", "INFANTRY"],
                     "keywordsMustSeparate": [],
-                    "keywordsBlocked": [],
+                    "keywordsBlocked": ["DAMNED"],
                     "points": 25
                 },
                 {
                     "name": "Prime Test Subject",
-                    "keywordsMustCombined": [],
+                    "keywordsMustCombined": ["HERETIC ASTARTES", "INFANTRY"],
                     "keywordsMustSeparate": [],
-                    "keywordsBlocked": [],
+                    "keywordsBlocked": ["DAMNED"],
                     "points": 35
                 },
                 {
                     "name": "Living Carapace",
-                    "keywordsMustCombined": [],
+                    "keywordsMustCombined": ["HERETIC ASTARTES", "CHAOS LORD"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "points": 15
@@ -451,28 +477,28 @@
             "enhancements": [
                 {
                     "name": "Touched by the Warp",
-                    "keywordsMustCombined": [],
+                    "keywordsMustCombined": ["HERETIC ASTARTES"],
                     "keywordsMustSeparate": [],
-                    "keywordsBlocked": [],
+                    "keywordsBlocked": ["KHORNE"],
                     "points": 10
                 },
                 {
                     "name": "Eye of Z'desh",
-                    "keywordsMustCombined": [],
+                    "keywordsMustCombined": ["HERETIC ASTARTES"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "points": 25
                 },
                 {
                     "name": "Mind Blade",
-                    "keywordsMustCombined": [],
+                    "keywordsMustCombined": ["HERETIC ASTARTES", "PSYKER"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "points": 25
                 },
                 {
                     "name": "Infernal Avatar",
-                    "keywordsMustCombined": [],
+                    "keywordsMustCombined": ["HERETIC ASTARTES", "MONSTER"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "points": 20
@@ -494,28 +520,28 @@
             "enhancements": [
                 {
                     "name": "Terrorglut Parasite",
-                    "keywordsMustCombined": [],
+                    "keywordsMustCombined": ["HERETIC ASTARTES"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "points": 20
                 },
                 {
                     "name": "Greyveil Hex",
-                    "keywordsMustCombined": [],
+                    "keywordsMustCombined": ["HERETIC ASTARTES", "CHAOS LORD"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "points": 25
                 },
                 {
                     "name": "Sorrowscent Vulture",
-                    "keywordsMustCombined": [],
+                    "keywordsMustCombined": ["HERETIC ASTARTES", "CHAOS LORD", "JUMP PACK"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "points": 35
                 },
                 {
                     "name": "Warp-fuelled Thrusters",
-                    "keywordsMustCombined": [],
+                    "keywordsMustCombined": ["HERETIC ASTARTES", "CHAOS LORD", "JUMP PACK"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "points": 20
@@ -537,30 +563,30 @@
             "enhancements": [
                 {
                     "name": "Dread Reputation",
-                    "keywordsMustCombined": [],
+                    "keywordsMustCombined": ["HERETIC ASTARTES"],
                     "keywordsMustSeparate": [],
-                    "keywordsBlocked": [],
+                    "keywordsBlocked": ["DAMNED"],
                     "points": 25
                 },
                 {
                     "name": "Eager for Bloodshed",
-                    "keywordsMustCombined": [],
+                    "keywordsMustCombined": ["HERETIC ASTARTES"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "points": 30
                 },
                 {
                     "name": "Raid Leader",
-                    "keywordsMustCombined": [],
+                    "keywordsMustCombined": ["HERETIC ASTARTES"],
                     "keywordsMustSeparate": [],
-                    "keywordsBlocked": [],
+                    "keywordsBlocked": ["DAMNED"],
                     "points": 20
                 },
                 {
                     "name": "Voice of the Tyrant",
-                    "keywordsMustCombined": [],
+                    "keywordsMustCombined": ["HERETIC ASTARTES"],
                     "keywordsMustSeparate": [],
-                    "keywordsBlocked": [],
+                    "keywordsBlocked": ["DAMNED"],
                     "points": 25
                 }
             ],
