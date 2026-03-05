@@ -24,6 +24,7 @@
                     "keywordsMustCombined": ["LEGIONES DAEMONICA", "KHORNE"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
+                    "selected": false,
                     "points": 20
                 },
                 {
@@ -31,6 +32,7 @@
                     "keywordsMustCombined": ["LEGIONES DAEMONICA", "TZEENTCH"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
+                    "selected": false,
                     "points": 25
                 },
                 {
@@ -38,6 +40,7 @@
                     "keywordsMustCombined": ["LEGIONES DAEMONICA", "NURGLE"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
+                    "selected": false,
                     "points": 30
                 },
                 {
@@ -45,6 +48,7 @@
                     "keywordsMustCombined": ["LEGIONES DAEMONICA", "SLAANESH"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
+                    "selected": false,
                     "points": 15
                 }
             ],
@@ -63,6 +67,7 @@
                     "keywordsMustCombined": ["LEGIONES DAEMONICA", "NURGLE"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
+                    "selected": false,
                     "points": 15
                 },
                 {
@@ -70,6 +75,7 @@
                     "keywordsMustCombined": ["LEGIONES DAEMONICA", "NURGLE"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
+                    "selected": false,
                     "points": 15
                 },
                 {
@@ -77,6 +83,7 @@
                     "keywordsMustCombined": ["LEGIONES DAEMONICA", "NURGLE", "MONSTER"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
+                    "selected": false,
                     "points": 35
                 },
                 {
@@ -84,6 +91,7 @@
                     "keywordsMustCombined": ["LEGIONES DAEMONICA", "NURGLE", "MONSTER"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
+                    "selected": false,
                     "points": 15
                 }
             ],
@@ -102,6 +110,7 @@
                     "keywordsMustCombined": ["LEGIONES DAEMONICA", "TZEENTCH"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
+                    "selected": false,
                     "points": 10
                 },
                 {
@@ -109,6 +118,7 @@
                     "keywordsMustCombined": ["LEGIONES DAEMONICA", "TZEENTCH", "MONSTER"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
+                    "selected": false,
                     "points": 10
                 },
                 {
@@ -116,6 +126,7 @@
                     "keywordsMustCombined": ["LEGIONES DAEMONICA", "TZEENTCH", "MONSTER"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
+                    "selected": false,
                     "points": 20
                 },
                 {
@@ -123,6 +134,7 @@
                     "keywordsMustCombined": ["LEGIONES DAEMONICA", "TZEENTCH"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
+                    "selected": false,
                     "points": 30
                 }
             ],
@@ -141,6 +153,7 @@
                     "keywordsMustCombined": ["LEGIONES DAEMONICA", "KHORNE"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
+                    "selected": false,
                     "points": 25
                 },
                 {
@@ -148,6 +161,7 @@
                     "keywordsMustCombined": ["LEGIONES DAEMONICA", "KHORNE", "MONSTER"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
+                    "selected": false,
                     "points": 20
                 },
                 {
@@ -155,6 +169,7 @@
                     "keywordsMustCombined": ["LEGIONES DAEMONICA", "KHORNE"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
+                    "selected": false,
                     "points": 15
                 },
                 {
@@ -162,6 +177,7 @@
                     "keywordsMustCombined": ["LEGIONES DAEMONICA", "KHORNE", "MONSTER"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
+                    "selected": false,
                     "points": 10
                 }
             ],
@@ -180,6 +196,7 @@
                     "keywordsMustCombined": ["LEGIONES DAEMONICA", "SLAANESH"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
+                    "selected": false,
                     "points": 30
                 },
                 {
@@ -187,6 +204,7 @@
                     "keywordsMustCombined": ["LEGIONES DAEMONICA", "SLAANESH"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
+                    "selected": false,
                     "points": 30
                 },
                 {
@@ -194,6 +212,7 @@
                     "keywordsMustCombined": ["LEGIONES DAEMONICA", "SLAANESH", "MONSTER"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
+                    "selected": false,
                     "points": 15
                 },
                 {
@@ -201,6 +220,7 @@
                     "keywordsMustCombined": ["LEGIONES DAEMONICA", "SLAANESH", "MONSTER"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
+                    "selected": false,
                     "points": 10
                 }
             ],
@@ -219,6 +239,7 @@
                     "keywordsMustCombined": ["SHADOW LEGION"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
+                    "selected": false,
                     "points": 25
                 },
                 {
@@ -226,6 +247,7 @@
                     "keywordsMustCombined": ["SHADOW LEGION"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
+                    "selected": false,
                     "points": 20
                 },
                 {
@@ -233,6 +255,7 @@
                     "keywordsMustCombined": ["SHADOW LEGION"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
+                    "selected": false,
                     "points": 30
                 },
                 {
@@ -240,6 +263,7 @@
                     "keywordsMustCombined": ["SHADOW LEGION"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
+                    "selected": false,
                     "points": 25
                 }
             ],

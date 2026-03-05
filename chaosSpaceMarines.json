@@ -24,6 +24,7 @@
                     "keywordsMustCombined": ["HERETIC ASTARTES"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
+                    "selected": false,
                     "points": 15
                 },
                 {
@@ -31,6 +32,7 @@
                     "keywordsMustCombined": ["HERETIC ASTARTES"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
+                    "selected": false,
                     "points": 15
                 },
                 {
@@ -38,6 +40,7 @@
                     "keywordsMustCombined": ["HERETIC ASTARTES", "TERMINATOR"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
+                    "selected": false,
                     "points": 5
                 },
                 {
@@ -45,6 +48,7 @@
                     "keywordsMustCombined": ["HERETIC ASTARTES"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
+                    "selected": false,
                     "points": 35
                 }
             ],
@@ -67,6 +71,7 @@
                     "keywordsMustCombined": ["HERETIC ASTARTES"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": ["DAMNED"],
+                    "selected": false,
                     "points": 20
                 },
                 {
@@ -74,6 +79,7 @@
                     "keywordsMustCombined": ["HERETIC ASTARTES"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": ["DAMNED"],
+                    "selected": false,
                     "points": 15
                 },
                 {
@@ -81,6 +87,7 @@
                     "keywordsMustCombined": ["HERETIC ASTARTES"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": ["DAMNED"],
+                    "selected": false,
                     "points": 10
                 },
                 {
@@ -88,6 +95,7 @@
                     "keywordsMustCombined": ["HERETIC ASTARTES", "CHAOS LORD"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": ["DAMNED"],
+                    "selected": false,
                     "points": 15
                 }
             ],
@@ -110,6 +118,7 @@
                     "keywordsMustCombined": ["HERETIC ASTARTES", "INFANTRY"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
+                    "selected": false,
                     "points": 10
                 },
                 {
@@ -117,6 +126,7 @@
                     "keywordsMustCombined": ["HERETIC ASTARTES", "CHAOS LORD"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": ["TERMINATOR", "JUMP PACK"],
+                    "selected": false,
                     "points": 10
                 },
                 {
@@ -124,6 +134,7 @@
                     "keywordsMustCombined": ["HERETIC ASTARTES"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
+                    "selected": false,
                     "points": 15
                 },
                 {
@@ -131,6 +142,7 @@
                     "keywordsMustCombined": ["HERETIC ASTARTES", "INFANTRY"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
+                    "selected": false,
                     "points": 5
                 }
             ],
@@ -153,6 +165,7 @@
                     "keywordsMustCombined": ["HERETIC ASTARTES"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
+                    "selected": false,
                     "points": 15
                 },
                 {
@@ -160,6 +173,7 @@
                     "keywordsMustCombined": ["HERETIC ASTARTES"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
+                    "selected": false,
                     "points": 15
                 },
                 {
@@ -167,6 +181,7 @@
                     "keywordsMustCombined": ["HERETIC ASTARTES"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
+                    "selected": false,
                     "points": 25
                 },
                 {
@@ -174,6 +189,7 @@
                     "keywordsMustCombined": ["HERETIC ASTARTES"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
+                    "selected": false,
                     "points": 20
                 }
             ],
@@ -196,6 +212,7 @@
                     "keywordsMustCombined": ["HERETIC ASTARTES"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
+                    "selected": false,
                     "points": 15
                 },
                 {
@@ -203,6 +220,7 @@
                     "keywordsMustCombined": ["HERETIC ASTARTES"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": ["TERMINATOR"],
+                    "selected": false,
                     "points": 20
                 },
                 {
@@ -210,6 +228,7 @@
                     "keywordsMustCombined": ["HERETIC ASTARTES", "CHAOS LORD", "JUMP PACK"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
+                    "selected": false,
                     "points": 20
                 },
                 {
@@ -217,6 +236,7 @@
                     "keywordsMustCombined": ["HERETIC ASTARTES"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
+                    "selected": false,
                     "points": 10
                 }
             ],
@@ -239,6 +259,7 @@
                     "keywordsMustCombined": ["HERETIC ASTARTES"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": ["JUMP PACK"],
+                    "selected": false,
                     "points": 10
                 },
                 {
@@ -246,6 +267,7 @@
                     "keywordsMustCombined": ["HERETIC ASTARTES", "INFANTRY"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
+                    "selected": false,
                     "points": 10
                 },
                 {
@@ -253,6 +275,7 @@
                     "keywordsMustCombined": ["HERETIC ASTARTES"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
+                    "selected": false,
                     "points": 15
                 },
                 {
@@ -260,6 +283,7 @@
                     "keywordsMustCombined": ["HERETIC ASTARTES"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
+                    "selected": false,
                     "points": 20
                 }
             ],
@@ -282,6 +306,7 @@
                     "keywordsMustCombined": ["HERETIC ASTARTES"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
+                    "selected": false,
                     "points": 20
                 },
                 {
@@ -289,6 +314,7 @@
                     "keywordsMustCombined": ["HERETIC ASTARTES", "WARPSMITH"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
+                    "selected": false,
                     "points": 15
                 },
                 {
@@ -296,6 +322,7 @@
                     "keywordsMustCombined": ["HERETIC ASTARTES"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
+                    "selected": false,
                     "points": 25
                 },
                 {
@@ -303,6 +330,7 @@
                     "keywordsMustCombined": ["HERETIC ASTARTES"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
+                    "selected": false,
                     "points": 15
                 }
             ],
@@ -325,6 +353,7 @@
                     "keywordsMustCombined": ["HERETIC ASTARTES", "DARK APOSTLE"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
+                    "selected": false,
                     "points": 20
                 },
                 {
@@ -332,6 +361,7 @@
                     "keywordsMustCombined": ["HERETIC ASTARTES", "DARK APOSTLE", "DAMNED"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
+                    "selected": false,
                     "points": 20
                 },
                 {
@@ -339,6 +369,7 @@
                     "keywordsMustCombined": ["HERETIC ASTARTES", "DARK APOSTLE", "DAMNED"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
+                    "selected": false,
                     "points": 15
                 },
                 {
@@ -346,6 +377,7 @@
                     "keywordsMustCombined": ["HERETIC ASTARTES", "DARK APOSTLE", "DAMNED"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
+                    "selected": false,
                     "points": 10
                 }
             ],
@@ -368,6 +400,7 @@
                     "keywordsMustCombined": ["HERETIC ASTARTES", "TZEENTCH"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
+                    "selected": false,
                     "points": 15
                 },
                 {
@@ -375,6 +408,7 @@
                     "keywordsMustCombined": ["HERETIC ASTARTES", "SLAANESH"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
+                    "selected": false,
                     "points": 15
                 },
                 {
@@ -382,6 +416,7 @@
                     "keywordsMustCombined": ["HERETIC ASTARTES", "NURGLE"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
+                    "selected": false,
                     "points": 15
                 },
                 {
@@ -389,6 +424,7 @@
                     "keywordsMustCombined": ["HERETIC ASTARTES", "KHORNE"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
+                    "selected": false,
                     "points": 15
                 }
             ],
@@ -439,6 +475,7 @@
                     "keywordsMustCombined": ["HERETIC ASTARTES"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": ["DAMNED"],
+                    "selected": false,
                     "points": 10
                 },
                 {
@@ -446,6 +483,7 @@
                     "keywordsMustCombined": ["HERETIC ASTARTES", "INFANTRY"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": ["DAMNED"],
+                    "selected": false,
                     "points": 25
                 },
                 {
@@ -453,6 +491,7 @@
                     "keywordsMustCombined": ["HERETIC ASTARTES", "INFANTRY"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": ["DAMNED"],
+                    "selected": false,
                     "points": 35
                 },
                 {
@@ -460,6 +499,7 @@
                     "keywordsMustCombined": ["HERETIC ASTARTES", "CHAOS LORD"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
+                    "selected": false,
                     "points": 15
                 }
             ],
@@ -482,6 +522,7 @@
                     "keywordsMustCombined": ["HERETIC ASTARTES"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": ["KHORNE"],
+                    "selected": false,
                     "points": 10
                 },
                 {
@@ -489,6 +530,7 @@
                     "keywordsMustCombined": ["HERETIC ASTARTES"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
+                    "selected": false,
                     "points": 25
                 },
                 {
@@ -496,6 +538,7 @@
                     "keywordsMustCombined": ["HERETIC ASTARTES", "PSYKER"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
+                    "selected": false,
                     "points": 25
                 },
                 {
@@ -503,6 +546,7 @@
                     "keywordsMustCombined": ["HERETIC ASTARTES", "MONSTER"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
+                    "selected": false,
                     "points": 20
                 }
             ],
@@ -525,6 +569,7 @@
                     "keywordsMustCombined": ["HERETIC ASTARTES"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
+                    "selected": false,
                     "points": 20
                 },
                 {
@@ -532,6 +577,7 @@
                     "keywordsMustCombined": ["HERETIC ASTARTES", "CHAOS LORD"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
+                    "selected": false,
                     "points": 25
                 },
                 {
@@ -539,6 +585,7 @@
                     "keywordsMustCombined": ["HERETIC ASTARTES", "CHAOS LORD", "JUMP PACK"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
+                    "selected": false,
                     "points": 35
                 },
                 {
@@ -546,6 +593,7 @@
                     "keywordsMustCombined": ["HERETIC ASTARTES", "CHAOS LORD", "JUMP PACK"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
+                    "selected": false,
                     "points": 20
                 }
             ],
@@ -568,6 +616,7 @@
                     "keywordsMustCombined": ["HERETIC ASTARTES"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": ["DAMNED"],
+                    "selected": false,
                     "points": 25
                 },
                 {
@@ -575,6 +624,7 @@
                     "keywordsMustCombined": ["HERETIC ASTARTES"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
+                    "selected": false,
                     "points": 30
                 },
                 {
@@ -582,6 +632,7 @@
                     "keywordsMustCombined": ["HERETIC ASTARTES"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": ["DAMNED"],
+                    "selected": false,
                     "points": 20
                 },
                 {
@@ -589,6 +640,7 @@
                     "keywordsMustCombined": ["HERETIC ASTARTES"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": ["DAMNED"],
+                    "selected": false,
                     "points": 25
                 }
             ],
