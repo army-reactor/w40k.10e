@@ -434,26 +434,31 @@
                     "options": [
                         {
                             "items": ["KHORNE"],
-                            "keywordsConferred": ["KHORNE"]
+                            "keywordsConferred": ["KHORNE"],
+                            "selected": false
                         },
                         {
                             "items": ["NURGLE"],
-                            "keywordsConferred": ["NURGLE"]
+                            "keywordsConferred": ["NURGLE"],
+                            "selected": false
                         },
                         {
                             "items": ["TZEENTCH"],
-                            "keywordsConferred": ["TZEENTCH"]
+                            "keywordsConferred": ["TZEENTCH"],
+                            "selected": false
                         },
                         {
                             "items": ["SLAANESH"],
-                            "keywordsConferred": ["SLAANESH"]
+                            "keywordsConferred": ["SLAANESH"],
+                            "selected": false
                         },
                         {
                             "items": ["CHAOS UNDIVIDED"],
-                            "keywordsConferred": ["CHAOS UNDIVIDED"]
+                            "keywordsConferred": ["CHAOS UNDIVIDED"],
+                            "selected": false
                         }
                     ],
-                    "keywordsBlocked": ["EPIC HERO", "KHORNE", "NURGLE", "TZEENTCH", "SLAANESH", "CHAOS UNDIVIDED"]
+                    "keywordsBlocked": ["EPIC HERO", "KHORNE LORD OF SKULLS"]
                 }
             ],
             "additionalDatasheets": [
