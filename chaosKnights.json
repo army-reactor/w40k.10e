@@ -193,6 +193,8 @@
                     "points": 15
                 }
             ],
+            "additionalKeywords": ["BATTLELINE"],
+            "keywordsRequired": ["WAR DOG"],
             "additionalEquipment": [
                 {
                     "type": "checkbox",

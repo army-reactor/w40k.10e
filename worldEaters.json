@@ -397,15 +397,11 @@
                     "equipment": [
                         {
                             "type": "text",
-                            "selectedOption": {
-                                "name": "Axe of Dismemberment"
-                            }
+                            "items": ["Axe of Dismemberment"]
                         },
                         {
                             "type": "text",
-                            "selectedOption": {
-                                "name": "Bolt Pistol"
-                            }
+                            "items": ["Bolt Pistol"]
                         }
                     ]
                 }
@@ -551,9 +547,7 @@
                         },
                         {
                             "type": "text",
-                            "selectedOption": {
-                                "name": "Autopistol"
-                            }
+                            "items": ["Autopistol"]
                         },
                         {
                             "type": "checkbox",
@@ -589,15 +583,11 @@
                     "equipment": [
                         {
                             "type": "text",
-                            "selectedOption": {
-                                "name": "Chainblades"
-                            }
+                            "items": ["Chainblades"]
                         },
                         {
                             "type": "text",
-                            "selectedOption": {
-                                "name": "Autopistol"
-                            }
+                            "items": ["Autopistol"]
                         }
                     ]
                 }
