@@ -1238,16 +1238,12 @@
                     "equipment": [
                         {
                             "type": "checkbox",
-                            "selectedOption": {
-                                "name": "Daemonic Icon"
-                            },
+                            "items": ["Daemonic Icon"],
                             "selected": false
                         },
                         {
                             "type": "checkbox",
-                            "selectedOption": {
-                                "name": "Instrument of Chaos"
-                            },
+                            "items": ["Instrument of Chaos"],
                             "selected": false
                         }
                     ]

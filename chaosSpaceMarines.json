@@ -2951,6 +2951,10 @@
                     "points": 190,
                     "equipment": [
                         {
+                            "type": "text",
+                            "items": ["Defiler Cannon"]
+                        },
+                        {
                             "type": "dropdown",
                             "options": [
                                 {
@@ -3012,6 +3016,10 @@
                                     "selected": false
                                 }
                             ]
+                        },
+                        {
+                            "type": "text",
+                            "items": ["Defiler Claws"]
                         }
                     ]
                 }

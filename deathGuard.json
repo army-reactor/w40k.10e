@@ -53,9 +53,379 @@
             ],
             "additionalDatasheets": [],
             "blockedDatasheets": []
+        },
+        {
+            "id": "w40k.10e.dg.dt.mortarionsHammer",
+            "type": "detachment",
+            "rulesetId": "w40k.10e.dg",
+            "name": "Mortarion's Hammer",
+            "enhancements": [
+                {
+                    "name": "Bilemaw Blight",
+                    "keywordsMustCombined": ["DEATH GUARD", "MALIGNANT PLAGUECASTER"],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 10
+                },
+                {
+                    "name": "Eye of Affliction",
+                    "keywordsMustCombined": ["DEATH GUARD"],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 20
+                },
+                {
+                    "name": "Shriekworm Familiar",
+                    "keywordsMustCombined": ["DEATH GUARD"],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 15
+                },
+                {
+                    "name": "Tendrilous Emissions",
+                    "keywordsMustCombined": ["DEATH GUARD", "LORD OF VIRULENCE"],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 30
+                }
+            ],
+            "additionalDatasheets": [],
+            "blockedDatasheets": []
+        },
+        {
+            "id": "w40k.10e.dg.dt.flyblownHost",
+            "type": "detachment",
+            "rulesetId": "w40k.10e.dg",
+            "name": "Flyblown Host",
+            "enhancements": [
+                {
+                    "name": "Droning Chorus",
+                    "keywordsMustCombined": ["DEATH GUARD", "INFANTRY"],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 15
+                },
+                {
+                    "name": "Insectile Murmuration",
+                    "keywordsMustCombined": ["DEATH GUARD", "INFANTRY"],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 20
+                },
+                {
+                    "name": "Rejuvenating Swarm",
+                    "keywordsMustCombined": ["DEATH GUARD", "INFANTRY"],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 10
+                },
+                {
+                    "name": "Plagueveil",
+                    "keywordsMustCombined": ["DEATH GUARD", "INFANTRY"],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 25
+                }
+            ],
+            "additionalDatasheets": [],
+            "blockedDatasheets": []
+        },
+        {
+            "id": "w40k.10e.dg.dt.tallybandSummoners",
+            "type": "detachment",
+            "rulesetId": "w40k.10e.dg",
+            "name": "Tallyband Summoners",
+            "enhancements": [
+                {
+                    "name": "Beckoning Blight",
+                    "keywordsMustCombined": ["DEATH GUARD"],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 20
+                },
+                {
+                    "name": "Fell Harvester",
+                    "keywordsMustCombined": ["DEATH GUARD"],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 10
+                },
+                {
+                    "name": "Entropic Knell",
+                    "keywordsMustCombined": ["GREAT UNCLEAN ONE"],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 15
+                },
+                {
+                    "name": "Tome of Bonteous Blessings",
+                    "keywordsMustCombined": ["DEATH GUARD", "MALIGNANT PLAGUECASTER"],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 20
+                }
+            ],
+            "additionalDatasheets": [
+                "w40k.10e.dem.unit.rotigus",
+                "w40k.10e.dem.unit.greatUncleanOne",
+                "w40k.10e.dem.unit.plaguebearers",
+                "w40k.10e.dem.unit.nurglings",
+                "w40k.10e.dem.unit.plagueDrones",
+                "w40k.10e.dem.unit.beastsOfNurgle"
+            ],
+            "blockedDatasheets": []
+        },
+        {
+            "id": "w40k.10e.dg.dt.championsContagion",
+            "type": "detachment",
+            "rulesetId": "w40k.10e.dg",
+            "name": "Champions of Contagion",
+            "enhancements": [
+                {
+                    "name": "Final Ingredient",
+                    "keywordsMustCombined": ["DEATH GUARD", "BIOLOGUS PUTRIFIER"],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 20
+                },
+                {
+                    "name": "Visions of Virulence",
+                    "keywordsMustCombined": ["DEATH GUARD", "MALIGNANT PLAGUECASTER"],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 15
+                },
+                {
+                    "name": "Needle of Nurgle",
+                    "keywordsMustCombined": ["DEATH GUARD", "PLAGUE SURGEON"],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 25
+                },
+                {
+                    "name": "Cornucophagus",
+                    "keywordsMustCombined": ["DEATH GUARD", "LORD OF POXES"],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 35
+                }
+            ],
+            "additionalDatasheets": [],
+            "blockedDatasheets": []
+        },
+        {
+            "id": "w40k.10e.dg.dt.shamblerotVectorium",
+            "type": "detachment",
+            "rulesetId": "w40k.10e.dg",
+            "name": "Shamblerot Vectorium",
+            "enhancements": [
+                {
+                    "name": "Witherbone Pipes",
+                    "keywordsMustCombined": ["DEATH GUARD", "NOXIOUS BLIGHTBRINGER"],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 25
+                },
+                {
+                    "name": "Lord of the Walking Pox",
+                    "keywordsMustCombined": ["DEATH GUARD"],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 15
+                },
+                {
+                    "name": "Sorrowsyphon",
+                    "keywordsMustCombined": ["DEATH GUARD", "MALIGNANT PLAGUECASTER"],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 10
+                },
+                {
+                    "name": "Talisman of Burgeoning",
+                    "keywordsMustCombined": ["DEATH GUARD"],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 25
+                }
+            ],
+            "additionalDatasheets": [],
+            "blockedDatasheets": []
+        },
+        {
+            "id": "w40k.10e.dg.dt.deathLordsChosen",
+            "type": "detachment",
+            "rulesetId": "w40k.10e.dg",
+            "name": "Death Lords Chosen",
+            "enhancements": [
+                {
+                    "name": "Face of Death",
+                    "keywordsMustCombined": ["DEATH GUARD", "TERMINATOR"],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 10
+                },
+                {
+                    "name": "Vile Vigour",
+                    "keywordsMustCombined": ["DEATH GUARD", "TERMINATOR"],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 15
+                },
+                {
+                    "name": "Warprot Talisman",
+                    "keywordsMustCombined": ["DEATH GUARD", "TERMINATOR"],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 30
+                },
+                {
+                    "name": "Helm of the Fly King",
+                    "keywordsMustCombined": ["DEATH GUARD", "TERMINATOR"],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 20
+                }
+            ],
+            "additionalDatasheets": [],
+            "blockedDatasheets": []
         }
     ],
     "units": [
+        {
+            "id": "w40k.10e.dg.unit.daemonPrince",
+            "type": "unit",
+            "rulesetId": "w40k.10e.dg",
+            "name": "Daemon Prince",
+            "keywords": ["DEATH GUARD", "CHAOS", "NURGLE", "DAEMON PRINCE", "CHARACTER", "MONSTER", "DAEMON"],
+            "models": [
+                {
+                    "name": "Daemon Prince",
+                    "points": 195,
+                    "equipment": [
+                        {
+                            "type": "text",
+                            "items": ["Hellforged Weapon"]
+                        },
+                        {
+                            "type": "text",
+                            "items": ["Infernal Cannon"]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.dg.unit.daemonPrinceWings",
+            "type": "unit",
+            "rulesetId": "w40k.10e.dg",
+            "name": "Daemon Prince with Wings",
+            "keywords": ["DEATH GUARD", "CHAOS", "NURGLE", "DAEMON PRINCE WITH WINGS", "CHARACTER", "MONSTER", "FLY", "DAEMON"],
+            "models": [
+                {
+                    "name": "Daemon Prince with Wings",
+                    "points": 180,
+                    "equipment": [
+                        {
+                            "type": "text",
+                            "items": ["Hellforged Weapon"]
+                        },
+                        {
+                            "type": "text",
+                            "items": ["Infernal Cannon"]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.dg.unit.typhus",
+            "type": "unit",
+            "rulesetId": "w40k.10e.dg",
+            "name": "Typhus",
+            "keywords": ["DEATH GUARD", "CHAOS", "NURGLE", "TYPHUS", "CHARACTER", "EPIC HERO", "INFANTRY", "TERMINATOR", "PSYKER"],
+            "models": [
+                {
+                    "name": "Typhus",
+                    "points": 100
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.dg.unit.lordVirulence",
+            "type": "unit",
+            "rulesetId": "w40k.10e.dg",
+            "name": "Lord of Virulence",
+            "keywords": ["DEATH GUARD", "CHAOS", "NURGLE", "LORD OF VIRULENCE", "CHARACTER", "INFANTRY", "TERMINATOR"],
+            "models": [
+                {
+                    "name": "Lord of Virulence",
+                    "points": 100
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.dg.unit.lordPoxes",
+            "type": "unit",
+            "rulesetId": "w40k.10e.dg",
+            "name": "Lord of Poxes",
+            "keywords": ["DEATH GUARD", "CHAOS", "NURGLE", "LORD OF POXES", "CHARACTER", "INFANTRY", "GRENADES"],
+            "models": [
+                {
+                    "name": "Lord of Poxes",
+                    "points": 75
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.dg.unit.lordContagion",
+            "type": "unit",
+            "rulesetId": "w40k.10e.dg",
+            "name": "Lord of Contagion",
+            "keywords": ["DEATH GUARD", "CHAOS", "NURGLE", "LORD OF CONTAGION", "CHARACTER", "INFANTRY", "TERMINATOR", "GRENADES"],
+            "models": [
+                {
+                    "name": "Lord of Contagion",
+                    "points": 120
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.dg.unit.malignantPlaguecaster",
+            "type": "unit",
+            "rulesetId": "w40k.10e.dg",
+            "name": "Malignant Plaguecaster",
+            "keywords": ["DEATH GUARD", "CHAOS", "NURGLE", "MALIGNANT PLAGUECASTER", "CHARACTER", "INFANTRY", "PSYKER"],
+            "models": [
+                {
+                    "name": "Malignant Plaguecaster",
+                    "points": 60
+                }
+            ]
+        },
         {
             "id": "w40k.10e.dg.unit.plagueMarines",
             "type": "unit",
@@ -172,6 +542,868 @@
                             ]
                         }
                     ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.dg.unit.poxwalkers",
+            "type": "unit",
+            "rulesetId": "w40k.10e.dg",
+            "name": "Poxwalkers",
+            "keywords": ["DEATH GUARD", "CHAOS", "NURGLE", "POXWALKERS", "INFANTRY"],
+            "points": [
+                {
+                    "cost": 130,
+                    "minModels": 11,
+                    "maxModels": 20
+                },
+                {
+                    "cost": 65,
+                    "minModels": 10,
+                    "maxModels": 10
+                }
+            ],
+            "blueprints": [
+                {
+                    "name": "Poxwalker",
+                    "min": 10,
+                    "max": 20
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.dg.unit.noxiousBlightbringer",
+            "type": "unit",
+            "rulesetId": "w40k.10e.dg",
+            "name": "Noxious Blightbringer",
+            "keywords": ["DEATH GUARD", "CHAOS", "NURGLE", "NOXIOUS BLIGHTBRINGER", "CHARACTER", "INFANTRY"],
+            "models": [
+                {
+                    "name": "Noxious Blightbringer",
+                    "points": 50
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.dg.unit.foulBlightspawn",
+            "type": "unit",
+            "rulesetId": "w40k.10e.dg",
+            "name": "Foul Blightspawn",
+            "keywords": ["DEATH GUARD", "CHAOS", "NURGLE", "FOUL BLIGHTSPAWN", "CHARACTER", "INFANTRY"],
+            "models": [
+                {
+                    "name": "Foul Blightspawn",
+                    "points": 75
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.dg.unit.biologusPutrifier",
+            "type": "unit",
+            "rulesetId": "w40k.10e.dg",
+            "name": "Biologus Putrifier",
+            "keywords": ["DEATH GUARD", "CHAOS", "NURGLE", "BIOLOGUS PUTRIFIER", "CHARACTER", "INFANTRY", "GRENADES"],
+            "models": [
+                {
+                    "name": "Biologus Putrifier",
+                    "points": 60
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.dg.unit.tallyman",
+            "type": "unit",
+            "rulesetId": "w40k.10e.dg",
+            "name": "Tallyman",
+            "keywords": ["DEATH GUARD", "CHAOS", "NURGLE", "TALLYMAN", "CHARACTER", "INFANTRY"],
+            "models": [
+                {
+                    "name": "Tallyman",
+                    "points": 50
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.dg.unit.plagueSurgeon",
+            "type": "unit",
+            "rulesetId": "w40k.10e.dg",
+            "name": "Plague Surgeon",
+            "keywords": ["DEATH GUARD", "CHAOS", "NURGLE", "PLAGUE SURGEON", "CHARACTER", "INFANTRY"],
+            "models": [
+                {
+                    "name": "Plague Surgeon",
+                    "points": 50
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.dg.unit.blightlordTerminators",
+            "type": "unit",
+            "rulesetId": "w40k.10e.dg",
+            "name": "Blightlord Terminators",
+            "keywords": ["DEATH GUARD", "CHAOS", "NURGLE", "BLIGHTLORD TERMINATORS", "INFANTRY", "TERMINATOR"],
+            "points": [
+                {
+                    "cost": 370,
+                    "minModels": 6,
+                    "maxModels": 10
+                },
+                {
+                    "cost": 180,
+                    "minModels": 4,
+                    "maxModels": 5
+                },
+                {
+                    "cost": 115,
+                    "minModels": 3,
+                    "maxModels": 3
+                }
+            ],
+            "blueprints": [
+                {
+                    "name": "Blightlord Terminator",
+                    "min": 2,
+                    "max": 9,
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": ["Plague Combi-bolter", "Bubotic Blade"],
+                                    "selected": true
+                                },
+                                {
+                                    "items": ["Combi-weapon", "Bubotic Blade"],
+                                    "selected": true
+                                },
+                                {
+                                    "items": ["Blight Launcher", "Bubotic Blade"],
+                                    "selected": true
+                                },
+                                {
+                                    "items": ["Reaper Autocannon", "Bubotic Blade"],
+                                    "selected": true
+                                },
+                                {
+                                    "items": ["Plague Spewer", "Bubotic Blade"],
+                                    "selected": true
+                                },
+                                {
+                                    "items": ["Flail of Corruption"],
+                                    "selected": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Blightlord Champion",
+                    "min": 1,
+                    "max": 1,
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": ["Plague Combi-bolter"],
+                                    "selected": true
+                                },
+                                {
+                                    "items": ["Combi-weapon"],
+                                    "selected": true
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "items": ["Bubotic Blade"]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.dg.unit.deathshroudTerminators",
+            "type": "unit",
+            "rulesetId": "w40k.10e.dg",
+            "name": "Deathshroud Terminators",
+            "keywords": ["DEATH GUARD", "CHAOS", "NURGLE", "DEATHSHROUD TERMINATORS", "INFANTRY", "TERMINATOR"],
+            "points": [
+                {
+                    "cost": 320,
+                    "minModels": 4,
+                    "maxModels": 6
+                },
+                {
+                    "cost": 160,
+                    "minModels": 3,
+                    "maxModels": 3
+                }
+            ],
+            "blueprints": [
+                {
+                    "name": "Deathshroud Terminator",
+                    "min": 2,
+                    "max": 5,
+                    "equipment": [
+                        {
+                            "type": "text",
+                            "items": ["Plaguespurt Gauntlet"]
+                        }
+                    ]
+                },
+                {
+                    "name": "Deathshroud Champion",
+                    "min": 1,
+                    "max": 1,
+                    "equipment": [
+                        {
+                            "type": "text",
+                            "items": ["Plaguespurt Gauntlet"]
+                        },
+                        {
+                            "type": "checkbox",
+                            "items": ["Plaguespurt Gauntlet"],
+                            "selected": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.dg.unit.helbrute",
+            "type": "unit",
+            "rulesetId": "w40k.10e.dg",
+            "name": "Helbrute",
+            "keywords": [
+                "DEATH GUARD",
+                "CHAOS",
+                "NURGLE",
+                "HELBRUTE",
+                "VEHICLE",
+                "WALKER"
+            ],
+            "models": [
+                {
+                    "name": "Helbrute",
+                    "points": 115,
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Multi-melta"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Helbrute Plasma Cannon"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Twin Autocannon"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Twin Heavy Bolter"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Twin Lascannon"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Helbrute Fist",
+                                        "Combi-bolter"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Helbrute Fist",
+                                        "Heavy Flamer"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Missile Launcher"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Helbrute Fist",
+                                        "Combi-bolter"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Helbrute Fist",
+                                        "Heavy Flamer"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Helbrute Hammer"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Power Scourge"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.dg.unit.spawn",
+            "type": "unit",
+            "rulesetId": "w40k.10e.dg",
+            "name": "Chaos Spawn",
+            "keywords": [
+                "DEATH GUARD",
+                "CHAOS",
+                "NURGLE",
+                "CHAOS SPAWN",
+                "BEAST"
+            ],
+            "points": [
+                {
+                    "cost": 80,
+                    "minModels": 2,
+                    "maxModels": 2
+                }
+            ],
+            "models": [
+                {
+                    "name": "Chaos Spawn"
+                },
+                {
+                    "name": "Chaos Spawn"
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.dg.unit.myphiticBlighthauler",
+            "type": "unit",
+            "rulesetId": "w40k.10e.dg",
+            "name": "Myphitic Blight-hauler",
+            "keywords": ["DEATH GUARD", "CHAOS", "NURGLE", "MYPHITIC BLIGHTHAULER", "VEHICLE", "DAEMON", "SMOKE"],
+            "points": [
+                {
+                    "cost": 200,
+                    "minModels": 2,
+                    "maxModels": 2
+                },
+                {
+                    "cost": 100,
+                    "minModels": 1,
+                    "maxModels": 1
+                }
+            ],
+            "blueprints": [
+                {
+                    "name": "Myphitic Blight-hauler",
+                    "min": 1,
+                    "max": 2
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.dg.unit.foetidBloatDrone",
+            "type": "unit",
+            "rulesetId": "w40k.10e.dg",
+            "name": "Foetid Bloat Drone",
+            "keywords": ["DEATH GUARD", "CHAOS", "NURGLE", "FOETID BLOAT DRONE", "VEHICLE", "DAEMON", "FLY"],
+            "models": [
+                {
+                    "name": "Foetid Bloat Drone",
+                    "points": 100,
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Fleshmower"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Plaguespitter, Plaguespitter"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.dg.unit.foetidBloatDroneBlight",
+            "type": "unit",
+            "rulesetId": "w40k.10e.dg",
+            "name": "Foetid Bloat Drone with Heavy Blight Launcher",
+            "keywords": ["DEATH GUARD", "CHAOS", "NURGLE", "FOETID BLOAT DRONE WITH HEAVY BLIGHT LAUNCHER", "VEHICLE", "DAEMON", "FLY"],
+            "models": [
+                {
+                    "name": "Foetid Bloat Drone",
+                    "points": 120
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.dg.unit.plagueburstCrawler",
+            "type": "unit",
+            "rulesetId": "w40k.10e.dg",
+            "name": "Plagueburst Crawler",
+            "keywords": ["DEATH GUARD", "CHAOS", "NURGLE", "PLAGUEBURST CRAWLER", "VEHICLE", "DAEMON"],
+            "models": [
+                {
+                    "name": "Plagueburst Crawler",
+                    "points": 210,
+                    "equipment": [
+                        {
+                            "type": "text",
+                            "items": ["Plagueburst Mortar"]
+                        },
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": ["Entropy Cannon", "Entropy Cannon"],
+                                    "selected": true
+                                },
+                                {
+                                    "items": ["Plaguespitter", "Plaguespitter"],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": ["Heavy Slugger"],
+                                    "selected": true
+                                },
+                                {
+                                    "items": ["Rothail Volley Gun"],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.dg.unit.landRaider",
+            "type": "unit",
+            "rulesetId": "w40k.10e.dg",
+            "name": "Land Raider",
+            "keywords": [
+                "DEATH GUARD",
+                "CHAOS",
+                "NURGLE",
+                "LAND RAIDER",
+                "VEHICLE",
+                "TRANSPORT",
+                "SMOKE"
+            ],
+            "models": [
+                {
+                    "name": "Land Raider",
+                    "points": 220,
+                    "equipment": [
+                        {
+                            "type": "text",
+                            "items": ["Soulshatter Lascannon", "Soulshatter Lascannon"]
+                        },
+                        {
+                            "type": "text",
+                            "items": ["Twin Heavy Bolter"]
+                        },
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Combi-bolter"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Combi-weapon"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "checkbox",
+                            "items": [
+                                "Havoc Launcher"
+                            ],
+                            "selected": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.dg.unit.annihilator",
+            "type": "unit",
+            "rulesetId": "w40k.10e.dg",
+            "name": "Predator Annihilator",
+            "keywords": [
+                "DEATH GUARD",
+                "CHAOS",
+                "NURGLE",
+                "PREDATOR ANNIHILATOR",
+                "VEHICLE",
+                "SMOKE"
+            ],
+            "models": [
+                {
+                    "name": "Predator Annihilator",
+                    "points": 135,
+                    "equipment": [
+                        {
+                            "type": "text",
+                            "items": ["Predator Twin Lascannon"]
+                        },
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Heavy Bolter",
+                                        "Heavy Bolter"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Lascannon",
+                                        "Lascannon"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Combi-bolter"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Combi-weapon"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "checkbox",
+                            "items": [
+                                "Havoc Launcher"
+                            ],
+                            "selected": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.dg.unit.destructor",
+            "type": "unit",
+            "rulesetId": "w40k.10e.dg",
+            "name": "Predator Destructor",
+            "keywords": [
+                "DEATH GUARD",
+                "CHAOS",
+                "NURGLE",
+                "PREDATOR DESTRUCTOR",
+                "VEHICLE",
+                "SMOKE"
+            ],
+            "models": [
+                {
+                    "name": "Predator Destructor",
+                    "points": 145,
+                    "equipment": [
+                        {
+                            "type": "text",
+                            "items": ["Predator Autocannon"]
+                        },
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Heavy Bolter",
+                                        "Heavy Bolter"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Lascannon",
+                                        "Lascannon"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Combi-bolter"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Combi-weapon"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "checkbox",
+                            "items": [
+                                "Havoc Launcher"
+                            ],
+                            "selected": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.dg.unit.rhino",
+            "type": "unit",
+            "rulesetId": "w40k.10e.dg",
+            "name": "Rhino",
+            "keywords": [
+                "DEATH GUARD",
+                "CHAOS",
+                "NURGLE",
+                "RHINO",
+                "VEHICLE",
+                "TRANSPORT",
+                "DEDICATED TRANSPORT",
+                "SMOKE"
+            ],
+            "models": [
+                {
+                    "name": "Rhino",
+                    "points": 85,
+                    "equipment": [
+                        {
+                            "name": "Rhino",
+                            "points": 75,
+                            "equipment": [
+                                {
+                                    "type": "text",
+                                    "items": ["Combi-bolter"]
+                                },
+                                {
+                                    "type": "dropdown",
+                                    "options": [
+                                        {
+                                            "items": [
+                                                "Combi-bolter"
+                                            ],
+                                            "selected": false
+                                        },
+                                        {
+                                            "items": [
+                                                "Combi-weapon"
+                                            ],
+                                            "selected": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "checkbox",
+                                    "items": [
+                                        "Havoc Launcher"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.dg.unit.defiler",
+            "type": "unit",
+            "rulesetId": "w40k.10e.dg",
+            "name": "Defiler",
+            "keywords": [
+                "DEATH GUARD",
+                "CHAOS",
+                "NURGLE",
+                "DEFILER",
+                "VEHICLE",
+                "WALKER",
+                "DAEMON",
+                "SMOKE"
+            ],
+            "models": [
+                {
+                    "name": "Defiler",
+                    "points": 165,
+                    "equipment": [
+                        {
+                            "type": "text",
+                            "items": ["Defiler Cannon"]
+                        },
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Twin Heavy Flamer"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Havoc Launcher"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Defiler Scourge"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Reaper Autocannon"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Twin Heavy Bolter"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Twin Lascannon"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Combi-bolter"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Combi-weapon"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "items": ["Defiler Claws"]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.dg.unit.mortarion",
+            "type": "unit",
+            "rulesetId": "w40k.10e.dg",
+            "name": "Mortarion",
+            "keywords": ["DEATH GUARD", "CHAOS", "NURGLE", "MORTARION", "CHARACTER", "EPIC HERO", "MONSTER", "DAEMON", "FLY", "PRIMARCH", "PSYKER", "GRENADES"],
+            "models": [
+                {
+                    "name": "Mortarion",
+                    "points": 380
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.dg.unit.iconBearer",
+            "type": "unit",
+            "rulesetId": "w40k.10e.dg",
+            "name": "Icon Bearer",
+            "keywords": ["DEATH GUARD", "CHAOS", "NURGLE", "ICON BEARER", "CHARACTER", "INFANTRY", "GRENADES"],
+            "models": [
+                {
+                    "name": "Icon Bearer",
+                    "points": 45
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.dg.unit.miasmicMalignifier",
+            "type": "unit",
+            "rulesetId": "w40k.10e.dg",
+            "name": "Miasmic Malignifier",
+            "keywords": ["DEATH GUARD", "CHAOS", "NURGLE", "MIASMIC MALIGNIFIER", "FORTIFICATION"],
+            "models": [
+                {
+                    "name": "Miasmic Malignifier",
+                    "points": 105
                 }
             ]
         }

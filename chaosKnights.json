@@ -555,9 +555,7 @@
                     "equipment": [
                         {
                             "type": "text",
-                            "selectedOption": {
-                                "name": "Desecrator Laser Destructor"
-                            }
+                            "items": ["Desecrator Laser Destructor"]
                         },
                         {
                             "type": "dropdown",
