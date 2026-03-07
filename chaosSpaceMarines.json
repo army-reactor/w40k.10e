@@ -3254,29 +3254,24 @@
                     "points": 130,
                     "equipment": [
                         {
+                            "type": "text",
+                            "items": ["Maulerfiend Fists"]
+                        },
+                        {
                             "type": "dropdown",
                             "options": [
                                 {
-                                    "type": "text",
-                                    "items": ["Maulerfiend Fists"]
+                                    "items": [
+                                        "Lasher Tendrils"
+                                    ],
+                                    "selected": true
                                 },
                                 {
-                                    "type": "dropdown",
-                                    "options": [
-                                        {
-                                            "items": [
-                                                "Lasher Tendrils"
-                                            ],
-                                            "selected": true
-                                        },
-                                        {
-                                            "items": [
-                                                "Magma Cutter",
-                                                "Magma Cutter"
-                                            ],
-                                            "selected": false
-                                        }
-                                    ]
+                                    "items": [
+                                        "Magma Cutter",
+                                        "Magma Cutter"
+                                    ],
+                                    "selected": false
                                 }
                             ]
                         }

@@ -1,6 +1,6 @@
 {
     "id": "w40k.10e",
-    "version": "34",
+    "version": "35",
     "updateNotes": "00/00/0000: Big Bang",
     "name": "Warhammer 40,000: 10th Edition",
     "enabled": true,
@@ -28,6 +28,17 @@
             "endpoint": "chaosKnights.json",
             "associatedRulesets": [
                 "w40k.10e.dem"
+            ]
+        },
+        {
+            "id": "w40k.10e.ik.config",
+            "type": "config",
+            "rulesetId": "w40k.10e.ik",
+            "name": "Imperial Knights",
+            "keyword": "IMPERIAL KNIGHTS",
+            "enabled": true,
+            "endpoint": "imperialKnights.json",
+            "associatedRulesets": [
             ]
         },
         {

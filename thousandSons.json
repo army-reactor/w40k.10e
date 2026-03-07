@@ -13,6 +13,59 @@
     },
     "detachments": [
         {
+            "id": "w40k.10e.tsons.dt.changehostDeceit",
+            "type": "detachment",
+            "rulesetId": "w40k.10e.tsons",
+            "name": "Changehost of Deceit",
+            "enhancements": [
+                {
+                    "name": "Diabolic Savant",
+                    "keywordsMustCombined": [
+                        "THOUSAND SONS", "INFANTRY"
+                    ],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 20
+                },
+                {
+                    "name": "Duplicitous Malediction",
+                    "keywordsMustCombined": [],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 15
+                },
+                {
+                    "name": "Nethershriek Mind-eater",
+                    "keywordsMustCombined": [],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 10
+                },
+                {
+                    "name": "Tome of True Names",
+                    "keywordsMustCombined": [
+                        "THOUSAND SONS", "INFANTRY"
+                    ],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 20
+                }
+            ],
+            "additionalDatasheets": [
+                "w40k.10e.dem.unit.kairos",
+                "w40k.10e.dem.unit.lordOfChange",
+                "w40k.10e.dem.unit.blueHorrors",
+                "w40k.10e.dem.unit.pinkHorrors",
+                "w40k.10e.dem.unit.flamers",
+                "w40k.10e.dem.unit.screamers"
+            ],
+            "blockedDatasheets": []
+        },
+        {
             "id": "w40k.10e.tsons.dt.grandCoven",
             "type": "detachment",
             "rulesetId": "w40k.10e.tsons",
@@ -31,7 +84,7 @@
                 {
                     "name": "Incandaeum",
                     "keywordsMustCombined": [
-                        "THOUSAND SONS"
+                        "THOUSAND SONS", "EXALTED SORCERER"
                     ],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
@@ -61,15 +114,1106 @@
             ],
             "additionalDatasheets": [],
             "blockedDatasheets": []
+        },
+        {
+            "id": "w40k.10e.tsons.dt.rubricaePhalanx",
+            "type": "detachment",
+            "rulesetId": "w40k.10e.tsons",
+            "name": "Rubricae Phalanx",
+            "enhancements": [
+                {
+                    "name": "Arcane Thralls",
+                    "keywordsMustCombined": [
+                        "THOUSAND SONS"
+                    ],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 5
+                },
+                {
+                    "name": "Lord of the Rubricae",
+                    "keywordsMustCombined": [
+                        "THOUSAND SONS"
+                    ],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 15
+                },
+                {
+                    "name": "Risen Rubricae",
+                    "keywordsMustCombined": [
+                        "THOUSAND SONS"
+                    ],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 30
+                },
+                {
+                    "name": "The Stave Abominus",
+                    "keywordsMustCombined": [
+                        "THOUSAND SONS", "INFANTRY"
+                    ],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 20
+                }
+            ],
+            "additionalDatasheets": [],
+            "blockedDatasheets": []
+        },
+        {
+            "id": "w40k.10e.tsons.dt.warpforgedCabal",
+            "type": "detachment",
+            "rulesetId": "w40k.10e.tsons",
+            "name": "Warpforged Cabal",
+            "enhancements": [
+                {
+                    "name": "Biomechanical Mutation",
+                    "keywordsMustCombined": [
+                        "THOUSAND SONS"
+                    ],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 15
+                },
+                {
+                    "name": "The Perplexing Cloak",
+                    "keywordsMustCombined": [
+                        "THOUSAND SONS", "INFANTRY"
+                    ],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 20
+                },
+                {
+                    "name": "Warp Syphon",
+                    "keywordsMustCombined": [
+                        "THOUSAND SONS"
+                    ],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 5
+                },
+                {
+                    "name": "Warp-cursed Runemaster",
+                    "keywordsMustCombined": [
+                        "THOUSAND SONS"
+                    ],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 10
+                }
+            ],
+            "additionalDatasheets": [],
+            "blockedDatasheets": []
+        },
+        {
+            "id": "w40k.10e.tsons.dt.warpmeldPact",
+            "type": "detachment",
+            "rulesetId": "w40k.10e.tsons",
+            "name": "Warpmeld Pact",
+            "enhancements": [
+                {
+                    "name": "Bray Lord",
+                    "keywordsMustCombined": [
+                        "THOUSAND SONS"
+                    ],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": ["MONSTER", "MOUNTED", "EXALTED SORCERER", "TERMINATOR"],
+                    "selected": false,
+                    "points": 15
+                },
+                {
+                    "name": "Diamond of Distortion",
+                    "keywordsMustCombined": [
+                        "THOUSAND SONS", "TZAANGOR SHAMAN"
+                    ],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 20
+                },
+                {
+                    "name": "Flowing Flesh",
+                    "keywordsMustCombined": [
+                        "THOUSAND SONS", "TZAANGOR SHAMAN"
+                    ],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 10
+                },
+                {
+                    "name": "Warpmeld Dagger",
+                    "keywordsMustCombined": [
+                        "THOUSAND SONS", "TZAANGOR SHAMAN"
+                    ],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 10
+                }
+            ],
+            "additionalDatasheets": [],
+            "blockedDatasheets": []
+        },
+        {
+            "id": "w40k.10e.tsons.dt.hexwarpThrallband",
+            "type": "detachment",
+            "rulesetId": "w40k.10e.tsons",
+            "name": "Hexwarp Thrallband",
+            "enhancements": [
+                {
+                    "name": "Arcane Might",
+                    "keywordsMustCombined": [
+                        "THOUSAND SONS"
+                    ],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 20
+                },
+                {
+                    "name": "Empowered Manifestation",
+                    "keywordsMustCombined": [
+                        "THOUSAND SONS"
+                    ],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 20
+                },
+                {
+                    "name": "Empyric Onslaught",
+                    "keywordsMustCombined": [
+                        "THOUSAND SONS"
+                    ],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 25
+                },
+                {
+                    "name": "Noctilith Mantle",
+                    "keywordsMustCombined": [
+                        "THOUSAND SONS"
+                    ],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 15
+                }
+            ],
+            "additionalDatasheets": [],
+            "blockedDatasheets": []
         }
     ],
     "units": [
+        {
+            "id": "w40k.10e.tsons.unit.ahriman",
+            "type": "unit",
+            "rulesetId": "w40k.10e.tsons",
+            "name": "Ahriman",
+            "keywords": [
+                "THOUSAND SONS",
+                "CHAOS",
+                "TZEENTCH",
+                "AHRIMAN",
+                "CHARACTER",
+                "EPIC HERO",
+                "FLY",
+                "PSYKER",
+                "MOUNTED",
+                "INFANTRY"
+            ],
+            "models": [
+                {
+                    "name": "Ahriman",
+                    "points": 100
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.tsons.unit.landRaider",
+            "type": "unit",
+            "rulesetId": "w40k.10e.tsons",
+            "name": "Land Raider",
+            "keywords": [
+                "THOUSAND SONS",
+                "CHAOS",
+                "TZEENTCH",
+                "LAND RAIDER",
+                "VEHICLE",
+                "TRANSPORT",
+                "SMOKE"
+            ],
+            "models": [
+                {
+                    "name": "Land Raider",
+                    "points": 220,
+                    "equipment": [
+                        {
+                            "type": "text",
+                            "items": ["Soulshatter Lascannon", "Soulshatter Lascannon"]
+                        },
+                        {
+                            "type": "text",
+                            "items": ["Twin Heavy Bolter"]
+                        },
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Combi-bolter"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Combi-weapon"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "checkbox",
+                            "items": [
+                                "Havoc Launcher"
+                            ],
+                            "selected": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.tsons.unit.annihilator",
+            "type": "unit",
+            "rulesetId": "w40k.10e.tsons",
+            "name": "Predator Annihilator",
+            "keywords": [
+                "THOUSAND SONS",
+                "CHAOS",
+                "TZEENTCH",
+                "PREDATOR ANNIHILATOR",
+                "VEHICLE",
+                "SMOKE"
+            ],
+            "models": [
+                {
+                    "name": "Predator Annihilator",
+                    "points": 130,
+                    "equipment": [
+                        {
+                            "type": "text",
+                            "items": ["Predator Twin Lascannon"]
+                        },
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Inferno Heavy Bolter",
+                                        "Inferno Heavy Bolter"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Lascannon",
+                                        "Lascannon"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Inferno Combi-bolter"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Inferno Combi-weapon"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "checkbox",
+                            "items": [
+                                "Havoc Launcher"
+                            ],
+                            "selected": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.tsons.unit.destructor",
+            "type": "unit",
+            "rulesetId": "w40k.10e.tsons",
+            "name": "Predator Destructor",
+            "keywords": [
+                "THOUSAND SONS",
+                "CHAOS",
+                "TZEENTCH",
+                "PREDATOR DESTRUCTOR",
+                "VEHICLE",
+                "SMOKE"
+            ],
+            "models": [
+                {
+                    "name": "Predator Destructor",
+                    "points": 130,
+                    "equipment": [
+                        {
+                            "type": "text",
+                            "items": ["Predator Autocannon"]
+                        },
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Inferno Heavy Bolter",
+                                        "Inferno Heavy Bolter"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Lascannon",
+                                        "Lascannon"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Inferno Combi-bolter"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Inferno Combi-weapon"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "checkbox",
+                            "items": [
+                                "Havoc Launcher"
+                            ],
+                            "selected": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.tsons.unit.rhino",
+            "type": "unit",
+            "rulesetId": "w40k.10e.tsons",
+            "name": "Rhino",
+            "keywords": [
+                "THOUSAND SONS",
+                "CHAOS",
+                "TZEENTCH",
+                "RHINO",
+                "VEHICLE",
+                "TRANSPORT",
+                "DEDICATED TRANSPORT",
+                "SMOKE"
+            ],
+            "models": [
+                {
+                    "name": "Rhino",
+                    "points": 90,
+                    "equipment": [
+                        {
+                            "name": "Rhino",
+                            "points": 75,
+                            "equipment": [
+                                {
+                                    "type": "text",
+                                    "items": ["Inferno Combi-bolter"]
+                                },
+                                {
+                                    "type": "dropdown",
+                                    "options": [
+                                        {
+                                            "items": [
+                                                "Inferno Combi-bolter"
+                                            ],
+                                            "selected": false
+                                        },
+                                        {
+                                            "items": [
+                                                "Inferno Combi-weapon"
+                                            ],
+                                            "selected": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "checkbox",
+                                    "items": [
+                                        "Havoc Launcher"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.tsons.unit.spawn",
+            "type": "unit",
+            "rulesetId": "w40k.10e.tsons",
+            "name": "Chaos Spawn",
+            "keywords": [
+                "THOUSAND SONS",
+                "CHAOS",
+                "TZEENTCH",
+                "CHAOS SPAWN",
+                "BEAST"
+            ],
+            "points": [
+                {
+                    "cost": 65,
+                    "minModels": 2,
+                    "maxModels": 2
+                }
+            ],
+            "models": [
+                {
+                    "name": "Chaos Spawn"
+                },
+                {
+                    "name": "Chaos Spawn"
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.tsons.unit.sekhetarRobots",
+            "type": "unit",
+            "rulesetId": "w40k.10e.tsons",
+            "name": "Sekhetar Robots",
+            "keywords": [
+                "THOUSAND SONS",
+                "CHAOS",
+                "TZEENTCH",
+                "SEKHETAR ROBOTS",
+                "VEHICLE",
+                "WALKER"
+            ],
+            "points": [
+                {
+                    "cost": 160,
+                    "minModels": 3,
+                    "maxModels": 4
+                },
+                {
+                    "cost": 80,
+                    "minModels": 2,
+                    "maxModels": 2
+                }
+            ],
+            "blueprints": [
+                {
+                    "name": "Sekhetar Robot",
+                    "min": 2,
+                    "max": 4,
+                    "equipment": [
+                        {
+                            "type": "text",
+                            "items": ["Hellfyre Missile Rack"]
+                        },
+                        {
+                            "type": "text",
+                            "items": ["Heavy Warpflamer"]
+                        },
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Pyreflux Meltagun"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Warpflame Projector", "Power Claw"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.tsons.unit.vindicator",
+            "type": "unit",
+            "rulesetId": "w40k.10e.tsons",
+            "name": "Vindicator",
+            "keywords": [
+                "THOUSAND SONS",
+                "CHAOS",
+                "TZEENTCH",
+                "VINDICATOR",
+                "VEHICLE",
+                "SMOKE"
+            ],
+            "models": [
+                {
+                    "name": "Vindicator",
+                    "points": 185,
+                    "equipment": [
+                        {
+                            "type": "text",
+                            "items": ["Demolisher Cannon"]
+                        },
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Inferno Combi-bolter"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Inferno Combi-weapon"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "checkbox",
+                            "items": [
+                                "Havoc Launcher"
+                            ],
+                            "selected": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.tsons.unit.defiler",
+            "type": "unit",
+            "rulesetId": "w40k.10e.tsons",
+            "name": "Defiler",
+            "keywords": [
+                "THOUSAND SONS",
+                "CHAOS",
+                "TZEENTCH",
+                "DEFILER",
+                "VEHICLE",
+                "WALKER",
+                "DAEMON",
+                "SMOKE"
+            ],
+            "models": [
+                {
+                    "name": "Defiler",
+                    "points": 165,
+                    "equipment": [
+                        {
+                            "type": "text",
+                            "items": ["Defiler Cannon"]
+                        },
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Twin Heavy Flamer"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Havoc Launcher"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Defiler Scourge"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Reaper Autocannon"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Twin Inferno Heavy Bolter"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Twin Lascannon"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "checkbox",
+                            "items": [
+                                "Inferno Combi-weapon"
+                            ],
+                            "selected": false
+                        },
+                        {
+                            "type": "text",
+                            "items": ["Defiler Claws"]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.tsons.unit.exaltedSorcerer",
+            "type": "unit",
+            "rulesetId": "w40k.10e.tsons",
+            "name": "Exalted Sorcerer",
+            "keywords": [
+                "THOUSAND SONS",
+                "CHAOS",
+                "TZEENTCH",
+                "EXALTED SORCERER",
+                "CHARACTER",
+                "INFANTRY",
+                "PSYKER",
+                "GRENADES"
+            ],
+            "models": [
+                {
+                    "name": "Exalted Sorcerer",
+                    "points": 80,
+                    "equipment": [
+                        {
+                            "type": "checkbox",
+                            "items": [
+                                "Prosperine Khopesh"
+                            ],
+                            "selected": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.tsons.unit.exaltedSorcererDisc",
+            "type": "unit",
+            "rulesetId": "w40k.10e.tsons",
+            "name": "Exalted Sorcerer on Disc",
+            "keywords": [
+                "THOUSAND SONS",
+                "CHAOS",
+                "TZEENTCH",
+                "EXALTED SORCERER ON DISC",
+                "CHARACTER",
+                "INFANTRY",
+                "MOUNTED",
+                "FLY",
+                "PSYKER",
+                "GRENADES"
+            ],
+            "models": [
+                {
+                    "name": "Exalted Sorcerer on Disc",
+                    "points": 100,
+                    "equipment": [
+                        {
+                            "type": "checkbox",
+                            "items": [
+                                "Prosperine Khopesh"
+                            ],
+                            "selected": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.tsons.unit.forgefiend",
+            "type": "unit",
+            "rulesetId": "w40k.10e.tsons",
+            "name": "Forgefiend",
+            "keywords": [
+                "THOUSAND SONS",
+                "CHAOS",
+                "TZEENTCH",
+                "FORGEFIEND",
+                "VEHICLE",
+                "WALKER",
+                "DAEMON"
+            ],
+            "models": [
+                {
+                    "name": "Forgefiend",
+                    "points": 130,
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Hades Autocannon",
+                                        "Hades Autocannon"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Ectoplasma Cannon",
+                                        "Ectoplasma Cannon"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Forgefiend Jaws"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Ectoplasma Cannon", "Forgefiend Claws"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.tsons.unit.helbrute",
+            "type": "unit",
+            "rulesetId": "w40k.10e.tsons",
+            "name": "Helbrute",
+            "keywords": [
+                "THOUSAND SONS",
+                "CHAOS",
+                "TZEENTCH",
+                "HELBRUTE",
+                "VEHICLE",
+                "WALKER"
+            ],
+            "models": [
+                {
+                    "name": "Helbrute",
+                    "points": 110,
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Multi-melta"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Helbrute Plasma Cannon"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Twin Autocannon"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Twin Inferno Heavy Bolter"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Twin Lascannon"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Helbrute Fist", "Inferno Combi-bolter"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Helbrute Fist", "Heavy Flamer"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Missile Launcher"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Helbrute Fist", "Inferno Combi-bolter"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Helbrute Fist", "Heavy Flamer"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Helbrute Hammer"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Power Scourge"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.tsons.unit.heldrake",
+            "type": "unit",
+            "rulesetId": "w40k.10e.tsons",
+            "name": "Heldrake",
+            "keywords": [
+                "THOUSAND SONS",
+                "CHAOS",
+                "TZEENTCH",
+                "HELDRAKE",
+                "VEHICLE",
+                "DAEMON",
+                "FLY",
+                "AIRCRAFT"
+            ],
+            "models": [
+                {
+                    "name": "Heldrake",
+                    "points": 215,
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Hades Autocannon"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Baleflamer"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "items": ["Heldrake Claws"]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.tsons.unit.infernalMaster",
+            "type": "unit",
+            "rulesetId": "w40k.10e.tsons",
+            "name": "Infernal Master",
+            "keywords": [
+                "THOUSAND SONS",
+                "CHAOS",
+                "TZEENTCH",
+                "INFERNAL MASTER",
+                "CHARACTER",
+                "PSYKER",
+                "GRENADES"
+            ],
+            "models": [
+                {
+                    "name": "Infernal Master",
+                    "points": 95
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.tsons.unit.magnus",
+            "type": "unit",
+            "rulesetId": "w40k.10e.tsons",
+            "name": "Magnus the Red",
+            "keywords": [
+                "THOUSAND SONS",
+                "CHAOS",
+                "TZEENTCH",
+                "MAGNUS THE RED",
+                "CHARACTER",
+                "MONSTER",
+                "FLY",
+                "PSYKER",
+                "EPIC HERO",
+                "DAEMON",
+                "PRIMARCH"
+            ],
+            "models": [
+                {
+                    "name": "Magnus the Red",
+                    "points": 435
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.tsons.unit.maulerfiend",
+            "type": "unit",
+            "rulesetId": "w40k.10e.tsons",
+            "name": "Maulerfiend",
+            "keywords": [
+                "THOUSAND SONS",
+                "CHAOS",
+                "TZEENTCH",
+                "MAULERFIEND",
+                "VEHICLE",
+                "WALKER",
+                "DAEMON"
+            ],
+            "models": [
+                {
+                    "name": "Maulerfiend",
+                    "points": 120,
+                    "equipment": [
+                        {
+                            "type": "text",
+                            "items": ["Maulerfiend Fists"]
+                        },
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Lasher Tendrils"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Magma Cutter",
+                                        "Magma Cutter"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.tsons.unit.vortexBeast",
+            "type": "unit",
+            "rulesetId": "w40k.10e.tsons",
+            "name": "Mutalith Vortex Beast",
+            "keywords": [
+                "THOUSAND SONS",
+                "CHAOS",
+                "TZEENTCH",
+                "MUTALITH VORTEX BEAST",
+                "MONSTER",
+                "MUTANT"
+            ],
+            "models": [
+                {
+                    "name": "Mutalith Vortex Beast",
+                    "points": 170
+                }
+            ]
+        },
         {
             "id": "w40k.10e.tsons.unit.rubrics",
             "type": "unit",
             "rulesetId": "w40k.10e.tsons",
             "name": "Rubric Marines",
-            "keywords": ["THOUSAND SONS", "CHAOS", "TZEENTCH", "RUBRIC MARINES", "BATTLELINE", "INFANTRY", "GRENADES"],
+            "keywords": [
+                "THOUSAND SONS",
+                "CHAOS",
+                "TZEENTCH",
+                "RUBRIC MARINES",
+                "RUBRICAE",
+                "BATTLELINE",
+                "INFANTRY",
+                "GRENADES",
+                "PSYKER"
+            ],
             "points": [
                 {
                     "cost": 190,
@@ -92,22 +1236,30 @@
                             "type": "dropdown",
                             "options": [
                                 {
-                                    "items": ["Inferno Boltgun"],
+                                    "items": [
+                                        "Inferno Boltgun"
+                                    ],
                                     "selected": true
                                 },
                                 {
-                                    "items": ["Warpflamer"],
+                                    "items": [
+                                        "Warpflamer"
+                                    ],
                                     "selected": false
                                 },
                                 {
-                                    "items": ["Soulreaper Cannon"],
+                                    "items": [
+                                        "Soulreaper Cannon"
+                                    ],
                                     "selected": false
                                 }
                             ]
                         },
                         {
                             "type": "checkbox",
-                            "items": ["Icon of Flame"],
+                            "items": [
+                                "Icon of Flame"
+                            ],
                             "selected": false
                         }
                     ]
@@ -121,15 +1273,479 @@
                             "type": "dropdown",
                             "options": [
                                 {
-                                    "items": ["Inferno Bolt Pistol"],
+                                    "items": [
+                                        "Inferno Bolt Pistol"
+                                    ],
                                     "selected": true
                                 },
                                 {
-                                    "items": ["Plasma Pistol"],
+                                    "items": [
+                                        "Plasma Pistol"
+                                    ],
                                     "selected": false
                                 },
                                 {
-                                    "items": ["Warpflame Pistol"],
+                                    "items": [
+                                        "Warpflame Pistol"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "items": ["Force Weapon"]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.tsons.unit.scarabs",
+            "type": "unit",
+            "rulesetId": "w40k.10e.tsons",
+            "name": "Scarab Occult Terminators",
+            "keywords": [
+                "THOUSAND SONS",
+                "CHAOS",
+                "TZEENTCH",
+                "SCARAB OCCULT TERMINATORS",
+                "TERMINATOR",
+                "INFANTRY",
+                "RUBRICAE",
+                "PSYKER"
+            ],
+            "points": [
+                {
+                    "cost": 360,
+                    "minModels": 6,
+                    "maxModels": 10
+                },
+                {
+                    "cost": 180,
+                    "minModels": 5,
+                    "maxModels": 5
+                }
+            ],
+            "blueprints": [
+                {
+                    "name": "Scarab Occult Terminator",
+                    "min": 4,
+                    "max": 9,
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Inferno Combi-bolter"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Heavy Warpflamer"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Soulreaper Cannon"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "checkbox",
+                            "items": [
+                                "Hellfyre Missile Rack"
+                            ],
+                            "selected": false
+                        }
+                    ]
+                },
+                {
+                    "name": "Scarab Occult Sorcerer",
+                    "min": 1,
+                    "max": 1,
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Inferno Combi-bolter"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Prosperine Khopesh"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.tsons.unit.sorcerer",
+            "type": "unit",
+            "rulesetId": "w40k.10e.tsons",
+            "name": "Sorcerer",
+            "keywords": [
+                "THOUSAND SONS",
+                "CHAOS",
+                "TZEENTCH",
+                "SORCERER",
+                "CHARACTER",
+                "PSYKER",
+                "GRENADES"
+            ],
+            "models": [
+                {
+                    "name": "Sorcerer",
+                    "points": 80,
+                    "equipment": [
+                        {
+                            "type": "checkbox",
+                            "items": [
+                                "Prosperine Khopesh"
+                            ],
+                            "selected": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.tsons.unit.terminatorSorcerer",
+            "type": "unit",
+            "rulesetId": "w40k.10e.tsons",
+            "name": "Sorcerer in Terminator Armour",
+            "keywords": [
+                "THOUSAND SONS",
+                "CHAOS",
+                "TZEENTCH",
+                "SORCERER IN TERMINATOR ARMOUR",
+                "CHARACTER",
+                "TERMINATOR",
+                "PSYKER"
+            ],
+            "models": [
+                {
+                    "name": "Sorcerer in Terminator Armour",
+                    "points": 85,
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Inferno Combi-bolter"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Prosperine Khopesh"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.tsons.unit.daemonPrince",
+            "type": "unit",
+            "rulesetId": "w40k.10e.tsons",
+            "name": "Daemon Prince",
+            "keywords": [
+                "THOUSAND SONS",
+                "CHAOS",
+                "TZEENTCH",
+                "DAEMON PRINCE",
+                "CHARACTER",
+                "MONSTER",
+                "PSYKER"
+            ],
+            "models": [
+                {
+                    "name": "Daemon Prince",
+                    "points": 180,
+                    "equipment": [
+                        {
+                            "type": "text",
+                            "items": ["Hellforged Weapon"]
+                        },
+                        {
+                            "type": "text",
+                            "items": ["Infernal Cannon"]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.tsons.unit.daemonPrinceWings",
+            "type": "unit",
+            "rulesetId": "w40k.10e.tsons",
+            "name": "Daemon Prince with Wings",
+            "keywords": [
+                "THOUSAND SONS",
+                "CHAOS",
+                "TZEENTCH",
+                "DAEMON PRINCE WITH WINGS",
+                "CHARACTER",
+                "MONSTER",
+                "PSYKER",
+                "FLY"
+            ],
+            "models": [
+                {
+                    "name": "Daemon Prince with Wings",
+                    "points": 170,
+                    "equipment": [
+                        {
+                            "type": "text",
+                            "items": ["Hellforged Weapon"]
+                        },
+                        {
+                            "type": "text",
+                            "items": ["Infernal Cannon"]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.tsons.unit.tzaangorEnlightened",
+            "type": "unit",
+            "rulesetId": "w40k.10e.tsons",
+            "name": "Tzaangor Enlightened",
+            "keywords": [
+                "THOUSAND SONS",
+                "CHAOS",
+                "TZEENTCH",
+                "TZAANGOR ENLIGHTENED",
+                "MOUNTED",
+                "MUTANT",
+                "FLY"
+            ],
+            "points": [
+                {
+                    "cost": 90,
+                    "minModels": 4,
+                    "maxModels": 6
+                },
+                {
+                    "cost": 45,
+                    "minModels": 3,
+                    "maxModels": 3
+                }
+            ],
+            "blueprints": [
+                {
+                    "name": "Tzaangor Enlightened",
+                    "min": 2,
+                    "max": 5,
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Divining Spear"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Autopistol", "Chainsword"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Aviarch",
+                    "min": 1,
+                    "max": 1,
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Divining Spear"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Autopistol", "Chainsword"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.tsons.unit.tzaangorEnlightenedGreatbows",
+            "type": "unit",
+            "rulesetId": "w40k.10e.tsons",
+            "name": "Tzaangor Enlightened with Fatecaster Greatbows",
+            "keywords": [
+                "THOUSAND SONS",
+                "CHAOS",
+                "TZEENTCH",
+                "TZAANGOR ENLIGHTENED WITH FATECASTER GREATBOWS",
+                "MOUNTED",
+                "MUTANT",
+                "FLY"
+            ],
+            "points": [
+                {
+                    "cost": 110,
+                    "minModels": 4,
+                    "maxModels": 6
+                },
+                {
+                    "cost": 55,
+                    "minModels": 3,
+                    "maxModels": 3
+                }
+            ],
+            "blueprints": [
+                {
+                    "name": "Tzaangor Enlightened",
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "name": "Aviarch",
+                    "min": 1,
+                    "max": 1
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.tsons.unit.tzaangorShaman",
+            "type": "unit",
+            "rulesetId": "w40k.10e.tsons",
+            "name": "Tzaangor Shaman",
+            "keywords": [
+                "THOUSAND SONS",
+                "CHAOS",
+                "TZEENTCH",
+                "TZAANGOR SHAMAN",
+                "CHARACTER",
+                "INFANTRY",
+                "MOUNTED",
+                "FLY",
+                "MUTANT",
+                "PSYKER"
+            ],
+            "models": [
+                {
+                    "name": "Tzaangor Shaman",
+                    "points": 60
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.tsons.unit.tzaangors",
+            "type": "unit",
+            "rulesetId": "w40k.10e.tsons",
+            "name": "Tzaangors",
+            "keywords": [
+                "THOUSAND SONS",
+                "CHAOS",
+                "TZEENTCH",
+                "TZAANGORS",
+                "INFANTRY",
+                "MUTANT"
+            ],
+            "points": [
+                {
+                    "cost": 160,
+                    "minModels": 11,
+                    "maxModels": 20
+                },
+                {
+                    "cost": 70,
+                    "minModels": 10,
+                    "maxModels": 10
+                }
+            ],
+            "blueprints": [
+                {
+                    "name": "Tzaangor",
+                    "min": 9,
+                    "max": 19,
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Tzaangor Blades"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Autopistol, Chainsword"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "checkbox",
+                            "items": [
+                                "Brayhorn"
+                            ],
+                            "selected": false
+                        },
+                        {
+                            "type": "checkbox",
+                            "items": [
+                                "Herd Banner"
+                            ],
+                            "selected": false
+                        }
+                    ]
+                },
+                {
+                    "name": "Twistbray",
+                    "min": 1,
+                    "max": 1,
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Tzaangor Blades"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Autopistol, Chainsword"
+                                    ],
                                     "selected": false
                                 }
                             ]
