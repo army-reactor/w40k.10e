@@ -731,47 +731,35 @@
             ]
         },
         {
-            "id": "w40k.10e.tsons.unit.defiler",
+            "id": "w40k.10e.csm.unit.defiler",
             "type": "unit",
-            "rulesetId": "w40k.10e.tsons",
+            "rulesetId": "w40k.10e.csm",
             "name": "Defiler",
             "keywords": [
                 "THOUSAND SONS",
                 "CHAOS",
-                "TZEENTCH",
                 "DEFILER",
                 "VEHICLE",
                 "WALKER",
-                "DAEMON",
-                "SMOKE"
+                "DAEMON"
             ],
             "models": [
                 {
                     "name": "Defiler",
-                    "points": 165,
+                    "points": 250,
                     "equipment": [
                         {
-                            "type": "text",
-                            "items": ["Defiler Cannon"]
-                        },
-                        {
                             "type": "dropdown",
                             "options": [
                                 {
                                     "items": [
-                                        "Twin Heavy Flamer"
+                                        "Hades Battle Cannon"
                                     ],
                                     "selected": true
                                 },
                                 {
                                     "items": [
-                                        "Havoc Launcher"
-                                    ],
-                                    "selected": false
-                                },
-                                {
-                                    "items": [
-                                        "Defiler Scourge"
+                                        "Ectoplasma Destructor"
                                     ],
                                     "selected": false
                                 }
@@ -782,34 +770,79 @@
                             "options": [
                                 {
                                     "items": [
-                                        "Reaper Autocannon"
+                                        "Excruciator Cannon", "Excruciator Cannon"
                                     ],
                                     "selected": true
                                 },
                                 {
                                     "items": [
-                                        "Twin Inferno Heavy Bolter"
-                                    ],
-                                    "selected": false
-                                },
-                                {
-                                    "items": [
-                                        "Twin Lascannon"
+                                        "Magma Cutter", "Magma Cutter"
                                     ],
                                     "selected": false
                                 }
                             ]
                         },
                         {
-                            "type": "checkbox",
-                            "items": [
-                                "Inferno Combi-weapon"
-                            ],
-                            "selected": false
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Heavy Baleflamer"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Hades Lascannon"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Heavy Reaper Autocannon"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Electroscourge"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Heavy Missile Launcher"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Hades Lascannon"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Heavy Reaper Autocannon"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Electroscourge"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
                         },
                         {
                             "type": "text",
-                            "items": ["Defiler Claws"]
+                            "items": ["Shearing Claws"]
                         }
                     ]
                 }

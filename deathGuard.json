@@ -1274,47 +1274,35 @@
             ]
         },
         {
-            "id": "w40k.10e.dg.unit.defiler",
+            "id": "w40k.10e.csm.unit.defiler",
             "type": "unit",
-            "rulesetId": "w40k.10e.dg",
+            "rulesetId": "w40k.10e.csm",
             "name": "Defiler",
             "keywords": [
                 "DEATH GUARD",
                 "CHAOS",
-                "NURGLE",
                 "DEFILER",
                 "VEHICLE",
                 "WALKER",
-                "DAEMON",
-                "SMOKE"
+                "DAEMON"
             ],
             "models": [
                 {
                     "name": "Defiler",
-                    "points": 165,
+                    "points": 250,
                     "equipment": [
                         {
-                            "type": "text",
-                            "items": ["Defiler Cannon"]
-                        },
-                        {
                             "type": "dropdown",
                             "options": [
                                 {
                                     "items": [
-                                        "Twin Heavy Flamer"
+                                        "Hades Battle Cannon"
                                     ],
                                     "selected": true
                                 },
                                 {
                                     "items": [
-                                        "Havoc Launcher"
-                                    ],
-                                    "selected": false
-                                },
-                                {
-                                    "items": [
-                                        "Defiler Scourge"
+                                        "Ectoplasma Destructor"
                                     ],
                                     "selected": false
                                 }
@@ -1325,19 +1313,13 @@
                             "options": [
                                 {
                                     "items": [
-                                        "Reaper Autocannon"
+                                        "Excruciator Cannon", "Excruciator Cannon"
                                     ],
                                     "selected": true
                                 },
                                 {
                                     "items": [
-                                        "Twin Heavy Bolter"
-                                    ],
-                                    "selected": false
-                                },
-                                {
-                                    "items": [
-                                        "Twin Lascannon"
+                                        "Magma Cutter", "Magma Cutter"
                                     ],
                                     "selected": false
                                 }
@@ -1348,13 +1330,54 @@
                             "options": [
                                 {
                                     "items": [
-                                        "Combi-bolter"
+                                        "Heavy Baleflamer"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Hades Lascannon"
                                     ],
                                     "selected": false
                                 },
                                 {
                                     "items": [
-                                        "Combi-weapon"
+                                        "Heavy Reaper Autocannon"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Electroscourge"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Heavy Missile Launcher"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Hades Lascannon"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Heavy Reaper Autocannon"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Electroscourge"
                                     ],
                                     "selected": false
                                 }
@@ -1362,7 +1385,7 @@
                         },
                         {
                             "type": "text",
-                            "items": ["Defiler Claws"]
+                            "items": ["Shearing Claws"]
                         }
                     ]
                 }

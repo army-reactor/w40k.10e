@@ -258,6 +258,56 @@
                 "w40k.10e.csm.unit.traitorGuardsmen"
             ],
             "blockedDatasheets": []
+        },
+        {
+            "id": "w40k.10e.ck.dt.helhuntLance",
+            "type": "detachment",
+            "rulesetId": "w40k.10e.ck",
+            "name": "Helhunt Lance",
+            "enhancements": [
+                {
+                    "name": "Hunter's Helm",
+                    "keywordsMustCombined": ["CHAOS KNIGHTS"],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 15
+                },
+                {
+                    "name": "Octagram of Conjuration",
+                    "keywordsMustCombined": ["CHAOS KNIGHTS", "KNIGHT ABOMINANT"],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 40
+                },
+                {
+                    "name": "Throne Tyrannicus",
+                    "keywordsMustCombined": ["CHAOS KNIGHTS", "TITANIC"],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 25
+                },
+                {
+                    "name": "Aspect of the Beast",
+                    "keywordsMustCombined": ["CHAOS KNIGHTS"],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 30
+                }
+            ],
+            "additionalDatasheets": [
+                "w40k.10e.csm.unit.cultistFirebrand",
+                "w40k.10e.csm.unit.darkCommune",
+                "w40k.10e.csm.unit.traitorEnforcer",
+                "w40k.10e.csm.unit.cultistMob",
+                "w40k.10e.csm.unit.accursedCultists",
+                "w40k.10e.csm.unit.fellgorBeastmen",
+                "w40k.10e.csm.unit.traitorGuardsmen"
+            ],
+            "blockedDatasheets": []
         }
     ],
     "units": [

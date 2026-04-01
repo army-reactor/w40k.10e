@@ -14,6 +14,100 @@
     },
     "detachments": [
         {
+            "id": "w40k.10e.csm.dt.warpstrikeChampions",
+            "type": "detachment",
+            "rulesetId": "w40k.10e.csm",
+            "name": "Warpstrike Champions",
+            "enhancements": [
+                {
+                    "name": "Akshur's Binding Runes",
+                    "keywordsMustCombined": ["HERETIC ASTARTES"],
+                    "keywordsMustSeparate": ["TERMINATOR", "JUMP PACK", "DAEMON PRINCE", "DAEMON PRINCE WITH WINGS"],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 20
+                },
+                {
+                    "name": "Eye of the Warp",
+                    "keywordsMustCombined": ["HERETIC ASTARTES"],
+                    "keywordsMustSeparate": ["TERMINATOR", "JUMP PACK", "DAEMON PRINCE", "DAEMON PRINCE WITH WINGS"],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 15
+                },
+                {
+                    "name": "Infernal Fulgurite",
+                    "keywordsMustCombined": ["HERETIC ASTARTES", "TERMINATOR"],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": ["DAMNED"],
+                    "selected": false,
+                    "points": 20
+                },
+                {
+                    "name": "Tzagulla",
+                    "keywordsMustCombined": ["HERETIC ASTARTES"],
+                    "keywordsMustSeparate": ["TERMINATOR", "JUMP PACK", "DAEMON PRINCE", "DAEMON PRINCE WITH WINGS"],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 25
+                }
+            ],
+            "additionalDatasheets": [
+                "w40k.10e.ec.unit.noiseMarines",
+                "w40k.10e.we.unit.khorneBerzerkers",
+                "w40k.10e.dg.unit.plagueMarines",
+                "w40k.10e.tsons.unit.rubrics"
+            ],
+            "blockedDatasheets": []
+        },
+        {
+            "id": "w40k.10e.csm.dt.cultArkifane",
+            "type": "detachment",
+            "rulesetId": "w40k.10e.csm",
+            "name": "Cult of the Arkifane",
+            "enhancements": [
+                {
+                    "name": "Crown of Worms",
+                    "keywordsMustCombined": ["HERETIC ASTARTES", "WARPSMITH"],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 15
+                },
+                {
+                    "name": "Cybinfernal Font",
+                    "keywordsMustCombined": ["HERETIC ASTARTES"],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": ["DAMNED"],
+                    "selected": false,
+                    "points": 20
+                },
+                {
+                    "name": "Mark of the Soul Forges",
+                    "keywordsMustCombined": ["HERETIC ASTARTES"],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": ["DAMNED"],
+                    "selected": false,
+                    "points": 20
+                },
+                {
+                    "name": "Wyredjinn",
+                    "keywordsMustCombined": ["HERETIC ASTARTES"],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": ["DAMNED"],
+                    "selected": false,
+                    "points": 25
+                }
+            ],
+            "additionalDatasheets": [
+                "w40k.10e.ec.unit.noiseMarines",
+                "w40k.10e.we.unit.khorneBerzerkers",
+                "w40k.10e.dg.unit.plagueMarines",
+                "w40k.10e.tsons.unit.rubrics"
+            ],
+            "blockedDatasheets": []
+        },
+        {
             "id": "w40k.10e.csm.dt.renegadeWarband",
             "type": "detachment",
             "rulesetId": "w40k.10e.csm",
@@ -700,6 +794,28 @@
                 {
                     "name": "Haarken Worldclaimer",
                     "points": 90
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.csm.unit.kravekMorne",
+            "type": "unit",
+            "rulesetId": "w40k.10e.csm",
+            "name": "Kravek Morne",
+            "keywords": [
+                "HERETIC ASTARTES",
+                "CHAOS",
+                "CHAOS UNDIVIDED",
+                "CHARACTER",
+                "KRAVEK MORNE",
+                "EPIC HERO",
+                "INFANTRY",
+                "TERMINATOR"
+            ],
+            "models": [
+                {
+                    "name": "Kravek Morne",
+                    "points": 120
                 }
             ]
         },
@@ -2693,6 +2809,39 @@
             ]
         },
         {
+            "id": "w40k.10e.csm.unit.mutilators",
+            "type": "unit",
+            "rulesetId": "w40k.10e.csm",
+            "name": "Mutilators",
+            "keywords": [
+                "HERETIC ASTARTES",
+                "CHAOS",
+                "MUTILATORS",
+                "INFANTRY",
+                "DAEMON"
+            ],
+            "points": [
+                {
+                    "cost": 200,
+                    "minModels": 3,
+                    "maxModels": 3
+                }
+            ],
+            "blueprints": [
+                {
+                    "name": "Mutilator",
+                    "min": 3,
+                    "max": 3,
+                    "equipment": [
+                        {
+                            "type": "text",
+                            "items": ["Fleshmetal Weapons"]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "w40k.10e.csm.unit.landRaider",
             "type": "unit",
             "rulesetId": "w40k.10e.csm",
@@ -2942,36 +3091,25 @@
                 "DEFILER",
                 "VEHICLE",
                 "WALKER",
-                "DAEMON",
-                "SMOKE"
+                "DAEMON"
             ],
             "models": [
                 {
                     "name": "Defiler",
-                    "points": 190,
+                    "points": 250,
                     "equipment": [
                         {
-                            "type": "text",
-                            "items": ["Defiler Cannon"]
-                        },
-                        {
                             "type": "dropdown",
                             "options": [
                                 {
                                     "items": [
-                                        "Twin Heavy Flamer"
+                                        "Hades Battle Cannon"
                                     ],
                                     "selected": true
                                 },
                                 {
                                     "items": [
-                                        "Havoc Launcher"
-                                    ],
-                                    "selected": false
-                                },
-                                {
-                                    "items": [
-                                        "Defiler Scourge"
+                                        "Ectoplasma Destructor"
                                     ],
                                     "selected": false
                                 }
@@ -2982,19 +3120,13 @@
                             "options": [
                                 {
                                     "items": [
-                                        "Reaper Autocannon"
+                                        "Excruciator Cannon", "Excruciator Cannon"
                                     ],
                                     "selected": true
                                 },
                                 {
                                     "items": [
-                                        "Twin Heavy Bolter"
-                                    ],
-                                    "selected": false
-                                },
-                                {
-                                    "items": [
-                                        "Twin Lascannon"
+                                        "Magma Cutter", "Magma Cutter"
                                     ],
                                     "selected": false
                                 }
@@ -3005,13 +3137,54 @@
                             "options": [
                                 {
                                     "items": [
-                                        "Combi-bolter"
+                                        "Heavy Baleflamer"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Hades Lascannon"
                                     ],
                                     "selected": false
                                 },
                                 {
                                     "items": [
-                                        "Combi-weapon"
+                                        "Heavy Reaper Autocannon"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Electroscourge"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Heavy Missile Launcher"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Hades Lascannon"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Heavy Reaper Autocannon"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Electroscourge"
                                     ],
                                     "selected": false
                                 }
@@ -3019,7 +3192,7 @@
                         },
                         {
                             "type": "text",
-                            "items": ["Defiler Claws"]
+                            "items": ["Shearing Claws"]
                         }
                     ]
                 }

@@ -1013,6 +1013,124 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "w40k.10e.csm.unit.defiler",
+            "type": "unit",
+            "rulesetId": "w40k.10e.csm",
+            "name": "Defiler",
+            "keywords": [
+                "EMPERORS CHILDREN",
+                "CHAOS",
+                "DEFILER",
+                "VEHICLE",
+                "WALKER",
+                "DAEMON"
+            ],
+            "models": [
+                {
+                    "name": "Defiler",
+                    "points": 250,
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Hades Battle Cannon"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Ectoplasma Destructor"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Excruciator Cannon", "Excruciator Cannon"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Magma Cutter", "Magma Cutter"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Heavy Baleflamer"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Hades Lascannon"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Heavy Reaper Autocannon"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Electroscourge"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Heavy Missile Launcher"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Hades Lascannon"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Heavy Reaper Autocannon"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Electroscourge"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "items": ["Shearing Claws"]
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }

@@ -1,0 +1,5422 @@
+{
+    "config": {
+        "id": "w40k.10e.sm.config",
+        "type": "config",
+        "rulesetId": "w40k.10e.sm",
+        "name": "Space Marines",
+        "keyword": "ADEPTUS ASTARTES",
+        "enabled": true,
+        "endpoint": "spaceMarines.json",
+        "associatedRulesets": [
+            "w40k.10e.ik"
+        ]
+    },
+    "detachments": [
+        {
+            "id": "w40k.10e.sm.dt.1stCompany",
+            "type": "detachment",
+            "rulesetId": "w40k.10e.sm",
+            "name": "1st Company Task Force",
+            "enhancements": [
+                {
+                    "name": "Fear Made Manifest",
+                    "keywordsMustCombined": [
+                        "ADEPTUS ASTARTES"
+                    ],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 30
+                },
+                {
+                    "name": "Iron Resolve",
+                    "keywordsMustCombined": [
+                        "ADEPTUS ASTARTES"
+                    ],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 15
+                },
+                {
+                    "name": "Rites of War",
+                    "keywordsMustCombined": [
+                        "ADEPTUS ASTARTES"
+                    ],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 10
+                },
+                {
+                    "name": "The Imperium's Sword",
+                    "keywordsMustCombined": [
+                        "ADEPTUS ASTARTES"
+                    ],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 25
+                }
+            ],
+            "additionalDatasheets": [],
+            "blockedDatasheets": []
+        },
+        {
+            "id": "w40k.10e.sm.dt.anvilSiegeForce",
+            "type": "detachment",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Anvil Siege Force",
+            "enhancements": [
+                {
+                    "name": "Architect of War",
+                    "keywordsMustCombined": [
+                        "ADEPTUS ASTARTES"
+                    ],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 25
+                },
+                {
+                    "name": "Fleet Commander",
+                    "keywordsMustCombined": [
+                        "ADEPTUS ASTARTES"
+                    ],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 15
+                },
+                {
+                    "name": "Indomitable Fury",
+                    "keywordsMustCombined": [
+                        "ADEPTUS ASTARTES"
+                    ],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 20
+                },
+                {
+                    "name": "Stoic Defender",
+                    "keywordsMustCombined": [
+                        "ADEPTUS ASTARTES"
+                    ],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 15
+                }
+            ],
+            "additionalDatasheets": [],
+            "blockedDatasheets": []
+        },
+        {
+            "id": "w40k.10e.sm.dt.firestormAssaultForce",
+            "type": "detachment",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Firestorm Assault Force",
+            "enhancements": [
+                {
+                    "name": "Adamantine Mantle",
+                    "keywordsMustCombined": [
+                        "ADEPTUS ASTARTES"
+                    ],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 20
+                },
+                {
+                    "name": "Champion of Humanity",
+                    "keywordsMustCombined": [
+                        "ADEPTUS ASTARTES"
+                    ],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 10
+                },
+                {
+                    "name": "Forged in Battle",
+                    "keywordsMustCombined": [
+                        "ADEPTUS ASTARTES"
+                    ],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 15
+                },
+                {
+                    "name": "War-tempered Artifice",
+                    "keywordsMustCombined": [
+                        "ADEPTUS ASTARTES"
+                    ],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 25
+                }
+            ],
+            "additionalDatasheets": [],
+            "blockedDatasheets": []
+        },
+        {
+            "id": "w40k.10e.sm.dt.gladius",
+            "type": "detachment",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Gladius Task Force",
+            "enhancements": [
+                {
+                    "name": "Artificer Armour",
+                    "keywordsMustCombined": [
+                        "ADEPTUS ASTARTES"
+                    ],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 10
+                },
+                {
+                    "name": "The Honour Vehement",
+                    "keywordsMustCombined": [
+                        "ADEPTUS ASTARTES"
+                    ],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 15
+                },
+                {
+                    "name": "Adept of the Codex",
+                    "keywordsMustCombined": [
+                        "ADEPTUS ASTARTES"
+                    ],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 20
+                },
+                {
+                    "name": "Fire Discipline",
+                    "keywordsMustCombined": [
+                        "ADEPTUS ASTARTES"
+                    ],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 25
+                }
+            ],
+            "additionalDatasheets": [],
+            "blockedDatasheets": []
+        },
+        {
+            "id": "w40k.10e.sm.dt.ironstormSpearhead",
+            "type": "detachment",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Ironstorm Spearhead",
+            "enhancements": [
+                {
+                    "name": "Adept of the Omnissiah",
+                    "keywordsMustCombined": [
+                        "ADEPTUS ASTARTES"
+                    ],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 35
+                },
+                {
+                    "name": "Master of Machine War",
+                    "keywordsMustCombined": [
+                        "ADEPTUS ASTARTES"
+                    ],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 20
+                },
+                {
+                    "name": "Target Augury Web",
+                    "keywordsMustCombined": [
+                        "ADEPTUS ASTARTES"
+                    ],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 30
+                },
+                {
+                    "name": "The Flesh is Weak",
+                    "keywordsMustCombined": [
+                        "ADEPTUS ASTARTES"
+                    ],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 10
+                }
+            ],
+            "additionalDatasheets": [],
+            "blockedDatasheets": []
+        },
+        {
+            "id": "w40k.10e.sm.dt.stormlanceTaskForce",
+            "type": "detachment",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Stormlance Task Force",
+            "enhancements": [
+                {
+                    "name": "Feinting Withdrawal",
+                    "keywordsMustCombined": [
+                        "ADEPTUS ASTARTES"
+                    ],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 10
+                },
+                {
+                    "name": "Fury of the Storm",
+                    "keywordsMustCombined": [
+                        "ADEPTUS ASTARTES"
+                    ],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 25
+                },
+                {
+                    "name": "Hunter's Instincts",
+                    "keywordsMustCombined": [
+                        "ADEPTUS ASTARTES"
+                    ],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 25
+                },
+                {
+                    "name": "Portents of Wisdom",
+                    "keywordsMustCombined": [
+                        "ADEPTUS ASTARTES"
+                    ],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 15
+                }
+            ],
+            "additionalDatasheets": [],
+            "blockedDatasheets": []
+        },
+        {
+            "id": "w40k.10e.sm.dt.vanguardSpearhead",
+            "type": "detachment",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Vanguard Spearhead",
+            "enhancements": [
+                {
+                    "name": "Execute and Redeploy",
+                    "keywordsMustCombined": [
+                        "ADEPTUS ASTARTES"
+                    ],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 20
+                },
+                {
+                    "name": "Ghostweave Cloak",
+                    "keywordsMustCombined": [
+                        "ADEPTUS ASTARTES"
+                    ],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 15
+                },
+                {
+                    "name": "Shadow War Veteran",
+                    "keywordsMustCombined": [
+                        "ADEPTUS ASTARTES"
+                    ],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 30
+                },
+                {
+                    "name": "The Blade Driven Deep",
+                    "keywordsMustCombined": [
+                        "ADEPTUS ASTARTES"
+                    ],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 25
+                }
+            ],
+            "additionalDatasheets": [],
+            "blockedDatasheets": []
+        },
+        {
+            "id": "w40k.10e.sm.dt.librariusConclave",
+            "type": "detachment",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Librarius Conclave",
+            "enhancements": [],
+            "additionalDatasheets": [],
+            "blockedDatasheets": []
+        },
+        {
+            "id": "w40k.10e.sm.dt.bastionTaskForce",
+            "type": "detachment",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Bastion Task Force",
+            "enhancements": [
+                {
+                    "name": "Blades of Valour",
+                    "keywordsMustCombined": [
+                        "ADEPTUS ASTARTES"
+                    ],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 15
+                },
+                {
+                    "name": "Bombast Omnivox",
+                    "keywordsMustCombined": [
+                        "ADEPTUS ASTARTES"
+                    ],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 15
+                },
+                {
+                    "name": "Eye of the Primarch",
+                    "keywordsMustCombined": [
+                        "ADEPTUS ASTARTES"
+                    ],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 10
+                },
+                {
+                    "name": "Hero of the Chapter",
+                    "keywordsMustCombined": [
+                        "ADEPTUS ASTARTES"
+                    ],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 20
+                }
+            ],
+            "additionalDatasheets": [],
+            "blockedDatasheets": []
+        },
+        {
+            "id": "w40k.10e.sm.dt.orbitalAssault",
+            "type": "detachment",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Orbital Assault Force",
+            "enhancements": [
+                {
+                    "name": "Dedicated Gunship",
+                    "keywordsMustCombined": [
+                        "ADEPTUS ASTARTES"
+                    ],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 15
+                },
+                {
+                    "name": "Laurels of Thunder",
+                    "keywordsMustCombined": [
+                        "ADEPTUS ASTARTES"
+                    ],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 15
+                },
+                {
+                    "name": "Orbital Uplink Reliquary",
+                    "keywordsMustCombined": [
+                        "ADEPTUS ASTARTES"
+                    ],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 25
+                },
+                {
+                    "name": "Veteran of the Vanguard",
+                    "keywordsMustCombined": [
+                        "ADEPTUS ASTARTES"
+                    ],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 20
+                }
+            ],
+            "additionalDatasheets": [],
+            "blockedDatasheets": []
+        },
+        {
+            "id": "w40k.10e.sm.dt.reclamationForce",
+            "type": "detachment",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Reclamation Force",
+            "enhancements": [
+                {
+                    "name": "Avenging Avatar",
+                    "keywordsMustCombined": [
+                        "ADEPTUS ASTARTES"
+                    ],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 10
+                },
+                {
+                    "name": "Liberatum",
+                    "keywordsMustCombined": [
+                        "ADEPTUS ASTARTES"
+                    ],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 25
+                },
+                {
+                    "name": "Scroll of Proclamation",
+                    "keywordsMustCombined": [
+                        "ADEPTUS ASTARTES"
+                    ],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 15
+                },
+                {
+                    "name": "Seals of Reconquest",
+                    "keywordsMustCombined": [
+                        "ADEPTUS ASTARTES"
+                    ],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 20
+                }
+            ],
+            "additionalDatasheets": [],
+            "blockedDatasheets": []
+        }
+    ],
+    "units": [
+        {
+            "id": "w40k.10e.sm.unit.captain",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Captain",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "CHARACTER",
+                "CAPTAIN"
+            ],
+            "models": [
+                {
+                    "name": "Captain",
+                    "points": 80,
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Bolt Pistol, Master-crafted Bolter, Close Combat Weapon"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Bolt Pistol, Master-crafted Bolter, Master-crafted Power Weapon"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Bolt Pistol, Master-crafted Bolter, Power Fist"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Heavy Bolt Pistol, Power Fist"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Heavy Bolt Pistol, Master-crafted Power Weapon"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Heavy Bolt Pistol, Master-crafted Power Weapon, Relic Shield"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Neo-volkite Pistol, Power Fist"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Neo-volkite Pistol, Master-crafted Power Weapon"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Plasma Pistol, Power Fist"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Plasma Pistol, Master-crafted Power Weapon"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.captainJumpPack",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Captain with Jump Pack",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "CHARACTER",
+                "CAPTAIN WITH JUMP PACK",
+                "JUMP PACK",
+                "FLY"
+            ],
+            "models": [
+                {
+                    "name": "Captain with Jump Pack",
+                    "points": 75,
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Heavy Bolt Pistol"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Plasma Pistol"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Hand Flamer"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Astartes Chainsword"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Power Fist"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Relic Weapon"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "checkbox",
+                            "selected": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.captainGravisArmour",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Captain in Gravis Armour",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "CHARACTER",
+                "CAPTAIN IN GRAVIS ARMOUR",
+                "GRAVIS"
+            ],
+            "models": [
+                {
+                    "name": "Captain in Gravis Armour",
+                    "points": 80,
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Master-crafted Heavy Bolt Rifle, Master-crafter Power Weapon"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Boltstorm Gauntlet, Power Fist, Relic Chainsword"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Boltstorm Gauntlet, Power Fist, Relic Blade"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Boltstorm Gauntlet, Power Fist, Relic Fist"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.captainPhobosArmour",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Captain in Phobos Armour",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "CHARACTER",
+                "CAPTAIN IN PHOBOS ARMOUR",
+                "PHOBOS"
+            ],
+            "models": [
+                {
+                    "name": "Captain in Phobos Armour",
+                    "points": 70
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.captainTerminatorArmour",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Captain in Terminator Armour",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "CHARACTER",
+                "CAPTAIN IN TERMINATOR ARMOUR",
+                "TERMINATOR"
+            ],
+            "models": [
+                {
+                    "name": "Captain in Terminator Armour",
+                    "points": 95,
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Storm Bolter"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Combi-weapon"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Relic Weapon"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Relic Fist"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.lieutenantReiverArmour",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Lieutenant in Reiver Armour",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "CHARACTER",
+                "LIEUTENANT IN REIVER ARMOUR"
+            ],
+            "models": [
+                {
+                    "name": "Lieutenant in Reiver Armour",
+                    "points": 55
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.lieutenantPhobosArmour",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Lieutenant in Phobos Armour",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "CHARACTER",
+                "LIEUTENANT IN PHOBOS ARMOUR",
+                "PHOBOS"
+            ],
+            "models": [
+                {
+                    "name": "Lieutenant in Phobos Armour",
+                    "points": 55
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.lieutenant",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Lieutenant",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "CHARACTER",
+                "LIEUTENANT"
+            ],
+            "models": [
+                {
+                    "name": "Lieutenant",
+                    "points": 55,
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Master-crafted Bolter"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Plasma Pistol"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Master-crafted Power Weapon"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Power Fist"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Bolt Pistol"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Heavy Bolt Pistol"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Close Combat Weapon"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Master-crafted Power Weapon"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Power Fist"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "checkbox",
+                            "selected": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.librarianPhobosArmour",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Librarian in Phobos Armour",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "CHARACTER",
+                "LIBRARIAN IN PHOBOS ARMOUR",
+                "PHOBOS"
+            ],
+            "models": [
+                {
+                    "name": "Librarian in Phobos Armour",
+                    "points": 70
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.librarianTerminatorArmour",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Librarian in Terminator Armour",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "CHARACTER",
+                "LIBRARIAN IN TERMINATOR ARMOUR",
+                "TERMINATOR"
+            ],
+            "models": [
+                {
+                    "name": "Librarian in Terminator Armour",
+                    "points": 75,
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Combi-weapon"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Storm Bolter"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.librarian",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Librarian",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "CHARACTER",
+                "LIBRARIAN"
+            ],
+            "models": [
+                {
+                    "name": "Librarian",
+                    "points": 65
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.chaplainTerminatorArmour",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Chaplain in Terminator Armour",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "CHARACTER",
+                "CHAPLAIN IN TERMINATOR ARMOUR",
+                "TERMINATOR"
+            ],
+            "models": [
+                {
+                    "name": "Chaplain in Terminator Armour",
+                    "points": 75,
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Storm Bolter"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Relic Shield"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.chaplainBike",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Chaplain on Bike",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "CHARACTER",
+                "CHAPLAIN ON BIKE"
+            ],
+            "models": [
+                {
+                    "name": "Chaplain on Bike",
+                    "points": 75
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.chaplain",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Chaplain",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "CHARACTER",
+                "CHAPLAIN"
+            ],
+            "models": [
+                {
+                    "name": "Chaplain",
+                    "points": 60
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.chaplainJumpPack",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Chaplain with Jump Pack",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "CHARACTER",
+                "CHAPLAIN WITH JUMP PACK",
+                "JUMP PACK",
+                "FLY"
+            ],
+            "models": [
+                {
+                    "name": "Chaplain with Jump Pack",
+                    "points": 75,
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Bolt Pistol"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Boltgun"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Combi-weapon"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Grav-pistol"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Hand Flamer"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Inferno Pistol"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Plasma Pistol"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Storm Bolter"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Power Fist"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.techmarine",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Techmarine",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "CHARACTER",
+                "TECHMARINE"
+            ],
+            "models": [
+                {
+                    "name": "Techmarine",
+                    "points": 55
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.intercessorSquad",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Intercessor Squad",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "BATTLELINE",
+                "INTERCESSOR SQUAD"
+            ],
+            "points": [
+                {
+                    "name": "Intercessor, Intercessor Sergeant",
+                    "amount": 10,
+                    "cost": 160
+                },
+                {
+                    "name": "Intercessor, Intercessor Sergeant",
+                    "amount": 5,
+                    "cost": 80
+                }
+            ],
+            "blueprints": [
+                {
+                    "name": "Intercessor",
+                    "equipment": [
+                        {
+                            "type": "checkbox",
+                            "selected": false
+                        }
+                    ]
+                },
+                {
+                    "name": "Intercessor Sergeant",
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Bolt Rifle"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Astartes Chainsword"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Hand Flamer"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Plasma Pistol"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Power Weapon"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Close Combat Weapon"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Astartes Chainsword"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Power Fist"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Power Weapon"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Thunder Hammer"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "restrictions": [
+                {
+                    "type": "model",
+                    "name": "Intercessor",
+                    "min": 4,
+                    "max": 9
+                },
+                {
+                    "type": "model",
+                    "name": "Intercessor Sergeant",
+                    "min": 1,
+                    "max": 1
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.infernusSquad",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Infernus Squad",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "INFANTRY",
+                "INFERNUS SQUAD"
+            ],
+            "points": [
+                {
+                    "name": "Infernus Marine, Infernus Sergeant",
+                    "amount": 10,
+                    "cost": 180
+                },
+                {
+                    "name": "Infernus Marine, Infernus Sergeant",
+                    "amount": 5,
+                    "cost": 90
+                }
+            ],
+            "blueprints": [
+                {
+                    "name": "Infernus Marine"
+                },
+                {
+                    "name": "Infernus Sergeant"
+                }
+            ],
+            "restrictions": [
+                {
+                    "type": "model",
+                    "name": "Infernus Marine",
+                    "min": 4,
+                    "max": 9
+                },
+                {
+                    "type": "model",
+                    "name": "Infernus Sergeant",
+                    "min": 1,
+                    "max": 1
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.assaultIntercessorSquad",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Assault Intercessor Squad",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "BATTLELINE",
+                "ASSAULT INTERCESSOR SQUAD"
+            ],
+            "points": [
+                {
+                    "name": "Assault Intercessor, Assault Intercessor Sergeant",
+                    "amount": 10,
+                    "cost": 150
+                },
+                {
+                    "name": "Assault Intercessor, Assault Intercessor Sergeant",
+                    "amount": 5,
+                    "cost": 75
+                }
+            ],
+            "blueprints": [
+                {
+                    "name": "Assault Intercessor"
+                },
+                {
+                    "name": "Assault Intercessor Sergeant",
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Heavy Bolt Pistol"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Hand Flamer"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Plasma Pistol"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Astartes Chainsword"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Power Fist"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Power Weapon"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "restrictions": [
+                {
+                    "type": "model",
+                    "name": "Assault Intercessor",
+                    "min": 4,
+                    "max": 9
+                },
+                {
+                    "type": "model",
+                    "name": "Assault Intercessor Sergeant",
+                    "min": 1,
+                    "max": 1
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.assaultIntercessorsWithJumpPacks",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Assault Intercessor Squad with Jump Packs",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "INFANTRY",
+                "ASSAULT INTERCESSOR SQUAD WITH JUMP PACKS",
+                "JUMP PACK",
+                "FLY"
+            ],
+            "points": [
+                {
+                    "name": "Assault Intercessor with Jump Pack, Assault Intercessor Sergeant with Jump Pack",
+                    "amount": 10,
+                    "cost": 170
+                },
+                {
+                    "name": "Assault Intercessor with Jump Pack, Assault Intercessor Sergeant with Jump Pack",
+                    "amount": 5,
+                    "cost": 90
+                }
+            ],
+            "blueprints": [
+                {
+                    "name": "Assault Intercessor with Jump Pack",
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Heavy Bolt Pistol"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Plasma Pistol"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Assault Intercessor Sergeant with Jump Pack",
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Heavy Bolt Pistol"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Hand Flamer"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Plasma Pistol"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Astartes Chainsword"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Power Fist"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Power Weapon"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "restrictions": [
+                {
+                    "type": "model",
+                    "name": "Assault Intercessor with Jump Pack",
+                    "min": 4,
+                    "max": 9
+                },
+                {
+                    "type": "model",
+                    "name": "Assault Intercessor Sergeant with Jump Pack",
+                    "min": 1,
+                    "max": 1
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.lieutenantCombiWeapon",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Lieutenant with Combi-weapon",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "CHARACTER",
+                "LIEUTENANT WITH COMBI-WEAPON"
+            ],
+            "models": [
+                {
+                    "name": "Lieutenant with Combi-weapon",
+                    "points": 85
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.heavyIntercessorSquad",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Heavy Intercessor Squad",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "BATTLELINE",
+                "HEAVY INTERCESSOR SQUAD"
+            ],
+            "points": [
+                {
+                    "name": "Heavy Intercessor, Heavy Intercessor Sergeant",
+                    "amount": 10,
+                    "cost": 200
+                },
+                {
+                    "name": "Heavy Intercessor, Heavy Intercessor Sergeant",
+                    "amount": 5,
+                    "cost": 100
+                }
+            ],
+            "blueprints": [
+                {
+                    "name": "Heavy Intercessor",
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Heavy Bolt Rifle"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Heavy Bolter"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Heavy Intercessor Sergeant"
+                }
+            ],
+            "restrictions": [
+                {
+                    "type": "model",
+                    "name": "Heavy Intercessor",
+                    "min": 4,
+                    "max": 9
+                },
+                {
+                    "type": "model",
+                    "name": "Heavy Intercessor Sergeant",
+                    "min": 1,
+                    "max": 1
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.infiltratorSquad",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Infiltrator Squad",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "INFANTRY",
+                "INFILTRATOR SQUAD"
+            ],
+            "points": [
+                {
+                    "name": "Infiltrator, Infiltrator Sergeant",
+                    "amount": 10,
+                    "cost": 200
+                },
+                {
+                    "name": "Infiltrator, Infiltrator Sergeant",
+                    "amount": 5,
+                    "cost": 100
+                }
+            ],
+            "blueprints": [
+                {
+                    "name": "Infiltrator",
+                    "equipment": [
+                        {
+                            "type": "checkbox",
+                            "selected": false
+                        },
+                        {
+                            "type": "checkbox",
+                            "selected": false
+                        }
+                    ]
+                },
+                {
+                    "name": "Infiltrator Sergeant"
+                }
+            ],
+            "restrictions": [
+                {
+                    "type": "model",
+                    "name": "Infiltrator",
+                    "min": 4,
+                    "max": 9
+                },
+                {
+                    "type": "model",
+                    "name": "Infiltrator Sergeant",
+                    "min": 1,
+                    "max": 1
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.incursorSquad",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Incursor Squad",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "INFANTRY",
+                "INCURSOR SQUAD"
+            ],
+            "points": [
+                {
+                    "name": "Incursor, Incursor Sergeant",
+                    "amount": 10,
+                    "cost": 160
+                },
+                {
+                    "name": "Incursor, Incursor Sergeant",
+                    "amount": 5,
+                    "cost": 80
+                }
+            ],
+            "blueprints": [
+                {
+                    "name": "Incursor",
+                    "equipment": [
+                        {
+                            "type": "checkbox",
+                            "selected": false
+                        }
+                    ]
+                },
+                {
+                    "name": "Incursor Sergeant"
+                }
+            ],
+            "restrictions": [
+                {
+                    "type": "model",
+                    "name": "Incursor",
+                    "min": 4,
+                    "max": 9
+                },
+                {
+                    "type": "model",
+                    "name": "Incursor Sergeant",
+                    "min": 1,
+                    "max": 1
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.tacticalSquad",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Tactical Squad",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "BATTLELINE",
+                "TACTICAL SQUAD"
+            ],
+            "points": [
+                {
+                    "name": "Tactical Marine, Tactical Sergeant",
+                    "amount": 10,
+                    "cost": 140
+                }
+            ],
+            "blueprints": [
+                {
+                    "name": "Tactical Marine",
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Boltgun"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Flamer"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Heavy Bolter"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Grav-cannon"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Grav-gun"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Lascannon"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Meltagun"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Missile Launcher"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Multi-melta"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Plasma Cannon"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Plasma Gun"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Tactical Sergeant",
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Astartes Chainsword"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Bolt Pistol"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Boltgun"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Combi-weapon"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Grav-pistol"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Plasma Pistol"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Storm Bolter"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Power Fist"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Power Weapon"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Thunder Hammer"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Astartes Chainsword"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Bolt Pistol"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Boltgun"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Combi-weapon"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Grav-pistol"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Plasma Pistol"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Storm Bolter"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Power Fist"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Power Weapon"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Thunder Hammer"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "checkbox",
+                            "selected": false
+                        }
+                    ]
+                }
+            ],
+            "restrictions": [
+                {
+                    "type": "model",
+                    "name": "Tactical Marine",
+                    "min": 9,
+                    "max": 9
+                },
+                {
+                    "type": "model",
+                    "name": "Tactical Sergeant",
+                    "min": 1,
+                    "max": 1
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.scoutSquad",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Scout Squad",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "INFANTRY",
+                "SCOUT SQUAD"
+            ],
+            "points": [
+                {
+                    "name": "Scout, Scout Sergeant",
+                    "amount": 10,
+                    "cost": 140
+                },
+                {
+                    "name": "Scout, Scout Sergeant",
+                    "amount": 5,
+                    "cost": 70
+                }
+            ],
+            "blueprints": [
+                {
+                    "name": "Scout",
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Boltgun"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Astartes Shotgun"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Combat Knife"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Scout Sniper Rifle"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Heavy Bolter"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Missile Launcher"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Scout Sergeant",
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Boltgun"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Astartes Chainsword"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Astartes Shotgun"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Combat Knife"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "restrictions": [
+                {
+                    "type": "model",
+                    "name": "Scout",
+                    "min": 4,
+                    "max": 9
+                },
+                {
+                    "type": "model",
+                    "name": "Scout Sergeant",
+                    "min": 1,
+                    "max": 1
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.apothecary",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Apothecary",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "CHARACTER",
+                "APOTHECARY"
+            ],
+            "models": [
+                {
+                    "name": "Apothecary",
+                    "points": 50
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.apothecaryBiologus",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Apothecary Biologis",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "CHARACTER",
+                "APOTHECARY BIOLOGIS"
+            ],
+            "models": [
+                {
+                    "name": "Apothecary Biologis",
+                    "points": 70
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.ancient",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Ancient",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "CHARACTER",
+                "ANCIENT"
+            ],
+            "models": [
+                {
+                    "name": "Ancient",
+                    "points": 50,
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Bolt Rifle, Close Combat Weapon"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Power Weapon"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.bladeguardAncient",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Bladeguard Ancient",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "CHARACTER",
+                "BLADEGUARD ANCIENT"
+            ],
+            "models": [
+                {
+                    "name": "Bladeguard Ancient",
+                    "points": 45
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.ancientTerminatorArmour",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Ancient in Terminator Armour",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "CHARACTER",
+                "ANCIENT IN TERMINATOR ARMOUR",
+                "TERMINATOR"
+            ],
+            "models": [
+                {
+                    "name": "Ancient in Terminator Armour",
+                    "points": 75,
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Power Fist, Storm Bolter"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Chainfist, Storm Bolter"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Close Combat Weapon, Storm Bolter"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Power Weapon, Storm Bolter"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Thunder Hammer, Storm Bolter"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Twin Lightning Claws"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Thunder Hammer, Storm Shield"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.bladeguardVeteranSquad",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Bladeguard Veteran Squad",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "INFANTRY",
+                "BLADEGUARD VETERAN SQUAD"
+            ],
+            "points": [
+                {
+                    "name": "Bladeguard Veteran, Bladeguard Veteran Sergeant",
+                    "amount": 6,
+                    "cost": 170
+                },
+                {
+                    "name": "Bladeguard Veteran, Bladeguard Veteran Sergeant",
+                    "amount": 3,
+                    "cost": 80
+                }
+            ],
+            "blueprints": [
+                {
+                    "name": "Bladeguard Veteran"
+                },
+                {
+                    "name": "Bladeguard Veteran Sergeant",
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Heavy Bolt Pistol"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Neo-volkite Pistol"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Plasma Pistol"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "restrictions": [
+                {
+                    "type": "model",
+                    "name": "Bladeguard Veteran",
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "type": "model",
+                    "name": "Bladeguard Veteran Sergeant",
+                    "min": 1,
+                    "max": 1
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.vanguardVeteranSquadJumpPacks",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Vanguard Veteran Squad with Jump Packs",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "INFANTRY",
+                "VANGUARD VETERAN SQUAD WITH JUMP PACKS",
+                "JUMP PACK",
+                "FLY"
+            ],
+            "points": [
+                {
+                    "name": "Vanguard Veteran with Jump Pack, Vanguard Veteran Sergeant with Jump Pack",
+                    "amount": 10,
+                    "cost": 200
+                },
+                {
+                    "name": "Vanguard Veteran with Jump Pack, Vanguard Veteran Sergeant with Jump Pack",
+                    "amount": 5,
+                    "cost": 100
+                }
+            ],
+            "blueprints": [
+                {
+                    "name": "Vanguard Veteran with Jump Pack",
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Bolt Pistol"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Storm Shield"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Grav-pistol"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Hand Flamer"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Inferno Pistol"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Plasma Pistol"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Vanguard Veteran Sergeant with Jump Pack",
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Bolt Pistol"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Storm Shield"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Grav-pistol"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Hand Flamer"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Inferno Pistol"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Plasma Pistol"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "restrictions": [
+                {
+                    "type": "model",
+                    "name": "Vanguard Veteran with Jump Pack",
+                    "min": 4,
+                    "max": 9
+                },
+                {
+                    "type": "model",
+                    "name": "Vanguard Veteran Sergeant with Jump Pack",
+                    "min": 1,
+                    "max": 1
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.sternguardVeteranSquad",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Sternguard Veteran Squad",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "INFANTRY",
+                "STERNGUARD VETERAN SQUAD"
+            ],
+            "points": [
+                {
+                    "name": "Sternguard Veteran, Sternguard Veteran Sergeant",
+                    "amount": 10,
+                    "cost": 200
+                },
+                {
+                    "name": "Sternguard Veteran, Sternguard Veteran Sergeant",
+                    "amount": 5,
+                    "cost": 100
+                }
+            ],
+            "blueprints": [
+                {
+                    "name": "Sternguard Veteran",
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Sternguard Bolt Rifle"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Combi-weapon"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Pyrecannon"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Sternguard Heavy Bolter"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Sternguard Veteran Sergeant",
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Sternguard Bolt Rifle"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Astartes Chainsword"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Combi-weapon"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Power Weapon"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Power Fist"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Astartes Chainsword, Sternguard Bolt Rifle"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Power Weapon, Sternguard Bolt Rifle"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Power Fist, Sternguard Bolt Rifle"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "restrictions": [
+                {
+                    "type": "model",
+                    "name": "Sternguard Veteran",
+                    "min": 4,
+                    "max": 9
+                },
+                {
+                    "type": "model",
+                    "name": "Sternguard Veteran Sergeant",
+                    "min": 1,
+                    "max": 1
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.judiciar",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Judiciar",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "CHARACTER",
+                "JUDICIAR"
+            ],
+            "models": [
+                {
+                    "name": "Judiciar",
+                    "points": 70
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.companyHeroes",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Company Heroes",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "INFANTRY",
+                "COMPANY HEROES"
+            ],
+            "points": [
+                {
+                    "name": "Ancient, Company Champion, Company Veterans",
+                    "amount": 4,
+                    "cost": 105
+                }
+            ],
+            "blueprints": [
+                {
+                    "name": "Ancient"
+                },
+                {
+                    "name": "Company Champion"
+                },
+                {
+                    "name": "Company Veterans"
+                }
+            ],
+            "restrictions": [
+                {
+                    "type": "model",
+                    "name": "Ancient",
+                    "min": 1,
+                    "max": 1
+                },
+                {
+                    "type": "model",
+                    "name": "Company Champion",
+                    "min": 1,
+                    "max": 1
+                },
+                {
+                    "type": "model",
+                    "name": "Company Veterans",
+                    "min": 2,
+                    "max": 2
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.reiverSquad",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Reiver Squad",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "INFANTRY",
+                "REIVER SQUAD"
+            ],
+            "points": [
+                {
+                    "name": "Reiver, Reiver Sergeant",
+                    "amount": 10,
+                    "cost": 160
+                },
+                {
+                    "name": "Reiver, Reiver Sergeant",
+                    "amount": 5,
+                    "cost": 80
+                }
+            ],
+            "blueprints": [
+                {
+                    "name": "Reiver",
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Combat Knife"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Bolt Carbine"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "checkbox",
+                            "selected": false
+                        },
+                        {
+                            "type": "checkbox",
+                            "selected": false
+                        }
+                    ]
+                },
+                {
+                    "name": "Reiver Sergeant",
+                    "equipment": [
+                        {
+                            "type": "checkbox",
+                            "selected": false
+                        },
+                        {
+                            "type": "checkbox",
+                            "selected": false
+                        },
+                        {
+                            "type": "checkbox",
+                            "selected": false
+                        }
+                    ]
+                }
+            ],
+            "restrictions": [
+                {
+                    "type": "model",
+                    "name": "Reiver",
+                    "min": 4,
+                    "max": 9
+                },
+                {
+                    "type": "model",
+                    "name": "Reiver Sergeant",
+                    "min": 1,
+                    "max": 1
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.aggressorSquad",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Aggressor Squad",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "INFANTRY",
+                "AGGRESSOR SQUAD"
+            ],
+            "points": [
+                {
+                    "name": "Aggressor, Aggressor Sergeant",
+                    "amount": 6,
+                    "cost": 190
+                },
+                {
+                    "name": "Aggressor, Aggressor Sergeant",
+                    "amount": 3,
+                    "cost": 95
+                }
+            ],
+            "blueprints": [
+                {
+                    "name": "Aggressor",
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Flamestorm Gauntlets"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Auto Boltstorm Gauntlets, Fragstorm Grenade Launcher"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Aggressor Sergeant",
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Flamestorm Gauntlets"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Auto Boltstorm Gauntlets, Fragstorm Grenade Launcher"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "restrictions": [
+                {
+                    "type": "model",
+                    "name": "Aggressor",
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "type": "model",
+                    "name": "Aggressor Sergeant",
+                    "min": 1,
+                    "max": 1
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.terminatorAssaultSquad",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Terminator Assault Squad",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "INFANTRY",
+                "TERMINATOR ASSAULT SQUAD",
+                "TERMINATOR"
+            ],
+            "points": [
+                {
+                    "name": "Assault Terminator, Assault Terminator Sergeant",
+                    "amount": 10,
+                    "cost": 360
+                },
+                {
+                    "name": "Assault Terminator, Assault Terminator Sergeant",
+                    "amount": 5,
+                    "cost": 180
+                }
+            ],
+            "blueprints": [
+                {
+                    "name": "Assault Terminator",
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Thunder Hammer, Storm Shield"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Twin Lightning Claws"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Assault Terminator Sergeant",
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Thunder Hammer, Storm Shield"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Twin Lightning Claws"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "restrictions": [
+                {
+                    "type": "model",
+                    "name": "Assault Terminator",
+                    "min": 4,
+                    "max": 9
+                },
+                {
+                    "type": "model",
+                    "name": "Assault Terminator Sergeant",
+                    "min": 1,
+                    "max": 1
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.terminatorSquad",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Terminator Squad",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "INFANTRY",
+                "TERMINATOR SQUAD",
+                "TERMINATOR"
+            ],
+            "points": [
+                {
+                    "name": "Terminator, Terminator Sergeant",
+                    "amount": 10,
+                    "cost": 340
+                },
+                {
+                    "name": "Terminator, Terminator Sergeant",
+                    "amount": 5,
+                    "cost": 170
+                }
+            ],
+            "blueprints": [
+                {
+                    "name": "Terminator",
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Storm Bolter"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Assault Cannon"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Heavy Flamer"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Storm Bolter, Cyclone Missile Launcher"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Power Fist"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Chainfist"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Terminator Sergeant",
+                    "equipment": [
+                        {
+                            "type": "text"
+                        },
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Power Fist"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Power Weapon"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "restrictions": [
+                {
+                    "type": "model",
+                    "name": "Terminator",
+                    "min": 4,
+                    "max": 9
+                },
+                {
+                    "type": "model",
+                    "name": "Terminator Sergeant",
+                    "min": 1,
+                    "max": 1
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.centurionAssaultSquad",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Centurion Assault Squad",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "INFANTRY",
+                "CENTURION ASSAULT SQUAD"
+            ],
+            "points": [
+                {
+                    "name": "Assault Centurion, Assault Centurion Sergeant",
+                    "amount": 6,
+                    "cost": 300
+                },
+                {
+                    "name": "Assault Centurion, Assault Centurion Sergeant",
+                    "amount": 3,
+                    "cost": 150
+                }
+            ],
+            "blueprints": [
+                {
+                    "name": "Assault Centurion",
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Twin Flamer"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Twin Meltagun"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Centurion Bolters"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Centurion Assault Launcher"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Assault Centurion Sergeant",
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Twin Flamer"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Twin Meltagun"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Centurion Bolters"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Centurion Assault Launcher"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "restrictions": [
+                {
+                    "type": "model",
+                    "name": "Assault Centurion",
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "type": "model",
+                    "name": "Assault Centurion Sergeant",
+                    "min": 1,
+                    "max": 1
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.centurionDevastatorSquad",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Centurion Devastator Squad",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "INFANTRY",
+                "CENTURION DEVASTATOR SQUAD"
+            ],
+            "points": [
+                {
+                    "name": "Devastator Centurion, Devastator Centurion Sergeant",
+                    "amount": 6,
+                    "cost": 350
+                },
+                {
+                    "name": "Devastator Centurion, Devastator Centurion Sergeant",
+                    "amount": 3,
+                    "cost": 175
+                }
+            ],
+            "blueprints": [
+                {
+                    "name": "Devastator Centurion",
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Centurion Bolters"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Centurion Missile Launcher"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Grav-cannon"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Twin Heavy Bolter"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Twin Lascannon"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Devastator Centurion Sergeant",
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Centurion Bolters"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Centurion Missile Launcher"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Grav-cannon"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Twin Heavy Bolter"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Twin Lascannon"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "restrictions": [
+                {
+                    "type": "model",
+                    "name": "Devastator Centurion",
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "type": "model",
+                    "name": "Devastator Centurion Sergeant",
+                    "min": 1,
+                    "max": 1
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.invictorWarsuit",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Invictor Warsuit",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "VEHICLE",
+                "INVICTOR WARSUIT"
+            ],
+            "models": [
+                {
+                    "name": "Invictor Warsuit",
+                    "points": 125,
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Incendium Cannon"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Twin Ironhail Autocannon"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.dreadnought",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Dreadnought",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "VEHICLE",
+                "DREADNOUGHT",
+                "VEHICLE",
+                "WALKER"
+            ],
+            "models": [
+                {
+                    "name": "Dreadnought",
+                    "points": 135,
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Assault Cannon"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Heavy Plasma Cannon"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Multi-melta"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Twin Lascannon"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Dreadnought Combat Weapon, Storm Bolter"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Dreadnought Combat Weapon, Heavy Flamer"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Missile Launcher, Close Combat Weapon"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.redemptorDreadnought",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Redemptor Dreadnought",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "VEHICLE",
+                "REDEMPTOR DREADNOUGHT",
+                "VEHICLE",
+                "WALKER"
+            ],
+            "models": [
+                {
+                    "name": "Redemptor Dreadnought",
+                    "points": 205,
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Heavy Onslaught Gatling Cannon"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Macro Plasma Incinerator"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Heavy Flamer"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Onslaught Gatling Cannon"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Twin Fragstorm Grenade Launcher"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Twin Storm Bolter"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "checkbox",
+                            "selected": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.brutalisDreadnought",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Brutalis Dreadnought",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "VEHICLE",
+                "BRUTALIS DREADNOUGHT",
+                "VEHICLE",
+                "WALKER"
+            ],
+            "models": [
+                {
+                    "name": "Brutalis Dreadnought",
+                    "points": 160,
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Twin Heavy Bolter"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Twin Multi-melta"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Brutalis Fists, Brutalis Bolt Rifles"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Brutalis Talons"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.ballistusDreadnought",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Ballistus Dreadnought",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "VEHICLE",
+                "BALLISTUS DREADNOUGHT",
+                "VEHICLE",
+                "WALKER"
+            ],
+            "models": [
+                {
+                    "name": "Ballistus Dreadnought",
+                    "points": 150
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.outriders",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Outrider Squad",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "MOUNTED",
+                "OUTRIDER SQUAD"
+            ],
+            "points": [
+                {
+                    "name": "Outrider, Outrider Sergeant",
+                    "amount": 6,
+                    "cost": 160
+                },
+                {
+                    "name": "Outrider, Outrider Sergeant",
+                    "amount": 3,
+                    "cost": 80
+                }
+            ],
+            "blueprints": [
+                {
+                    "name": "Invader ATV",
+                    "points": 60,
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Onslaught Gatling Cannon"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Multi-melta"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Outrider"
+                },
+                {
+                    "name": "Outrider Sergeant"
+                }
+            ],
+            "restrictions": [
+                {
+                    "type": "model",
+                    "name": "Outrider",
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "type": "model",
+                    "name": "Outrider Sergeant",
+                    "min": 1,
+                    "max": 1
+                },
+                {
+                    "type": "model",
+                    "name": "Invader ATV",
+                    "min": 0,
+                    "max": 1
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.invaderATV",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Invader ATV",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "MOUNTED",
+                "INVADER ATV"
+            ],
+            "models": [
+                {
+                    "name": "Invader ATV",
+                    "points": 60,
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Onslaught Gatling Cannon"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Multi-melta"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.suppressorSquad",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Suppressor Squad",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "INFANTRY",
+                "SUPPRESSOR SQUAD"
+            ],
+            "points": [
+                {
+                    "name": "Suppressor, Suppressor Sergeant",
+                    "amount": 3,
+                    "cost": 75
+                }
+            ],
+            "models": [
+                {
+                    "name": "Suppressor"
+                },
+                {
+                    "name": "Suppressor"
+                },
+                {
+                    "name": "Suppressor Sergeant"
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.inceptorSquad",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Inceptor Squad",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "INFANTRY",
+                "INCEPTOR SQUAD"
+            ],
+            "points": [
+                {
+                    "name": "Inceptor, Inceptor Sergeant",
+                    "amount": 6,
+                    "cost": 240
+                },
+                {
+                    "name": "Inceptor, Inceptor Sergeant",
+                    "amount": 3,
+                    "cost": 120
+                }
+            ],
+            "blueprints": [
+                {
+                    "name": "Inceptor",
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Assault Bolter"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Plasma Exterminators"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Inceptor Sergeant",
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Assault Bolter"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Plasma Exterminators"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "restrictions": [
+                {
+                    "type": "model",
+                    "name": "Inceptor",
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "type": "model",
+                    "name": "Inceptor Sergeant",
+                    "min": 1,
+                    "max": 1
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.stormspeederHailstrike",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Stormspeeder Hailstrike",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "VEHICLE",
+                "STORMSPEEDER HAILSTRIKE"
+            ],
+            "models": [
+                {
+                    "name": "Stormspeeder Hailstrike",
+                    "points": 115
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.stormspeederThunderstrike",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Stormspeeder Thunderstrike",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "VEHICLE",
+                "STORMSPEEDER THUNDERSTRIKE"
+            ],
+            "models": [
+                {
+                    "name": "Stormspeeder Thunderstrike",
+                    "points": 135
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.stormspeederHammerstrike",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Stormspeeder Hammerstrike",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "VEHICLE",
+                "STORMSPEEDER HAMMERSTRIKE"
+            ],
+            "models": [
+                {
+                    "name": "Stormspeeder Hammerstrike",
+                    "points": 125
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.hellblasterSquad",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Hellblaster Squad",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "INFANTRY",
+                "HELLBLASTER SQUAD"
+            ],
+            "points": [
+                {
+                    "name": "Hellblaster, Hellblaster Sergeant",
+                    "amount": 10,
+                    "cost": 220
+                },
+                {
+                    "name": "Hellblaster, Hellblaster Sergeant",
+                    "amount": 5,
+                    "cost": 110
+                }
+            ],
+            "blueprints": [
+                {
+                    "name": "Hellblaster"
+                },
+                {
+                    "name": "Hellblaster Sergeant",
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Bolt Pistol"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Plasma Pistol"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "restrictions": [
+                {
+                    "type": "model",
+                    "name": "Hellblaster",
+                    "min": 4,
+                    "max": 9
+                },
+                {
+                    "type": "model",
+                    "name": "Hellblaster Sergeant",
+                    "min": 1,
+                    "max": 1
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.eliminatorSquad",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Eliminator Squad",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "INFANTRY",
+                "ELIMINATOR SQUAD"
+            ],
+            "points": [
+                {
+                    "name": "Eliminator, Eliminator Sergeant",
+                    "amount": 3,
+                    "cost": 85
+                }
+            ],
+            "blueprints": [
+                {
+                    "name": "Eliminator",
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Bolt Sniper Rifle"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Las Fusil"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Eliminator Sergeant",
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Bolt Sniper Rifle"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Instigator Bolt Carbine"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Las Fusil"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "restrictions": [
+                {
+                    "type": "model",
+                    "name": "Eliminator",
+                    "min": 2,
+                    "max": 2
+                },
+                {
+                    "type": "model",
+                    "name": "Eliminator Sergeant",
+                    "min": 1,
+                    "max": 1
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.eradicatorSquad",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Eradicator Squad",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "INFANTRY",
+                "ERADICATOR SQUAD"
+            ],
+            "points": [
+                {
+                    "name": "Eradicator, Eradicator Sergeant",
+                    "amount": 6,
+                    "cost": 180
+                },
+                {
+                    "name": "Eradicator, Eradicator Sergeant",
+                    "amount": 3,
+                    "cost": 90
+                }
+            ],
+            "blueprints": [
+                {
+                    "name": "Eradicator",
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Melta Rifle"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Multi-melta"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Eradicator Sergeant",
+                    "equipment": [
+                        {
+                            "type": "text"
+                        }
+                    ]
+                }
+            ],
+            "restrictions": [
+                {
+                    "type": "model",
+                    "name": "Eradicator",
+                    "min": 2,
+                    "max": 5
+                },
+                {
+                    "type": "model",
+                    "name": "Eradicator Sergeant",
+                    "min": 1,
+                    "max": 1
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.devastatorSquad",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Devastator Squad",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "INFANTRY",
+                "DEVASTATOR SQUAD"
+            ],
+            "points": [
+                {
+                    "name": "Devastator, Devastator Sergeant",
+                    "amount": 10,
+                    "cost": 200
+                },
+                {
+                    "name": "Devastator, Devastator Sergeant",
+                    "amount": 5,
+                    "cost": 120
+                }
+            ],
+            "blueprints": [
+                {
+                    "name": "Devastator",
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Boltgun"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Grav-cannon"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Heavy Bolter"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Lascannon"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Missile Launcher"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Multi-melta"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Plasma Cannon"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Devastator Sergeant",
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Astartes Chainsword"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Bolt Pistol"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Boltgun"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Combi-weapon"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Grav-pistol"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Plasma Pistol"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Power Fist"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Power Weapon"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Thunder Hammer"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Astartes Chainsword"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Bolt Pistol"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Boltgun"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Combi-weapon"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Grav-pistol"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Plasma Pistol"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Power Fist"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Power Weapon"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Thunder Hammer"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "restrictions": [
+                {
+                    "type": "model",
+                    "name": "Devastator",
+                    "min": 4,
+                    "max": 9
+                },
+                {
+                    "type": "model",
+                    "name": "Devastator Sergeant",
+                    "min": 1,
+                    "max": 1
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.desolationSquad",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Desolation Squad",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "INFANTRY",
+                "DESOLATION SQUAD"
+            ],
+            "points": [
+                {
+                    "name": "Desolation Marine, Desolation Sergeant",
+                    "amount": 5,
+                    "cost": 200
+                }
+            ],
+            "blueprints": [
+                {
+                    "name": "Desolation Marine",
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Superfrag Rocket Launcher"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Superkrak Rocket Launcher"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Desolation Sergeant",
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Superfrag Rocket Launcher"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Superkrak Rocket Launcher"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Vengor Launcher"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "restrictions": [
+                {
+                    "type": "model",
+                    "name": "Desolation Marine",
+                    "min": 4,
+                    "max": 4
+                },
+                {
+                    "type": "model",
+                    "name": "Desolation Sergeant",
+                    "min": 1,
+                    "max": 1
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.firestrike Servo-turrets",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Firestrike Servo-turrets",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "VEHICLE",
+                "FIRESTRIKE SERVO-TURRETS"
+            ],
+            "points": [
+                {
+                    "name": "Firestrike Servo-turret",
+                    "amount": 2,
+                    "cost": 150
+                },
+                {
+                    "name": "Firestrike Servo-turret",
+                    "amount": 1,
+                    "cost": 75
+                }
+            ],
+            "blueprints": [
+                {
+                    "name": "Firestrike Servo-turret",
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Twin Firestrike Las-talon"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Twin Firestrike Autocannon"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "restrictions": [
+                {
+                    "type": "model",
+                    "name": "Firestrike Servo-turret",
+                    "min": 1,
+                    "max": 2
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.hunter",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Hunter",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "VEHICLE",
+                "HUNTER"
+            ],
+            "models": [
+                {
+                    "name": "Hunter",
+                    "points": 100,
+                    "equipment": [
+                        {
+                            "type": "checkbox",
+                            "selected": false
+                        },
+                        {
+                            "type": "checkbox",
+                            "selected": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.whirlwind",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Whirlwind",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "VEHICLE",
+                "WHIRLWIND"
+            ],
+            "models": [
+                {
+                    "name": "Whirlwind",
+                    "points": 190,
+                    "equipment": [
+                        {
+                            "type": "checkbox",
+                            "selected": false
+                        },
+                        {
+                            "type": "checkbox",
+                            "selected": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.predatorDestructor",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Predator Destructor",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "VEHICLE",
+                "PREDATOR DESTRUCTOR"
+            ],
+            "models": [
+                {
+                    "name": "Predator Destructor",
+                    "points": 140,
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "2x Heavy Bolter"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "2x Lascannon"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "checkbox",
+                            "selected": false
+                        },
+                        {
+                            "type": "checkbox",
+                            "selected": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.predatorAnnihilator",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Predator Annihilator",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "VEHICLE",
+                "PREDATOR ANNIHILATOR"
+            ],
+            "models": [
+                {
+                    "name": "Predator Annihilator",
+                    "points": 135,
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "2x Heavy Bolter"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "2x Lascannon"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "checkbox",
+                            "selected": false
+                        },
+                        {
+                            "type": "checkbox",
+                            "selected": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.gladiatorLancer",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Gladiator Lancer",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "VEHICLE",
+                "GLADIATOR LANCER"
+            ],
+            "models": [
+                {
+                    "name": "Gladiator Lancer",
+                    "points": 160,
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "2x Storm Bolter"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "2x Fragstorm Grenade Launcher"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "checkbox",
+                            "selected": false
+                        },
+                        {
+                            "type": "checkbox",
+                            "selected": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.gladiatorReaper",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Gladiator Reaper",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "VEHICLE",
+                "GLADIATOR REAPER"
+            ],
+            "models": [
+                {
+                    "name": "Gladiator Reaper",
+                    "points": 160,
+                    "equipment": [
+                        {
+                            "type": "checkbox",
+                            "selected": false
+                        },
+                        {
+                            "type": "checkbox",
+                            "selected": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.gladiatorValiant",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Gladiator Valiant",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "VEHICLE",
+                "GLADIATOR VALIANT"
+            ],
+            "models": [
+                {
+                    "name": "Gladiator Valiant",
+                    "points": 150,
+                    "equipment": [
+                        {
+                            "type": "checkbox",
+                            "selected": false
+                        },
+                        {
+                            "type": "checkbox",
+                            "selected": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.vindicator",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Vindicator",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "VEHICLE",
+                "VINDICATOR"
+            ],
+            "models": [
+                {
+                    "name": "Vindicator",
+                    "points": 185,
+                    "equipment": [
+                        {
+                            "type": "checkbox",
+                            "selected": false
+                        },
+                        {
+                            "type": "checkbox",
+                            "selected": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.landRaider",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Land Raider",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "VEHICLE",
+                "LAND RAIDER",
+                "VEHICLE"
+            ],
+            "models": [
+                {
+                    "name": "Land Raider",
+                    "points": 220,
+                    "equipment": [
+                        {
+                            "type": "checkbox",
+                            "selected": false
+                        },
+                        {
+                            "type": "checkbox",
+                            "selected": false
+                        },
+                        {
+                            "type": "checkbox",
+                            "selected": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.landRaiderCrusader",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Land Raider Crusader",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "VEHICLE",
+                "LAND RAIDER CRUSADER",
+                "VEHICLE"
+            ],
+            "models": [
+                {
+                    "name": "Land Raider Crusader",
+                    "points": 220,
+                    "equipment": [
+                        {
+                            "type": "checkbox",
+                            "selected": false
+                        },
+                        {
+                            "type": "checkbox",
+                            "selected": false
+                        },
+                        {
+                            "type": "checkbox",
+                            "selected": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.landRaiderRedeemer",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Land Raider Redeemer",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "VEHICLE",
+                "LAND RAIDER REDEEMER",
+                "VEHICLE"
+            ],
+            "models": [
+                {
+                    "name": "Land Raider Redeemer",
+                    "points": 270,
+                    "equipment": [
+                        {
+                            "type": "checkbox",
+                            "selected": false
+                        },
+                        {
+                            "type": "checkbox",
+                            "selected": false
+                        },
+                        {
+                            "type": "checkbox",
+                            "selected": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.repulsor",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Repulsor",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "VEHICLE",
+                "REPULSOR",
+                "VEHICLE"
+            ],
+            "models": [
+                {
+                    "name": "Repulsor",
+                    "points": 180,
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Twin Heavy Bolter"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Twin Lascannon"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Heavy Onslaught Gatling Cannon"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Las-talon"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.repulsorExecutioner",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Repulsor Executioner",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "VEHICLE",
+                "REPULSOR EXECUTIONER",
+                "VEHICLE"
+            ],
+            "models": [
+                {
+                    "name": "Repulsor Executioner",
+                    "points": 230,
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Macro Plasma Incinerator"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Heavy Laser Destroyer"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "checkbox",
+                            "selected": false
+                        },
+                        {
+                            "type": "checkbox",
+                            "selected": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.rhino",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Rhino",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "VEHICLE",
+                "RHINO",
+                "VEHICLE"
+            ],
+            "models": [
+                {
+                    "name": "Rhino",
+                    "points": 75,
+                    "equipment": [
+                        {
+                            "type": "checkbox",
+                            "selected": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.razorback",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Razorback",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "VEHICLE",
+                "RAZORBACK",
+                "VEHICLE"
+            ],
+            "models": [
+                {
+                    "name": "Razorback",
+                    "points": 95,
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Twin Lascannon"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Twin Assault Cannon"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "checkbox",
+                            "selected": false
+                        },
+                        {
+                            "type": "checkbox",
+                            "selected": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.impulsor",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Impulsor",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "VEHICLE",
+                "IMPULSOR",
+                "VEHICLE"
+            ],
+            "models": [
+                {
+                    "name": "Impulsor",
+                    "points": 80,
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "2x Storm Bolter"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "2x Fragstorm Grenade Launcher"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "checkbox",
+                            "selected": false
+                        },
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Bellicatus Missile Array"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Ironhail Skytalon Array"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Orbital Comms Array"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Shield Dome"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.dropPod",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Drop Pod",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "VEHICLE",
+                "DROP POD"
+            ],
+            "models": [
+                {
+                    "name": "Drop Pod",
+                    "points": 70,
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Storm Bolter"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Deathwind Launcher"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.stormhawkInterceptor",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Stormhawk Interceptor",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "AIRCRAFT",
+                "STORMHAWK INTERCEPTOR"
+            ],
+            "models": [
+                {
+                    "name": "Stormhawk Interceptor",
+                    "points": 155,
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Skyhammer Missile Launcher"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Twin Heavy Bolter"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Typhoon Missile Launcher"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Las-talon"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Icarus Stormcannon"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.stormtalonGunship",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Stormtalon Gunship",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "AIRCRAFT",
+                "STORMTALON GUNSHIP"
+            ],
+            "models": [
+                {
+                    "name": "Stormtalon Gunship",
+                    "points": 165,
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Skyhammer Missile Launcher"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Twin Heavy Bolter"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Twin Lascannon"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Typhoon Missile Launcher"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.stormravenGunship",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Stormraven Gunship",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "AIRCRAFT",
+                "STORMRAVEN GUNSHIP"
+            ],
+            "models": [
+                {
+                    "name": "Stormraven Gunship",
+                    "points": 280,
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Twin Assault Cannon"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Twin Heavy Plasma Cannon"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Twin Lascannon"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Typhoon Missile Launcher"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Typhoon Missile Launcher"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Twin Heavy Bolter"
+                                    ],
+                                    "selected": false
+                                },
+                                {
+                                    "items": [
+                                        "Twin Multi-melta"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "checkbox",
+                            "selected": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.hammerfallBunker",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Hammerfall Bunker",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "FORTIFICATION",
+                "HAMMERFALL BUNKER"
+            ],
+            "models": [
+                {
+                    "name": "Hammerfall Bunker",
+                    "points": 175,
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Heavy Bolter Array"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Heavy Flamer Array"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.astraeus",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Astraeus",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "TITANIC",
+                "ASTRAEUS"
+            ],
+            "models": [
+                {
+                    "name": "Astraeus",
+                    "points": 525,
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "2x Astraeus Las-ripper"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "2x Plasma Eradicator"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Twin Heavy Bolter"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Twin Lascannon"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "checkbox",
+                            "items": [
+                                "Ironhail Heavy Stubber"
+                            ],
+                            "selected": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "w40k.10e.sm.unit.thunderhawkGunship",
+            "type": "unit",
+            "rulesetId": "w40k.10e.sm",
+            "name": "Thunderhawk Gunship",
+            "keywords": [
+                "ADEPTUS ASTARTES",
+                "IMPERIUM",
+                "AIRCRAFT",
+                "THUNDERHAWK GUNSHIP"
+            ],
+            "models": [
+                {
+                    "name": "Thunderhawk Gunship",
+                    "points": 840,
+                    "equipment": [
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Thunderhawk Heavy Cannon"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Turbo-laser Destructor"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "dropdown",
+                            "options": [
+                                {
+                                    "items": [
+                                        "Thunderhawk Cluster Bombs"
+                                    ],
+                                    "selected": true
+                                },
+                                {
+                                    "items": [
+                                        "Hellstrike Missile Battery"
+                                    ],
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
