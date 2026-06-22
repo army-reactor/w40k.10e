@@ -17,10 +17,12 @@
             "type": "detachment",
             "rulesetId": "w40k.10e.ck",
             "name": "Traitoris Lance",
+            "dp": 2,
+            "disposition": "PURGE THE FOE",
             "enhancements": [
                 {
                     "name": "Nightmare's Master",
-                    "keywordsMustCombined": ["CHAOS KNIGHTS"],
+                    "keywordsMustCombined": ["CHARACTER, CHAOS KNIGHTS"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "selected": false,
@@ -28,7 +30,7 @@
                 },
                 {
                     "name": "Tyrant's Shadow",
-                    "keywordsMustCombined": ["CHAOS KNIGHTS"],
+                    "keywordsMustCombined": ["CHARACTER, CHAOS KNIGHTS"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "selected": false,
@@ -36,7 +38,7 @@
                 },
                 {
                     "name": "Malevolent Heraldry",
-                    "keywordsMustCombined": ["CHAOS KNIGHTS"],
+                    "keywordsMustCombined": ["CHARACTER, CHAOS KNIGHTS"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "selected": false,
@@ -44,7 +46,7 @@
                 },
                 {
                     "name": "Veil of Medrengard",
-                    "keywordsMustCombined": ["CHAOS KNIGHTS"],
+                    "keywordsMustCombined": ["CHARACTER, CHAOS KNIGHTS"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "selected": false,
@@ -59,10 +61,12 @@
             "type": "detachment",
             "rulesetId": "w40k.10e.ck",
             "name": "Infernal Lance",
+            "dp": 3,
+            "disposition": "PURGE THE FOE",
             "enhancements": [
                 {
                     "name": "Knight Diabolus",
-                    "keywordsMustCombined": ["CHAOS KNIGHTS"],
+                    "keywordsMustCombined": ["CHARACTER, CHAOS KNIGHTS"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "selected": false,
@@ -70,7 +74,7 @@
                 },
                 {
                     "name": "Blasphemous Engine",
-                    "keywordsMustCombined": ["CHAOS KNIGHTS"],
+                    "keywordsMustCombined": ["CHARACTER, CHAOS KNIGHTS"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "selected": false,
@@ -78,7 +82,7 @@
                 },
                 {
                     "name": "Fleshmetal Fusion",
-                    "keywordsMustCombined": ["CHAOS KNIGHTS"],
+                    "keywordsMustCombined": ["CHARACTER, CHAOS KNIGHTS"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "selected": false,
@@ -86,11 +90,11 @@
                 },
                 {
                     "name": "Bestial Aspect",
-                    "keywordsMustCombined": ["CHAOS KNIGHTS"],
+                    "keywordsMustCombined": ["CHARACTER, CHAOS KNIGHTS"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "selected": false,
-                    "points": 20
+                    "points": 30
                 }
             ],
             "additionalDatasheets": [],
@@ -101,10 +105,12 @@
             "type": "detachment",
             "rulesetId": "w40k.10e.ck",
             "name": "Lords of Dread",
+            "dp": 2,
+            "disposition": "PRIORITY ASSETS",
             "enhancements": [
                 {
                     "name": "Throne Mechanicum of Skulls",
-                    "keywordsMustCombined": ["CHAOS KNIGHTS"],
+                    "keywordsMustCombined": ["CHARACTER, CHAOS KNIGHTS"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "selected": false,
@@ -112,7 +118,7 @@
                 },
                 {
                     "name": "Blade of Celerity",
-                    "keywordsMustCombined": ["CHAOS KNIGHTS"],
+                    "keywordsMustCombined": ["CHARACTER, CHAOS KNIGHTS"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "selected": false,
@@ -120,7 +126,7 @@
                 },
                 {
                     "name": "Warp-borne Stalker",
-                    "keywordsMustCombined": ["CHAOS KNIGHTS"],
+                    "keywordsMustCombined": ["CHARACTER, CHAOS KNIGHTS"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "selected": false,
@@ -128,7 +134,7 @@
                 },
                 {
                     "name": "Putrid Carapace",
-                    "keywordsMustCombined": ["CHAOS KNIGHTS"],
+                    "keywordsMustCombined": ["CHARACTER, CHAOS KNIGHTS"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "selected": false,
@@ -136,7 +142,7 @@
                 },
                 {
                     "name": "Mirror of Fates",
-                    "keywordsMustCombined": ["CHAOS KNIGHTS"],
+                    "keywordsMustCombined": ["CHARACTER, CHAOS KNIGHTS"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "selected": false,
@@ -144,7 +150,7 @@
                 },
                 {
                     "name": "Blessing of the Dark Master",
-                    "keywordsMustCombined": ["CHAOS KNIGHTS"],
+                    "keywordsMustCombined": ["CHARACTER, CHAOS KNIGHTS"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "selected": false,
@@ -159,6 +165,8 @@
             "type": "detachment",
             "rulesetId": "w40k.10e.ck",
             "name": "Houndpack Lance",
+            "dp": 2,
+            "disposition": "RECONNAISSANCE",
             "enhancements": [
                 {
                     "name": "Preyslayer's Mantle",
@@ -214,38 +222,24 @@
             "type": "detachment",
             "rulesetId": "w40k.10e.ck",
             "name": "Iconoclast Fiefdom",
+            "dp": 1,
+            "disposition": "TAKE AND HOLD",
             "enhancements": [
                 {
-                    "name": "Profane Altar",
-                    "keywordsMustCombined": ["CHAOS KNIGHTS"],
+                    "name": "Iconclast Idol (Aura)",
+                    "keywordsMustCombined": ["CHARACTER, CHAOS KNIGHTS"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "selected": false,
                     "points": 20
                 },
                 {
-                    "name": "Pave the Way",
-                    "keywordsMustCombined": ["CHAOS KNIGHTS"],
+                    "name": "Cruel Lashmaster (Aura)",
+                    "keywordsMustCombined": ["CHARACTER, CHAOS KNIGHTS"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "selected": false,
-                    "points": 15
-                },
-                {
-                    "name": "Tyrant's Banner",
-                    "keywordsMustCombined": ["CHAOS KNIGHTS"],
-                    "keywordsMustSeparate": [],
-                    "keywordsBlocked": [],
-                    "selected": false,
-                    "points": 5
-                },
-                {
-                    "name": "Diabolical Resilience",
-                    "keywordsMustCombined": ["CHAOS KNIGHTS"],
-                    "keywordsMustSeparate": [],
-                    "keywordsBlocked": [],
-                    "selected": false,
-                    "points": 35
+                    "points": 25
                 }
             ],
             "additionalDatasheets": [
@@ -260,14 +254,72 @@
             "blockedDatasheets": []
         },
         {
+            "id": "w40k.10e.ck.dt.bastionsTyranny",
+            "type": "detachment",
+            "rulesetId": "w40k.10e.ck",
+            "name": "Bastions of Tyranny",
+            "dp": 1,
+            "disposition": "DISRUPTION",
+            "enhancements": [
+                {
+                    "name": "Hate-filled Dominion",
+                    "keywordsMustCombined": ["CHARACTER, CHAOS KNIGHTS"],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 20
+                },
+                {
+                    "name": "Pterrorshade Rookery",
+                    "keywordsMustCombined": ["CHARACTER, CHAOS KNIGHTS"],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 20
+                }
+            ],
+            "additionalDatasheets": [],
+            "blockedDatasheets": []
+        },
+        {
+            "id": "w40k.10e.ck.dt.huntingWarpack",
+            "type": "detachment",
+            "rulesetId": "w40k.10e.ck",
+            "name": "Hunting Warpack",
+            "dp": 1,
+            "disposition": "RECONNAISSANCE",
+            "enhancements": [
+                {
+                    "name": "Snarling Rivalry",
+                    "keywordsMustCombined": ["CHAOS KNIGHTS"],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 10
+                },
+                {
+                    "name": "Soul-spoor Auspicator",
+                    "keywordsMustCombined": ["CHAOS KNIGHTS"],
+                    "keywordsMustSeparate": [],
+                    "keywordsBlocked": [],
+                    "selected": false,
+                    "points": 15
+                }
+            ],
+            "additionalDatasheets": [],
+            "blockedDatasheets": []
+        },
+        {
             "id": "w40k.10e.ck.dt.helhuntLance",
             "type": "detachment",
             "rulesetId": "w40k.10e.ck",
             "name": "Helhunt Lance",
+            "dp": 2,
+            "disposition": "DISRUPTION",
             "enhancements": [
                 {
                     "name": "Hunter's Helm",
-                    "keywordsMustCombined": ["CHAOS KNIGHTS"],
+                    "keywordsMustCombined": ["CHARACTER, CHAOS KNIGHTS"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "selected": false,
@@ -275,7 +327,7 @@
                 },
                 {
                     "name": "Octagram of Conjuration",
-                    "keywordsMustCombined": ["CHAOS KNIGHTS", "KNIGHT ABOMINANT"],
+                    "keywordsMustCombined": ["CHARACTER, CHAOS KNIGHTS", "KNIGHT ABOMINANT"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "selected": false,
@@ -283,7 +335,7 @@
                 },
                 {
                     "name": "Throne Tyrannicus",
-                    "keywordsMustCombined": ["CHAOS KNIGHTS", "TITANIC"],
+                    "keywordsMustCombined": ["CHARACTER, CHAOS KNIGHTS", "TITANIC"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "selected": false,
@@ -291,22 +343,14 @@
                 },
                 {
                     "name": "Aspect of the Beast",
-                    "keywordsMustCombined": ["CHAOS KNIGHTS"],
+                    "keywordsMustCombined": ["CHARACTER, CHAOS KNIGHTS"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "selected": false,
                     "points": 30
                 }
             ],
-            "additionalDatasheets": [
-                "w40k.10e.csm.unit.cultistFirebrand",
-                "w40k.10e.csm.unit.darkCommune",
-                "w40k.10e.csm.unit.traitorEnforcer",
-                "w40k.10e.csm.unit.cultistMob",
-                "w40k.10e.csm.unit.accursedCultists",
-                "w40k.10e.csm.unit.fellgorBeastmen",
-                "w40k.10e.csm.unit.traitorGuardsmen"
-            ],
+            "additionalDatasheets": [],
             "blockedDatasheets": []
         }
     ],
@@ -406,7 +450,7 @@
             "models": [
                 {
                     "name": "War Dog Karnivore",
-                    "points": 150,
+                    "points": 155,
                     "equipment": [
                         {
                             "type": "text",
@@ -514,7 +558,9 @@
             "models": [
                 {
                     "name": "Knight Despoiler",
-                    "points": 390,
+                    "points": 380,
+                    "tax2": 20,
+                    "tax3": 20,
                     "equipment": [
                         {
                             "type": "dropdown",
@@ -529,11 +575,13 @@
                                 },
                                 {
                                     "items": ["Despoiler Gatling Cannon", "Heavy Darkflamer"],
-                                    "selected": false
+                                    "selected": false,
+                                    "points": 25
                                 },
                                 {
                                     "items": ["Despoiler Battle Cannon", "Diabolus Heavy Stubber"],
-                                    "selected": false
+                                    "selected": false,
+                                    "points": 15
                                 }
                             ]
                         },
@@ -550,11 +598,13 @@
                                 },
                                 {
                                     "items": ["Despoiler Gatling Cannon", "Heavy Darkflamer"],
-                                    "selected": false
+                                    "selected": false,
+                                    "points": 25
                                 },
                                 {
                                     "items": ["Despoiler Battle Cannon", "Diabolus Heavy Stubber"],
-                                    "selected": false
+                                    "selected": false,
+                                    "points": 15
                                 }
                             ]
                         },
@@ -602,6 +652,8 @@
                 {
                     "name": "Knight Desecrator",
                     "points": 355,
+                    "tax2": 0,
+                    "tax3": 15,
                     "equipment": [
                         {
                             "type": "text",
@@ -633,7 +685,9 @@
             "models": [
                 {
                     "name": "Knight Ruinator",
-                    "points": 355,
+                    "points": 340,
+                    "tax2": 0,
+                    "tax3": 15,
                     "equipment": [
                         {
                             "type": "text",
@@ -661,6 +715,8 @@
                 {
                     "name": "Knight Rampager",
                     "points": 365,
+                    "tax2": 0,
+                    "tax3": 15,
                     "equipment": [
                         {
                             "type": "text",
@@ -684,6 +740,8 @@
                 {
                     "name": "Knight Abominant",
                     "points": 355,
+                    "tax2": 0,
+                    "tax3": 15,
                     "equipment": [
                         {
                             "type": "text",
@@ -710,7 +768,9 @@
             "models": [
                 {
                     "name": "Knight Tyrant",
-                    "points": 410,
+                    "points": 400,
+                    "tax2": 20,
+                    "tax3": 20,
                     "equipment": [
                         {
                             "type": "dropdown",
@@ -755,7 +815,9 @@
             "models": [
                 {
                     "name": "Acastus Knight Asterius",
-                    "points": 765,
+                    "points": 785,
+                    "tax2": 75,
+                    "tax3": 75,
                     "equipment": [
                         {
                             "type": "text",
@@ -782,7 +844,9 @@
             "models": [
                 {
                     "name": "Acastus Knight Porphyrion",
-                    "points": 700,
+                    "points": 725,
+                    "tax2": 75,
+                    "tax3": 75,
                     "equipment": [
                         {
                             "type": "text",
@@ -831,7 +895,9 @@
             "models": [
                 {
                     "name": "Cerastus Knight Lancer",
-                    "points": 385,
+                    "points": 395,
+                    "tax2": 20,
+                    "tax3": 20,
                     "equipment": [
                         {
                             "type": "text",
@@ -850,7 +916,9 @@
             "models": [
                 {
                     "name": "Cerastus Knight Castigator",
-                    "points": 385,
+                    "points": 370,
+                    "tax2": 15,
+                    "tax3": 15,
                     "equipment": [
                         {
                             "type": "text",
@@ -873,7 +941,9 @@
             "models": [
                 {
                     "name": "Cerastus Knight Acheron",
-                    "points": 385,
+                    "points": 370,
+                    "tax2": 15,
+                    "tax3": 15,
                     "equipment": [
                         {
                             "type": "text",
@@ -901,6 +971,8 @@
                 {
                     "name": "Cerastus Knight Atrapos",
                     "points": 395,
+                    "tax2": 20,
+                    "tax3": 20,
                     "equipment": [
                         {
                             "type": "text",
@@ -924,6 +996,8 @@
                 {
                     "name": "Questoris Knight Magaera",
                     "points": 375,
+                    "tax2": 15,
+                    "tax3": 15,
                     "equipment": [
                         {
                             "type": "text",
@@ -959,7 +1033,9 @@
             "models": [
                 {
                     "name": "Questoris Knight Styrix",
-                    "points": 375,
+                    "points": 365,
+                    "tax2": 15,
+                    "tax3": 15,
                     "equipment": [
                         {
                             "type": "text",
@@ -996,6 +1072,8 @@
                 {
                     "name": "War Dog Moirax",
                     "points": 150,
+                    "tax2": 0,
+                    "tax3": 10,
                     "equipment": [
                         {
                             "type": "dropdown",
