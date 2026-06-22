@@ -22,7 +22,7 @@
             "enhancements": [
                 {
                     "name": "Nightmare's Master",
-                    "keywordsMustCombined": ["CHARACTER, CHAOS KNIGHTS"],
+                    "keywordsMustCombined": ["CHARACTER", "CHAOS KNIGHTS"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "selected": false,
@@ -30,7 +30,7 @@
                 },
                 {
                     "name": "Tyrant's Shadow",
-                    "keywordsMustCombined": ["CHARACTER, CHAOS KNIGHTS"],
+                    "keywordsMustCombined": ["CHARACTER", "CHAOS KNIGHTS"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "selected": false,
@@ -38,7 +38,7 @@
                 },
                 {
                     "name": "Malevolent Heraldry",
-                    "keywordsMustCombined": ["CHARACTER, CHAOS KNIGHTS"],
+                    "keywordsMustCombined": ["CHARACTER", "CHAOS KNIGHTS"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "selected": false,
@@ -46,7 +46,7 @@
                 },
                 {
                     "name": "Veil of Medrengard",
-                    "keywordsMustCombined": ["CHARACTER, CHAOS KNIGHTS"],
+                    "keywordsMustCombined": ["CHARACTER", "CHAOS KNIGHTS"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "selected": false,
@@ -66,7 +66,7 @@
             "enhancements": [
                 {
                     "name": "Knight Diabolus",
-                    "keywordsMustCombined": ["CHARACTER, CHAOS KNIGHTS"],
+                    "keywordsMustCombined": ["CHARACTER", "CHAOS KNIGHTS"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "selected": false,
@@ -74,7 +74,7 @@
                 },
                 {
                     "name": "Blasphemous Engine",
-                    "keywordsMustCombined": ["CHARACTER, CHAOS KNIGHTS"],
+                    "keywordsMustCombined": ["CHARACTER", "CHAOS KNIGHTS"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "selected": false,
@@ -82,7 +82,7 @@
                 },
                 {
                     "name": "Fleshmetal Fusion",
-                    "keywordsMustCombined": ["CHARACTER, CHAOS KNIGHTS"],
+                    "keywordsMustCombined": ["CHARACTER", "CHAOS KNIGHTS"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "selected": false,
@@ -90,7 +90,7 @@
                 },
                 {
                     "name": "Bestial Aspect",
-                    "keywordsMustCombined": ["CHARACTER, CHAOS KNIGHTS"],
+                    "keywordsMustCombined": ["CHARACTER", "CHAOS KNIGHTS"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "selected": false,
@@ -110,7 +110,7 @@
             "enhancements": [
                 {
                     "name": "Throne Mechanicum of Skulls",
-                    "keywordsMustCombined": ["CHARACTER, CHAOS KNIGHTS"],
+                    "keywordsMustCombined": ["CHARACTER", "CHAOS KNIGHTS"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "selected": false,
@@ -118,7 +118,7 @@
                 },
                 {
                     "name": "Blade of Celerity",
-                    "keywordsMustCombined": ["CHARACTER, CHAOS KNIGHTS"],
+                    "keywordsMustCombined": ["CHARACTER", "CHAOS KNIGHTS"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "selected": false,
@@ -126,7 +126,7 @@
                 },
                 {
                     "name": "Warp-borne Stalker",
-                    "keywordsMustCombined": ["CHARACTER, CHAOS KNIGHTS"],
+                    "keywordsMustCombined": ["CHARACTER", "CHAOS KNIGHTS"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "selected": false,
@@ -134,7 +134,7 @@
                 },
                 {
                     "name": "Putrid Carapace",
-                    "keywordsMustCombined": ["CHARACTER, CHAOS KNIGHTS"],
+                    "keywordsMustCombined": ["CHARACTER", "CHAOS KNIGHTS"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "selected": false,
@@ -142,7 +142,7 @@
                 },
                 {
                     "name": "Mirror of Fates",
-                    "keywordsMustCombined": ["CHARACTER, CHAOS KNIGHTS"],
+                    "keywordsMustCombined": ["CHARACTER", "CHAOS KNIGHTS"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "selected": false,
@@ -150,7 +150,7 @@
                 },
                 {
                     "name": "Blessing of the Dark Master",
-                    "keywordsMustCombined": ["CHARACTER, CHAOS KNIGHTS"],
+                    "keywordsMustCombined": ["CHARACTER", "CHAOS KNIGHTS"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "selected": false,
@@ -227,7 +227,7 @@
             "enhancements": [
                 {
                     "name": "Iconclast Idol (Aura)",
-                    "keywordsMustCombined": ["CHARACTER, CHAOS KNIGHTS"],
+                    "keywordsMustCombined": ["CHARACTER", "CHAOS KNIGHTS"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "selected": false,
@@ -235,7 +235,7 @@
                 },
                 {
                     "name": "Cruel Lashmaster (Aura)",
-                    "keywordsMustCombined": ["CHARACTER, CHAOS KNIGHTS"],
+                    "keywordsMustCombined": ["CHARACTER", "CHAOS KNIGHTS"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "selected": false,
@@ -263,7 +263,7 @@
             "enhancements": [
                 {
                     "name": "Hate-filled Dominion",
-                    "keywordsMustCombined": ["CHARACTER, CHAOS KNIGHTS"],
+                    "keywordsMustCombined": ["CHARACTER", "CHAOS KNIGHTS"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "selected": false,
@@ -271,7 +271,7 @@
                 },
                 {
                     "name": "Pterrorshade Rookery",
-                    "keywordsMustCombined": ["CHARACTER, CHAOS KNIGHTS"],
+                    "keywordsMustCombined": ["CHARACTER", "CHAOS KNIGHTS"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "selected": false,
@@ -319,7 +319,7 @@
             "enhancements": [
                 {
                     "name": "Hunter's Helm",
-                    "keywordsMustCombined": ["CHARACTER, CHAOS KNIGHTS"],
+                    "keywordsMustCombined": ["CHARACTER", "CHAOS KNIGHTS"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "selected": false,
@@ -327,7 +327,7 @@
                 },
                 {
                     "name": "Octagram of Conjuration",
-                    "keywordsMustCombined": ["CHARACTER, CHAOS KNIGHTS", "KNIGHT ABOMINANT"],
+                    "keywordsMustCombined": ["CHARACTER", "CHAOS KNIGHTS", "KNIGHT ABOMINANT"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "selected": false,
@@ -335,7 +335,7 @@
                 },
                 {
                     "name": "Throne Tyrannicus",
-                    "keywordsMustCombined": ["CHARACTER, CHAOS KNIGHTS", "TITANIC"],
+                    "keywordsMustCombined": ["CHARACTER", "CHAOS KNIGHTS", "TITANIC"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "selected": false,
@@ -343,7 +343,7 @@
                 },
                 {
                     "name": "Aspect of the Beast",
-                    "keywordsMustCombined": ["CHARACTER, CHAOS KNIGHTS"],
+                    "keywordsMustCombined": ["CHARACTER", "CHAOS KNIGHTS"],
                     "keywordsMustSeparate": [],
                     "keywordsBlocked": [],
                     "selected": false,
